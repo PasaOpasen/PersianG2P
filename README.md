@@ -2,6 +2,11 @@
 
 It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
+## Installation
+```
+pip install PersianG2p
+```
+
 ## Usage 
 
 ```python
