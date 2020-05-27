@@ -2,6 +2,15 @@
 
 It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
+Features of farsi:
+
+* arabic notation
+* the characters have different forms depended on position into word
+* verbs are at the end of sentence
+* no sex
+* no cases
+* adjectives and definitions append to the end of nouns
+
 ## Installation
 ```
 pip install PersianG2p
