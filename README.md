@@ -1,6 +1,6 @@
 # Simple persian (farsi) grapheme-to-phoneme converter
 
-It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) to phonemes text.
+It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
 ## Usage 
 
