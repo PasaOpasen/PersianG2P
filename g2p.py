@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-# /usr/bin/python
+
+
 '''
 By kyubyong park(kbpark.linguist@gmail.com) and Jongseok Kim(https://github.com/ozmig77)
 https://www.github.com/kyubyong/g2p
@@ -48,7 +49,8 @@ class G2p(object):
         self.checkpoint = args.checkpoint
         # load Tihu dictionary as the Persian lexicon
         tihu = {}
-        with open("tihudict.dict") as f:
+        #with open("tihudict.dict") as f:
+        with codecs.open("tihudict.dict", encoding='utf-8', mode='r') as f:    
             for line in f:
                 (key, val) = line.strip('\n').split('\t')
                 tihu[key] = val
