@@ -5,8 +5,9 @@ It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to converti
 ## Usage 
 
 ```python
-from PersianG2p import PersianG2Pconverter
+from PersianG2p import Persian_g2p_converter
 
+PersianG2Pconverter = Persian_g2p_converter()
 
 PersianG2Pconverter.transliterate('سلام')
 # 'salAm'
