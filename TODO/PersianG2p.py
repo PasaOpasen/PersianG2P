@@ -39,14 +39,14 @@ def construct_homograph_dictionary():
 #     print(text)
 #     return text.split()
 
-class G2p(object):
-    def __init__(self, args):
+class PersianG2p(object):
+    def __init__(self, checkpoint):
         super().__init__()
         # self.graphemes = ["<pad>", "<unk>", "</s>"] + list("آئابتثجحخدذرزسشصضطظعغفقلمنهوپچژکگی")
         self.graphemes = hp.graphemes
         self.phonemes = hp.phonemes
         self.g2idx, self.idx2g, self.p2idx, self.idx2p = load_vocab()
-        self.checkpoint = args.checkpoint
+        self.checkpoint = checkpoint
         # load Tihu dictionary as the Persian lexicon
         tihu = {}
         #with open("tihudict.dict") as f:
@@ -167,15 +167,45 @@ class G2p(object):
             prons.extend([" "])
 
         return prons[:-1]
+    
+    
+    def transliterate(self,text):
+        """
+        translate text as grapheme to phoneme
+        method calls transliterate like an epitran method
+        so u can use PersianG2p object like epitran object (as obj.transliterate(txt))
+        """
+        return ''.join(self(text))
 
-TEXT = "زان یار دلنوازم شکریست با شکایت"
-CHECKPOINT = 'logs-01/checkpoint.npy'
+
+
+#usage
+
+#TEXT = "زان یار دلنوازم شکریست با شکایت"
+TEXT = "سلام"
+CHECKPOINT = 'checkpoint.npy'
+
+
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--text', default=TEXT, help='the input character sequence')
-    parser.add_argument('--checkpoint', default=CHECKPOINT, help='the input character sequence')
-    args = parser.parse_args()
-    g2p = G2p(args)
-    out = g2p(args.text)
-    print("".join(symbol for symbol in out))
+    g2p = PersianG2p(CHECKPOINT)
+    out = g2p.transliterate(TEXT)
+    print(out)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
