@@ -1,0 +1,2 @@
+include PersianG2p\data\checkpoint.npy
+include PersianG2p\data\tihudict.dict

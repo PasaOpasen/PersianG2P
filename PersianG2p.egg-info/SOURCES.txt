@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+PersianG2p/G2P.py
+PersianG2p/PersianG2p.py
+PersianG2p/__init__.py
+PersianG2p/__main__.py
+PersianG2p/expand.py
+PersianG2p/hparams.py
+PersianG2p.egg-info/PKG-INFO
+PersianG2p.egg-info/SOURCES.txt
+PersianG2p.egg-info/dependency_links.txt
+PersianG2p.egg-info/requires.txt
+PersianG2p.egg-info/top_level.txt
+PersianG2p/data/checkpoint.npy
+PersianG2p/data/tihudict.dict

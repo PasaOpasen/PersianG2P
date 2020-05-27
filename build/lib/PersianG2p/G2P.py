@@ -12,8 +12,8 @@ import os
 import re
 from builtins import str as unicode
 import hazm
-from expand import normalize_numbers
-from hparams import hp
+from PersianG2p.expand import normalize_numbers
+from PersianG2p.hparams import hp
 
 
 dirname = os.path.dirname(__file__)
@@ -46,8 +46,8 @@ def load_vocab():
 #     print(text)
 #     return text.split()
 
-class PersianG2p(object):
-    def __init__(self, checkpoint):
+class Persian_g2p_converter(object):
+    def __init__(self, checkpoint=os.path.join(dirname,'data/checkpoint.npy')):
         super().__init__()
         # self.graphemes = ["<pad>", "<unk>", "</s>"] + list("آئابتثجحخدذرزسشصضطظعغفقلمنهوپچژکگی")
         self.graphemes = hp.graphemes
@@ -57,7 +57,7 @@ class PersianG2p(object):
         # load Tihu dictionary as the Persian lexicon
         tihu = {}
         #with open("tihudict.dict") as f:
-        with codecs.open("data/tihudict.dict", encoding='utf-8', mode='r') as f:    
+        with codecs.open(os.path.join(dirname,"data/tihudict.dict"), encoding='utf-8', mode='r') as f:    
             for line in f:
                 (key, val) = line.strip('\n').split('\t')
                 tihu[key] = val
@@ -185,10 +185,7 @@ class PersianG2p(object):
         return ''.join(self(text))
 
 
-PersianG2Pconverter = PersianG2p('data/checkpoint.npy')
-
-
-#PersianG2Pconverter.transliterate( "زان یار دلنوازم شکریست با شکایت")
+#Persian_g2p().transliterate( "زان یار دلنوازم شکریست با شکایت")
 
 
 
