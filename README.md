@@ -8,7 +8,7 @@ Features of farsi:
 * the characters have different forms depended on position into word
 * vowels are often not written but pronounced
 * the same symbols have different pronounces
-* non-overlapping vowel sounds
+* no overlap of vowel sounds
 * verbs are at the end of sentence
 * no sex
 * no cases
