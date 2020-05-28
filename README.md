@@ -6,7 +6,10 @@ Features of farsi:
 
 * arabic notation
 * the characters have different forms depended on position into word
-* vowels are often not written but pronounced
+* vowels are often not written but pronounced; for example:
+    * سس pronounces **sos** but written **ss**
+    * من pronounces **man** but written **mn**
+    * سلام pronounces **salām** but written **slām**
 * the same symbols have different pronounces
 * no overlap of vowel sounds
 * verbs are at the end of sentence
