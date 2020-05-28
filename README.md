@@ -10,7 +10,7 @@ Features of farsi:
     * سس pronounces **sos** but written **ss**
     * من pronounces **man** but written **mn**
     * سلام pronounces **salām** but written **slām**
-* the same symbols have different pronounces
+* the same symbols have different pronounces: in the word مو the symbol و pronounces **u**, but in the word میوه this symbol goes after vowel and pronounces **w**
 * no overlap of vowel sounds
 * verbs are at the end of sentence
 * no sex
