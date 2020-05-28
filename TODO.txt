@@ -1,0 +1,3 @@
+replace some latin symbols
+write information about working, dictionary and net into readme
+do fit better

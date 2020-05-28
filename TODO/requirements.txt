@@ -1,6 +1,0 @@
-hazm
-numpy
-Distance
-num2fawords
-inflect
-#torch==1.2.0

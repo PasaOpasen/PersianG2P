@@ -6,16 +6,15 @@ By kyubyong park(kbpark.linguist@gmail.com) and Jongseok Kim(https://github.com/
 https://www.github.com/kyubyong/g2p
 '''
 import nltk
-import argparse
 import numpy as np
 import codecs
 import os
 import re
 from builtins import str as unicode
 import hazm
-from expand import normalize_numbers
-from hparams import hp
-from data_feeder import load_vocab
+from PersianG2p.expand import normalize_numbers
+from PersianG2p.hparams import hp
+
 
 dirname = os.path.dirname(__file__)
 
@@ -28,6 +27,14 @@ def construct_homograph_dictionary():
         homograph2features[headword.lower()] = (pron1.split(), pron2.split(), pos1)
     return homograph2features
 
+def load_vocab():
+    g2idx = {g: idx for idx, g in enumerate(hp.graphemes)}
+    idx2g = {idx: g for idx, g in enumerate(hp.graphemes)}
+
+    p2idx = {p: idx for idx, p in enumerate(hp.phonemes)}
+    idx2p = {idx: p for idx, p in enumerate(hp.phonemes)}
+    return g2idx, idx2g, p2idx, idx2p  # note that g and p mean grapheme and phoneme, respectively.
+
 # def segment(text):
 #     '''
 #     Splits text into `tokens`.
@@ -39,8 +46,8 @@ def construct_homograph_dictionary():
 #     print(text)
 #     return text.split()
 
-class PersianG2p(object):
-    def __init__(self, checkpoint):
+class Persian_g2p_converter(object):
+    def __init__(self, checkpoint=os.path.join(dirname,'data/checkpoint.npy')):
         super().__init__()
         # self.graphemes = ["<pad>", "<unk>", "</s>"] + list("آئابتثجحخدذرزسشصضطظعغفقلمنهوپچژکگی")
         self.graphemes = hp.graphemes
@@ -50,7 +57,7 @@ class PersianG2p(object):
         # load Tihu dictionary as the Persian lexicon
         tihu = {}
         #with open("tihudict.dict") as f:
-        with codecs.open("tihudict.dict", encoding='utf-8', mode='r') as f:    
+        with codecs.open(os.path.join(dirname,"data/tihudict.dict"), encoding='utf-8', mode='r') as f:    
             for line in f:
                 (key, val) = line.strip('\n').split('\t')
                 tihu[key] = val
@@ -178,19 +185,8 @@ class PersianG2p(object):
         return ''.join(self(text))
 
 
+#Persian_g2p().transliterate( "زان یار دلنوازم شکریست با شکایت")
 
-#usage
-
-#TEXT = "زان یار دلنوازم شکریست با شکایت"
-TEXT = "سلام"
-CHECKPOINT = 'checkpoint.npy'
-
-
-
-if __name__ == '__main__':
-    g2p = PersianG2p(CHECKPOINT)
-    out = g2p.transliterate(TEXT)
-    print(out)
 
 
 

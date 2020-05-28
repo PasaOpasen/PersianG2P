@@ -12,11 +12,12 @@ import os
 import re
 from builtins import str as unicode
 import hazm
-from PersianG2p.expand import normalize_numbers
-from PersianG2p.hparams import hp
+from expand import normalize_numbers
+from hparams import hp
 
 
 dirname = os.path.dirname(__file__)
+
 
 def construct_homograph_dictionary():
     f = os.path.join(dirname,'homographs.en')
@@ -26,6 +27,7 @@ def construct_homograph_dictionary():
         headword, pron1, pron2, pos1 = line.strip().split("|")
         homograph2features[headword.lower()] = (pron1.split(), pron2.split(), pos1)
     return homograph2features
+
 
 def load_vocab():
     g2idx = {g: idx for idx, g in enumerate(hp.graphemes)}
@@ -47,13 +49,15 @@ def load_vocab():
 #     return text.split()
 
 class Persian_g2p_converter(object):
-    def __init__(self, checkpoint=os.path.join(dirname,'data/checkpoint.npy')):
+    
+    def __init__(self, checkpoint='checkpoint.npy'):
         super().__init__()
-        # self.graphemes = ["<pad>", "<unk>", "</s>"] + list("آئابتثجحخدذرزسشصضطظعغفقلمنهوپچژکگی")
+        
         self.graphemes = hp.graphemes
         self.phonemes = hp.phonemes
         self.g2idx, self.idx2g, self.p2idx, self.idx2p = load_vocab()
-        self.checkpoint = checkpoint
+        self.checkpoint = os.path.join(dirname,'data',checkpoint)
+        
         # load Tihu dictionary as the Persian lexicon
         tihu = {}
         #with open("tihudict.dict") as f:
@@ -64,6 +68,7 @@ class Persian_g2p_converter(object):
         self.tihu = tihu
         self.load_variables()
         # self.homograph2features = construct_homograph_dictionary()
+
 
     def load_variables(self):
         self.variables = np.load(os.path.join(dirname, self.checkpoint), allow_pickle=True)
@@ -137,9 +142,11 @@ class Persian_g2p_converter(object):
             dec = np.take(self.dec_emb, [pred], axis=0)
 
         preds = [self.idx2p.get(idx, "<unk>") for idx in preds]
+        #print(preds)
         return preds
 
     def __call__(self, text):
+        
         # preprocessing
         text = unicode(text)
         text = normalize_numbers(text)
@@ -156,6 +163,7 @@ class Persian_g2p_converter(object):
         # steps
         prons = []
         for word in words:
+            
             if not any(letter in word for letter in self.graphemes):
                 pron = [word]
 
@@ -166,7 +174,7 @@ class Persian_g2p_converter(object):
             #     else:
             #         pron = pron2
             elif word in self.tihu:  # lookup tihu dict
-                pron = self.tihu[word]
+                pron = [' ', self.tihu[word], ' ']
             else: # predict for oov
                 pron = self.predict(word)
 
@@ -175,18 +183,24 @@ class Persian_g2p_converter(object):
 
         return prons[:-1]
     
+    @staticmethod
+    def convert_from_native_to_good(text):
+        return text.replace('A','ā').replace('S','š')
     
-    def transliterate(self,text):
+    def transliterate(self, text, tidy = True):
         """
         translate text as grapheme to phoneme
         method calls transliterate like an epitran method
         so u can use PersianG2p object like epitran object (as obj.transliterate(txt))
         """
-        return ''.join(self(text))
+        out = ''.join(self(text))
+        if tidy:
+            return Persian_g2p_converter.convert_from_native_to_good(out)
+        return out
 
 
-#Persian_g2p().transliterate( "زان یار دلنوازم شکریست با شکایت")
-
+Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت", tidy = False)
+Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت")
 
 
 
