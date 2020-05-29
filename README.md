@@ -36,7 +36,7 @@ Features of farsi:
 |لذت |lzt |lazt| lezzat|
 |دژ |dʒ |dož| dež|
 |برف |brf |barf| barf|
-|خدا حافظ |xdɒ hɒfz | x o d ā  hāfez| ġermez|
+|خدا حافظ |xdɒ hɒfz | x o d ā  hāfez| xodā hāfez|
 |دمپایی |dmپɒjj |dampāyi| dampāyi|
 |نشستن |nʃstn |nešastan| nešastan|
 |متأسفانه |mtɒʔsfɒnh |motsafe`āne| mota’assefāne|
