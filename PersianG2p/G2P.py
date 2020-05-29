@@ -185,7 +185,7 @@ class Persian_g2p_converter(object):
     
     @staticmethod
     def convert_from_native_to_good(text):
-        return text.replace('A','ā').replace('S','š')
+        return text.replace('A','ā').replace('S','š').replace('C','č').replace('Z','ž').replace('?','`').replace('q','ġ')
     
     def transliterate(self, text, tidy = True):
         """
