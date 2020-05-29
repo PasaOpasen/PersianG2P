@@ -29,7 +29,6 @@ Features of farsi:
 |ساحل |sɒhl |sāhel| sāhel|
 |یخ |jx |yax| yax|
 |لاغر |lɒɣr |lāġar| lāġar|
-|ممنون |mmnvn |mamnun| temsāh|
 |پسته |پsth |peste| peste|
 |مثلث |msls |mosles| mosles|
 |سال ها |sɒl hɒ |sālehā| sālhā|
