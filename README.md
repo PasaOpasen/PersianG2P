@@ -19,6 +19,28 @@ Features of farsi:
 * no cases
 * adjectives and definitions append to the end of nouns
 
+## Comparison with [epitran](https://github.com/dmort27/epitran)
+
+| persian word        | epitran convertion           | PersianG2p conversion  | expected  |
+| -------------: |:-------------:| :-----:| :-----:|
+|سلام |slɒm |salām| salām|
+|ممنون |mmnvn |mamnun| mamnun|
+|خب |xb |xab| xāb|
+|ساحل |sɒhl |sāhel| sāhel|
+|یخ |jx |yax| yax|
+|لاغر |lɒɣr |lāġar| lāġar|
+|ممنون |mmnvn |mamnun| temsāh|
+|پسته |پsth |peste| peste|
+|مثلث |msls |mosles| mosles|
+|سال ها |sɒl hɒ |sālehā| sālhā|
+|لذت |lzt |lazt| lezzat|
+|دژ |dʒ |dož| dež|
+|برف |brf |barf| barf|
+|خدا حافظ |xdɒ hɒfz | x o d ā  hāfez| ġermez|
+|دمپایی |dmپɒjj |dampāyi| dampāyi|
+|نشستن |nʃstn |nešastan| nešastan|
+|متأسفانه |mtɒʔsfɒnh |motsafe`āne| mota’assefāne|
+
 ## Installation
 ```
 pip install PersianG2p
