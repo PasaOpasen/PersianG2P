@@ -21,7 +21,7 @@ Features of farsi:
 
 ## Comparison with [epitran](https://github.com/dmort27/epitran)
 
-[Code](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/russian_to_farsi_trans.py)
+[Code](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/compares.py)
 
 | persian word        | epitran convertion           | PersianG2p conversion  | expected  |
 | -------------: |:-------------:| :-----:| :-----:|
