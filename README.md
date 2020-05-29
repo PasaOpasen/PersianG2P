@@ -54,9 +54,12 @@ from PersianG2p import Persian_g2p_converter
 
 PersianG2Pconverter = Persian_g2p_converter()
 
-PersianG2Pconverter.transliterate('سلام')
-# 'salAm'
+PersianG2Pconverter.transliterate('ما الان درحال بازی بودیم', tidy = False)
+# ' m A   a l A n  darhAl  b A z i   b u d i m '
+
+PersianG2Pconverter.transliterate('ما الان درحال بازی بودیم')
+# ' m ā   a l ā n  darhāl  b ā z i   b u d i m '
 
 PersianG2Pconverter.transliterate('نه تنها یک کلمه')
-# 'n o h t a n h A y e k kalame'
+# ' n o h   t a n h ā   y e k  kalame'
 ```
