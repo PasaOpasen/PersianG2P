@@ -1,5 +1,8 @@
 # Simple persian (farsi) grapheme-to-phoneme converter
 
+[![PyPI
+version](https://badge.fury.io/py/PersianG2p.svg)](https://pypi.org/project/PersianG2p/)
+
 It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
 Features of farsi:
