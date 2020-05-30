@@ -2,7 +2,7 @@ https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65
 
 https://realpython.com/pypi-publish-python-package/
 
-cd 'thisdir'
+cd "C:\Users\qtckp\OneDrive\Рабочий стол\PersianG2P"
 
 python setup.py sdist
 python setup.py bdist_wheel

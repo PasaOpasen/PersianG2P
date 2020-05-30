@@ -12,8 +12,11 @@ import os
 import re
 from builtins import str as unicode
 import hazm
+import json
 from expand import normalize_numbers
 from hparams import hp
+#from PersianG2p.expand import normalize_numbers
+#from PersianG2p.hparams import hp
 
 
 dirname = os.path.dirname(__file__)
@@ -58,13 +61,8 @@ class Persian_g2p_converter(object):
         self.g2idx, self.idx2g, self.p2idx, self.idx2p = load_vocab()
         self.checkpoint = os.path.join(dirname,'data',checkpoint)
         
-        # load Tihu dictionary as the Persian lexicon
-        tihu = {}
-        #with open("tihudict.dict") as f:
-        with codecs.open(os.path.join(dirname,"data/tihudict.dict"), encoding='utf-8', mode='r') as f:    
-            for line in f:
-                (key, val) = line.strip('\n').split('\t')
-                tihu[key] = val
+        with open(os.path.join(dirname,"data/tihudict.json"), "r") as read_file:
+            tihu = json.load(read_file)
         self.tihu = tihu
         self.load_variables()
         # self.homograph2features = construct_homograph_dictionary()
