@@ -19,6 +19,18 @@ Features of farsi:
 * no cases
 * adjectives and definitions append to the end of nouns
 
+## How it works
+
+There is the dictionary with 1867 pairs like (persian word, pronouncing of one). Some of these word (in English): *water, there, feeling, use, people, throw, he, can, highway, was, hall, guarantee, production, sentence, account, god, self, they know, dollar, mind, novel, earthquake, organizing, weapons, personal, martyr, necessity, opinion, french, legal, london, deprived, people, studies, source, fruit, they take, system, the light, are, and, leg, bridge, what, done, do*.
+
+Firstly, your text is **normalized**, after -- **tokenized**. 
+1. If token is not a symbol of arabic alphabet then it does nothing. 
+2. If token is the word from dictionary then it chooses the pronouncing from dictionary.
+3. Otherwise the pronouncing will be predicted by neural net.
+
+If token was a word from dictionary then it's pronouncing is the word like  t h i s  (spaces between symbols and in the end and begin of word). If the word is continues then it's the predicted word.
+
+
 ## Comparison with [epitran](https://github.com/dmort27/epitran)
 
 [Code](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/compares.py)
