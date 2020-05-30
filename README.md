@@ -28,7 +28,7 @@ Firstly, your text is **normalized**, after --- **tokenized**.
 2. If token is the word from dictionary then it chooses the pronouncing from dictionary.
 3. Otherwise the pronouncing will be predicted by neural net.
 
-If token was a word from dictionary then it's pronouncing is the word like  t h i s  (spaces between symbols and in the end and begin of word). If the word is continues then it's the predicted word.
+If token was a word from dictionary then it's pronouncing is the word like ' t h i s ' (spaces between symbols and in the end and begin of word). If the word is continues then it's the predicted word.
 
 
 ## Comparison with [epitran](https://github.com/dmort27/epitran)
