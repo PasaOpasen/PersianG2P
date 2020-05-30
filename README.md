@@ -23,7 +23,7 @@ Features of farsi:
 
 There is the [dictionary](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/data/tihudict.dict) with 1867 pairs like (persian word, pronouncing of one). Some of these word (in English): *water, there, feeling, use, people, throw, he, can, highway, was, hall, guarantee, production, sentence, account, god, self, they know, dollar, mind, novel, earthquake, organizing, weapons, personal, martyr, necessity, opinion, french, legal, london, deprived, people, studies, source, fruit, they take, system, the light, are, and, leg, bridge, what, done, do*.
 
-Firstly, your text is **normalized**, after --- **tokenized**. 
+Firstly, your text is **normalized** by [hazm](https://github.com/sobhe/hazm), after --- **tokenized**. 
 1. If token is not a symbol of arabic alphabet then it does nothing. 
 2. If token is the word from dictionary then it chooses the pronouncing from dictionary.
 3. Otherwise the pronouncing will be predicted by neural net.
