@@ -11,6 +11,7 @@ Features of farsi:
 * the characters have different forms depended on position into word
 * vowels **a**, **e**, **o** are often not written but pronounced; for example:
     * سس pronounces **sos** but written **ss**
+    * شش pronounces **šeš** but written **šš**
     * من pronounces **man** but written **mn**
     * سلام pronounces **salām** but written **slām**
     * شما pronounces **šomā** but written **šmā**
