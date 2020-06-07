@@ -16,7 +16,7 @@ Features of farsi:
     * سلام pronounces **salām** but written **slām**
     * شما pronounces **šomā** but written **šmā**
     * ممنون pronounces **mamnun** but written **mmnun**
-* the same symbols have different pronounces: in the word مو the symbol و pronounces **u**, but in the word میوه this symbol goes after vowel and pronounces **v**; the word تو pronounses **to** or **tu** depending on the meaning; symbol ه (ha-ye docesm) pronounces like **a** (**e**) in the word نه and like **h** it the word آن ها 
+* the same symbols have different pronounces: in the word مو the symbol و pronounces **u**, but in the word میوه this symbol goes after vowel and pronounces **v**; the word تو pronounses **to** or **tu** depending on the meaning; symbol ه (hā-ye docešm) pronounces like **a** (**e**) in the word نه and like **h** it the word آنها 
 * no overlap of vowel sounds
 * verbs are at the end of sentence
 * no sex
