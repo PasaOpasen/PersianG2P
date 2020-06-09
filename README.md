@@ -79,3 +79,8 @@ PersianG2Pconverter.transliterate('ما الان درحال بازی بودیم'
 PersianG2Pconverter.transliterate('نه تنها یک کلمه')
 # ' n o h   t a n h ā   y e k  kalame'
 ```
+## What can u do better
+
+* Fit better model (with another hyperparams or bigger dictionary)
+
+* Add many new words into [dictionary](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/data/tihudict.dict). If u want, I will write Python/C# script for this task or even create Telegram bot
