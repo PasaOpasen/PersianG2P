@@ -90,7 +90,7 @@ Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریس�
 PersianG2Pconverter.transliterate('نه تنها یک کلمه')
 # ' n o h   t a n h ā   y e k  kalame'
 
-#object() and object.transliterate() are equal
+#object() and object.transliterate() are equal if they have same arguments
 PersianG2Pconverter('نه تنها یک کلمه', secret = True)
 # 'noh tanhA yek kalame'
 
