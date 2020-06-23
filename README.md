@@ -34,6 +34,14 @@ Firstly, your text is **normalized** by [hazm](https://github.com/sobhe/hazm), a
 
 If token was a word from dictionary then it's pronouncing is the word like ' t h i s ' (spaces between symbols and in the end and begin of word). If the word is continues then it's the predicted word. U can disable this option by setting ```secret = True```.
 
+## 'Tidy' argument
+
+| persian symbols | sound (tidy = False) |sound (tidy = True)|
+| -------------: |:-------------:| :-----:|
+|آ|A|ā|
+|ش|S|š|
+|ژ|Z|ž|
+|ء، ع|?|`|
 
 ## Comparison with [epitran](https://github.com/dmort27/epitran)
 
