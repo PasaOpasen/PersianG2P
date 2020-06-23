@@ -6,6 +6,7 @@ PersianG2p/G2P.py
 PersianG2p/__init__.py
 PersianG2p/__main__.py
 PersianG2p/compares.py
+PersianG2p/describe_dictionary.py
 PersianG2p/expand.py
 PersianG2p/hparams.py
 PersianG2p/russian_to_farsi_trans.py
@@ -16,3 +17,4 @@ PersianG2p.egg-info/requires.txt
 PersianG2p.egg-info/top_level.txt
 PersianG2p/data/checkpoint.npy
 PersianG2p/data/tihudict.dict
+PersianG2p/data/tihudict.json

@@ -1,5 +1,4 @@
-nltk
-numpy
 hazm
 inflect
 num2fawords
+numpy

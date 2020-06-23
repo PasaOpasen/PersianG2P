@@ -12,8 +12,12 @@ import os
 import re
 from builtins import str as unicode
 import hazm
+import json
+#from expand import normalize_numbers
+#from hparams import hp
 from PersianG2p.expand import normalize_numbers
 from PersianG2p.hparams import hp
+#from farsi_tools import standardize_persian_text
 
 
 dirname = os.path.dirname(__file__)
@@ -58,13 +62,8 @@ class Persian_g2p_converter(object):
         self.g2idx, self.idx2g, self.p2idx, self.idx2p = load_vocab()
         self.checkpoint = os.path.join(dirname,'data',checkpoint)
         
-        # load Tihu dictionary as the Persian lexicon
-        tihu = {}
-        #with open("tihudict.dict") as f:
-        with codecs.open(os.path.join(dirname,"data/tihudict.dict"), encoding='utf-8', mode='r') as f:    
-            for line in f:
-                (key, val) = line.strip('\n').split('\t')
-                tihu[key] = val
+        with open(os.path.join(dirname,"data/tihudict.json"), "r") as read_file:
+            tihu = json.load(read_file)
         self.tihu = tihu
         self.load_variables()
         # self.homograph2features = construct_homograph_dictionary()
@@ -145,7 +144,7 @@ class Persian_g2p_converter(object):
         #print(preds)
         return preds
 
-    def __call__(self, text):
+    def __call__(self, text, tidy = False, secret = False):
         
         # preprocessing
         text = unicode(text)
@@ -174,34 +173,36 @@ class Persian_g2p_converter(object):
             #     else:
             #         pron = pron2
             elif word in self.tihu:  # lookup tihu dict
-                pron = [' ', self.tihu[word], ' ']
+                pron = [self.tihu[word].replace(' ','')] if secret else [' ', self.tihu[word], ' ']
             else: # predict for oov
                 pron = self.predict(word)
 
             prons.extend(pron)
             prons.extend([" "])
 
-        return prons[:-1]
+        result = ''.join(prons[:-1])
+        
+        if tidy:
+            return Persian_g2p_converter.convert_from_native_to_good(result)
+        
+        return result
     
     @staticmethod
     def convert_from_native_to_good(text):
-        return text.replace('A','ā').replace('S','š').replace('C','č').replace('Z','ž').replace('?','`').replace('q','ġ')
+        return text.replace('A','ā').replace('S','š').replace('C','č').replace('Z','ž').replace('?','`')#.replace('q','ġ')
     
-    def transliterate(self, text, tidy = True):
+    def transliterate(self, text, tidy = True, secret = False):
         """
         translate text as grapheme to phoneme
         method calls transliterate like an epitran method
         so u can use PersianG2p object like epitran object (as obj.transliterate(txt))
         """
-        out = ''.join(self(text))
-        if tidy:
-            return Persian_g2p_converter.convert_from_native_to_good(out)
-        return out
+        return self(text,tidy,secret)
 
 
 Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت", tidy = False)
 Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت")
-
+Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت", secret = True)
 
 
 

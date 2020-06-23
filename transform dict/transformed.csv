@@ -1,0 +1,3452 @@
+,0,1,2,3,4
+0,آ,ɒː,آ,A,A
+1,آب,ɑː b,آب,Water,A b
+2,آب,ɒː b,آب,Water,A b
+3,آب,ɔː b,آب,Water,A b
+4,آبان,ɒː b ɒː n,آبان,Aban,A b A n
+5,آبشار,ɑː b ʃ ɑː ɾ,آبشار,Waterfall,A b S A r
+6,آبشار,ɒː b ʃ ɒː ɾ,آبشار,Waterfall,A b S A r
+7,آبشار,ɔː b ʃ ɔː ɾ,آبشار,Waterfall,A b S A r
+8,آبلیمو,ɒː b l iː m uː,آبلیمو,Lemon juice,A b l i m A
+9,آبنوس,ɒː b n uː s,آبنوس,Ebony,A b n A s
+10,آبگینه,ʔ ɒː b ɡ iː n e,آبگینه,Articles,A b ɡ i n e
+11,آبگینه,ʔ ɒː b ɡ iː n æ,آبگینه,Articles,A b ɡ i n a
+12,آتش,ɑː tʰ a ʃ,آتش,Fire,A t a S
+13,آتش,ɒː tʰ a ʃ,آتش,Fire,A t a S
+14,آتش,ɒː tʰ æ ʃ,آتش,Fire,A t a S
+15,آتش,ɔː tʰ a ʃ,آتش,Fire,A t a S
+16,آخ,ɒː χ,آخ,Ouch,A χ
+17,آخر,ɒː x æ ɾ,آخر,End,A x a r
+18,آخور,ʔ ɒː x o ɾ,آخور,Feeding,A x o r
+19,آخور,ʔ ɒː xʷ æ ɾ,آخور,Feeding,A x a r
+20,آدم,ɒː d æ m,آدم,human,A d a m
+21,آدم‌ها,ɒː d æ m h ɒː,آدمها,People,A d a m h A
+22,آدینه,ɑː d iː n a,آدینه,Friday,A d i n a
+23,آدینه,ɒː d iː n a,آدینه,Friday,A d i n a
+24,آدینه,ɒː d iː n e,آدینه,Friday,A d i n e
+25,آدینه,ɔː d i n a,آدینه,Friday,A d i n a
+26,آذر,ɒː z æ ɾ,آذر,Fire,A z a r
+27,آذرخش,ɒː z æ ɾ æ x ʃ,آذرخش,Lightning,A z a r a x S
+28,آذرخش,ɒː ð æ ɾ æ x ʃ,آذرخش,Lightning,A ð a r a x S
+29,آذرخش,ɒː ð ɾ æ x ʃ,آذرخش,Lightning,A ð r a x S
+30,آرامی,ɒː ɾ ɒː m iː,آرامی,Slowly,A r A m i
+31,آرایش,ɑː ɾ ɑː j i ʃ,آرایش,Makeup,A r A y i S
+32,آرایش,ɒː ɾ ɒː j e ʃ,آرایش,Makeup,A r A y e S
+33,آرایش,ɒː ɾ ɒː j ɪ ʃ,آرایش,Makeup,A r A y i S
+34,آرایش,ɔː ɾ ɔː j i ʃ,آرایش,Makeup,A r A y i S
+35,آرزو,ʔ ɒː ɾ e z uː,آرزو,Wish,A r e z A
+36,آرژانتین,ɒː ɾ ʒ ɒː n t iː n,آرژانتین,Argentina,A r ʒ A n t i n
+37,آری,ɑː ɾ eː,آری,Yes.,A r eː
+38,آری,ɒː ɾ eː,آری,Yes.,A r eː
+39,آری,ɒː ɾ iː,آری,Yes.,A r i
+40,آری,ɔː ɾ e,آری,Yes.,A r e
+41,آزردن,ɒː z o ɾ d æ n,آزردن,Offending,A z o r d a n
+42,آزمایش,ɑː z m ɑː j i ʃ,آزمایش,the experiment,A z m A y i S
+43,آزمایش,ɒː z m ɒː j e ʃ,آزمایش,the experiment,A z m A y e S
+44,آزمایش,ɒː z m ɒː j ɪ ʃ,آزمایش,the experiment,A z m A y i S
+45,آزمایش,ɔː z m ɔː j i ʃ,آزمایش,the experiment,A z m A y i S
+46,آزموده,ɑː z m uː d a,آزموده,Tested,A z m A d a
+47,آزموده,ɒː z m uː d a,آزموده,Tested,A z m A d a
+48,آزموده,ɒː z m uː d e,آزموده,Tested,A z m A d e
+49,آزموده,ɔː z m u d a,آزموده,Tested,A z m u d a
+50,آسان,ɑː s ɑː n,آسان,Easy,A s A n
+51,آسان,ɒː s uː n,آسان,Easy,A s A n
+52,آسان,ɒː s ɒː n,آسان,Easy,A s A n
+53,آسان,ɔː s ɔː n,آسان,Easy,A s A n
+54,آستانه,ʔ ɒː s t ɒː n e,آستانه,threshold,A s t A n e
+55,آستانه,ʔ ɒː s t ɒː n æ,آستانه,threshold,A s t A n a
+56,آسمان,ɒː s e m ɒː n,آسمان,the sky,A s e m A n
+57,آسمان,ɒː s m ɒː n,آسمان,the sky,A s m A n
+58,آسیا,ɒː s ɪ j ɒː,آسیا,Asia,A s i y A
+59,آسیاب,ɒː s i j ɒː b,آسیاب,Mill,A s i y A b
+60,آش,ʔ ɒː ʃ,آش,Broth,A S
+61,آشتی,ɒː ʃ t iː,آشتی,Reconciliation,A S t i
+62,آشوب,ɒː ʃ uː b,آشوب,chaos,A S A b
+63,آشوب‌ها,ɒː ʃ uː b h ɒː,آشوبها,Riots,A S A b h A
+64,آغا,ɑː ɣ ɑː,آغا,Sir,A q A
+65,آغا,ɒː ɣ ɒː,آغا,Sir,A q A
+66,آغا,ɔː ɣ ɔː,آغا,Sir,A q A
+67,آغاز,ʔ ɒː ɣ ɒː z,آغاز,the beginning,A q A z
+68,آفریدن,ɒː f æ ɾ iː d æ n,آفریدن,Create,A f a r i d a n
+69,آفرین,ɑː f a ɾ iː n,آفرین,good job,A f a r i n
+70,آفرین,ɒː f a ɾ iː n,آفرین,good job,A f a r i n
+71,آفرین,ɒː f e ɾ iː n,آفرین,good job,A f e r i n
+72,آفرین,ɒː f æ ɾ iː n,آفرین,good job,A f a r i n
+73,آفرین,ɔː f a ɾ i n,آفرین,good job,A f a r i n
+74,آقا,ɑː q ɑː,آقا,Sir,A q A
+75,آقا,ɒː q ɒː,آقا,Sir,A q A
+76,آقا,ɒː ɣ ɒː,آقا,Sir,A q A
+77,آقا,ɔː q ɔː,آقا,Sir,A q A
+78,آلودن,ɒː l uː d æ n,آلودن,Polluting,A l A d a n
+79,آمار,uː m ɒː ɾ,آمار,statistics,A m A r
+80,آمار,ɑː m ɑː ɾ,آمار,statistics,A m A r
+81,آمار,ɒː m ɒː ɾ,آمار,statistics,A m A r
+82,آمار,ɔː m ɔː ɾ,آمار,statistics,A m A r
+83,آمارگر,ʔ ɒː m ɒː ɾ ɡ æ ɾ,آمارگر,Statistician,A m A r ɡ a r
+84,آمدن,uː m æ d æ n,آمدن,Coming,A m a d a n
+85,آمدن,ɑː m a d a n,آمدن,Coming,A m a d a n
+86,آمدن,ɒː m a d a n,آمدن,Coming,A m a d a n
+87,آمدن,ɒː m æ d æ n,آمدن,Coming,A m a d a n
+88,آمدن,ɔː m a d a n,آمدن,Coming,A m a d a n
+89,آموختن,ɑː m oː x t a n,آموختن,Learn,A m oː x t a n
+90,آموختن,ɒː m oː x t a n,آموختن,Learn,A m oː x t a n
+91,آموختن,ɒː m uː x t æ n,آموختن,Learn,A m A x t a n
+92,آموختن,ɔː m ɵː x t a n,آموختن,Learn,A m ɵː x t a n
+93,آموزش,uː m uː z e ʃ,آموزش,Education,A m A z e S
+94,آموزش,ɑː m oː z i ʃ,آموزش,Education,A m oː z i S
+95,آموزش,ɒː m oː z ɪ ʃ,آموزش,Education,A m oː z i S
+96,آموزش,ɒː m uː z e ʃ,آموزش,Education,A m A z e S
+97,آموزش,ɔː m ɵː z i ʃ,آموزش,Education,A m ɵː z i S
+98,آموزگار,ɑː m oː z ɡ ɑː ɾ,آموزگار,Tutors,A m oː z ɡ A r
+99,آموزگار,ɒː m oː z ɡ ɒː ɾ,آموزگار,Tutors,A m oː z ɡ A r
+100,آموزگار,ɒː m uː z ɡ ɒː ɾ,آموزگار,Tutors,A m A z ɡ A r
+101,آموزگار,ɔː m ɵː z ɡ ɔː ɾ,آموزگار,Tutors,A m ɵː z ɡ A r
+102,آمیختن,ʔ ɒː m eː x t æ n,آمیختن,Interlaced,A m eː x t a n
+103,آمیختن,ʔ ɒː m iː x t æ n,آمیختن,Interlaced,A m i x t a n
+104,آمیزش,ɒː m iː z e ʃ,آمیزش,Intercourse,A m i z e S
+105,آن,uː n,آن,It,A n
+106,آن,ɑː n,آن,It,A n
+107,آن,ɒː n,آن,It,A n
+108,آن,ɔː n,آن,It,A n
+109,آنجا,uː n d ʒ ɒː,آنجا,There,A n j A
+110,آنجا,ɑː n d ʒ ɑː,آنجا,There,A n j A
+111,آنجا,ɒː n d ʒ ɒː,آنجا,There,A n j A
+112,آنجا,ɔː n d ʒ ɔː,آنجا,There,A n j A
+113,آهار,ɑː h ɑː ɾ,آهار,Sizing,A h A r
+114,آهار,ɒː h ɒː ɾ,آهار,Sizing,A h A r
+115,آهار,ɔː h ɔː ɾ,آهار,Sizing,A h A r
+116,آهسته,ɑː h i s t a,آهسته,Slow,A h i s t a
+117,آهسته,ɒː h e s t e,آهسته,Slow,A h e s t e
+118,آهسته,ɒː h ɪ s t a,آهسته,Slow,A h i s t a
+119,آهسته,ɔː h i s t a,آهسته,Slow,A h i s t a
+120,آوازه,ɑː v ɑː z a,آوازه,Reputation,A v A z a
+121,آوازه,ɒː v ɒː z e,آوازه,Reputation,A v A z e
+122,آوازه,ɒː w ɒː z a,آوازه,Reputation,A w A z a
+123,آوازه,ɔː v ɔː z a,آوازه,Reputation,A v A z a
+124,آویختن,ɒː v iː x t æ n,آویختن,Hanging,A v i x t a n
+125,آچار,ɑː t ʃ ɑː ɾ,آچار,Wrench,A t S A r
+126,آچار,ɒː t ʃ ɒː ɾ,آچار,Wrench,A t S A r
+127,آچار,ɔː t ʃ ɔː ɾ,آچار,Wrench,A t S A r
+128,آژیر,ɑː ʔ ʒ iː ɾ,آژیر,Alarm,A ʒ i r
+129,آژیر,ɒː ʒ iː ɾ,آژیر,Alarm,A ʒ i r
+130,آژیر,ɒː ʔ ʒ iː ɾ,آژیر,Alarm,A ʒ i r
+131,آژیر,ɔː ʔ ʒ i ɾ,آژیر,Alarm,A ʒ i r
+132,آکندن,ʔ ɒː k æ n d æ n,آکندن,Filling,A k a n d a n
+133,آینده,ɑː j a n d a,آینده,the future,A y a n d a
+134,آینده,ɒː j a n d a,آینده,the future,A y a n d a
+135,آینده,ɒː j æ n d e,آینده,the future,A y a n d e
+136,آینده,ɔː j a n d a,آینده,the future,A y a n d a
+137,ئەگەر,ɛ ɡ ɛ r,ئەگەر,YەGەR,ɛ ɡ ɛ r
+138,ا,e,ا,Or,e
+139,ا,o,ا,Or,o
+140,ا,æ,ا,Or,a
+141,ا,ɒː,ا,Or,A
+142,ابتکار,e b t e k ɒː ɾ,ابتکار,innovation,e b t e k A r
+143,ابتکار,i b t i k ɑː ɾ,ابتکار,innovation,i b t i k A r
+144,ابتکار,i b t i k ɔː ɾ,ابتکار,innovation,i b t i k A r
+145,ابتکار,ɪ b t ɪ k ɒː ɾ,ابتکار,innovation,i b t i k A r
+146,ابرش,æ b ɾ æ ʃ,ابرش,Spotty,a b r a S
+147,ابرنواختر,æ b æ ɾ n o ʊ æ x t æ ɾ,ابرنواختر,Supernova,a b a r n o ʊ a x t a r
+148,ابری,ʔ æ b ɾ iː,ابری,Cloudy,a b r i
+149,ابریق,e b ɾ iː ɣ,ابریق,Ewer,e b r i q
+150,ابریق,i b ɾ i q,ابریق,Ewer,i b r i q
+151,ابریق,i b ɾ iː q,ابریق,Ewer,i b r i q
+152,ابریق,ɪ b ɾ iː q,ابریق,Ewer,i b r i q
+153,ابری‌ساز,ʔ æ b ɾ iː s ɒː z,ابریساز,Abrysaz,a b r i s A z
+154,ابری‌سازی,ʔ æ b ɾ iː s ɒː z iː,ابریسازی,Abrysazy,a b r i s A z i
+155,ابزار,a b z ɑː ɾ,ابزار,Tool,a b z A r
+156,ابزار,a b z ɒː ɾ,ابزار,Tool,a b z A r
+157,ابزار,a b z ɔː ɾ,ابزار,Tool,a b z A r
+158,ابزار,æ b z ɒː ɾ,ابزار,Tool,a b z A r
+159,اتاق,o tʰ ɒː ɣ,اتاق,room,o t A q
+160,اتفاق,e tː e f ɒː ɣ,اتفاق,Happening,e tː e f A q
+161,اتم,æ t o m,اتم,Atom,a t o m
+162,اتمام,e t m ɒː m,اتمام,end,e t m A m
+163,اتم‌ها,æ t o m h ɒː,اتمها,Atoms,a t o m h A
+164,اثر,æ s æ ɾ,اثر,Effect,a s a r
+165,اجازه,e d ʒ ɒː z e,اجازه,Permission,e j A z e
+166,اجازه,i d ʒ ɑː z a,اجازه,Permission,i j A z a
+167,اجازه,i d ʒ ɔː z a,اجازه,Permission,i j A z a
+168,اجازه,ɪ d ʒ ɒː z a,اجازه,Permission,i j A z a
+169,اجاق,o d ʒ ɒː ɣ,اجاق,Stove,o j A q
+170,احترام,i h t̪ i ɾ ɒː m,احترام,Respect,i h t i r A m
+171,احترام,ɪ h t̪ ɪ ɾ ɒː m,احترام,Respect,i h t i r A m
+172,احمدی‌نژاد,æ h m æ d iː n e ʒ ɒː d,احمدینژاد,Ahmadi Nejad,a h m a d i n e ʒ A d
+173,اخبار,a x b ɑː ɾ,اخبار,News,a x b A r
+174,اخبار,a x b ɒː ɾ,اخبار,News,a x b A r
+175,اخبار,a x b ɔː ɾ,اخبار,News,a x b A r
+176,اخبار,æ x b ɒː ɾ,اخبار,News,a x b A r
+177,اخترمار,æ x t æ ɾ m ɒː ɾ,اخترمار,Akhtrmar,a x t a r m A r
+178,اختصار,e x t e s ɒː ɾ,اختصار,Brevity,e x t e s A r
+179,اختصار,i x t i s ɑː ɾ,اختصار,Brevity,i x t i s A r
+180,اختصار,i x t i s ɔː ɾ,اختصار,Brevity,i x t i s A r
+181,اختصار,ɪ x t ɪ s ɒː ɾ,اختصار,Brevity,i x t i s A r
+182,اختیار,e x t i j ɒː ɾ,اختیار,Authority,e x t i y A r
+183,اختیار,i x t i j ɑː ɾ,اختیار,Authority,i x t i y A r
+184,اختیار,i x t i j ɔː ɾ,اختیار,Authority,i x t i y A r
+185,اختیار,ɪ x t i j ɒː ɾ,اختیار,Authority,i x t i y A r
+186,اخذ,ʔ æ x z,اخذ,Getting,a x z
+187,ادیان,æ d j ɒː n,ادیان,religions,a d y A n
+188,ارادت,e ɾ ɒː d æ t,ارادت,Devotion,e r A d a t
+189,اراده,e ɾ ɒː d e,اراده,Will,e r A d e
+190,اردیبهشت,o ɾ d̪ iː b e h e ʃ t̪ʰ,اردیبهشت,May,o r d̪ i b e h e S tʰ
+191,ارس,ʔ æ ɾ æ s,ارس,Aras,a r a s
+192,ارض,a ɾ z,ارض,Earth,a r z
+193,ارض,æ ɾ z,ارض,Earth,a r z
+194,ارغنون,æ ɾ ɣ æ n uː n,ارغنون,Harmonium,a r q a n A n
+195,ارغوان,a ɾ ɣ a v ɑː n ~ a ɾ ɣ u v ɑː n,ارغوان,Purple,a r q a v A n ~ a r q u v A n
+196,ارغوان,a ɾ ɣ a v ɔː n ~ a ɾ ɣ u v ɔː n,ارغوان,Purple,a r q a v A n ~ a r q u v A n
+197,ارغوان,a ɾ ɣ a w ɒː n ~ a ɾ ɣ ʊ w ɒː n,ارغوان,Purple,a r q a w A n ~ a r q ʊ w A n
+198,ارغوان,æ ɾ ɣ æ v ɒː n ~ æ ɾ ɣ o v ɒː n,ارغوان,Purple,a r q a v A n ~ a r q o v A n
+199,ارگ,o ɾ ɡ,ارگ,Organ,o r ɡ
+200,ارگ,æ ɾ ɡ,ارگ,Organ,a r ɡ
+201,از,æ z,از,From,a z
+202,ازبکستان,o z b æ k e s t ɒː n,ازبکستان,Uzbekistan,o z b a k e s t A n
+203,ازبکستان,u z b a k i s t ɑː n,ازبکستان,Uzbekistan,u z b a k i s t A n
+204,ازبکستان,u z b a k i s t ɔː n,ازبکستان,Uzbekistan,u z b a k i s t A n
+205,ازبکستان,ʊ z b a k ɪ s t ɒː n,ازبکستان,Uzbekistan,ʊ z b a k i s t A n
+206,ازگیل,a z ɡ i l,ازگیل,Medlar,a z ɡ i l
+207,ازگیل,a z ɡ iː l,ازگیل,Medlar,a z ɡ i l
+208,ازگیل,æ z ɡ iː l,ازگیل,Medlar,a z ɡ i l
+209,اسب,ʔ æ s b,اسب,Horse,a s b
+210,استاد,o s t ɒː d,استاد,Professor,o s t A d
+211,استاد,u s t ɑː d,استاد,Professor,u s t A d
+212,استاد,u s t ɔː d,استاد,Professor,u s t A d
+213,استاد,ʊ s t ɒː d,استاد,Professor,ʊ s t A d
+214,استادانه,ʔ o s tʰ ɒː d̪ ɒː n e,استادانه,Masterly,o s t A d̪ A n e
+215,استادانه,ʔ u s tʰ ɑː d̪ ɑː n a,استادانه,Masterly,u s t A d̪ A n a
+216,استادانه,ʔ u s tʰ ɔː d̪ ɔː n a,استادانه,Masterly,u s t A d̪ A n a
+217,استادانه,ʔ ʊ s tʰ ɒː d̪ ɒː n a,استادانه,Masterly,ʊ s t A d̪ A n a
+218,استان,o s tʰ ɒː n,استان,State,o s t A n
+219,استاندار,o s tʰ uː n d ɒː ɾ,استاندار,Governor,o s t A n d A r
+220,استاندار,o s tʰ ɒː n d ɒː ɾ,استاندار,Governor,o s t A n d A r
+221,استخوان,o s t o x ɒ n,استخوان,bone,o s t o x ɒ n
+222,استیون,e s t iː v e n,استیون,Steven,e s t i v e n
+223,اسفناج,e s f e n ɒː d͡ʒ,اسفناج,Spinach,e s f e n A j
+224,اسفند,e s f æ n d̪,اسفند,March,e s f a n d̪
+225,اسلام,ʔ e s l uː m,اسلام,Islam,e s l A m
+226,اسلام,ʔ e s l ɒː m,اسلام,Islam,e s l A m
+227,اسلام,ʔ i s l ɑː m,اسلام,Islam,i s l A m
+228,اسلام,ʔ i s l ɔː m,اسلام,Islam,i s l A m
+229,اسلام,ʔ ɪ s l ɒː m,اسلام,Islam,i s l A m
+230,اسم,e s m,اسم,Asthma,e s m
+231,اسپریس,ʔ e s p æ ɾ eː s,اسپریس,Racecourse,e s p a r eː s
+232,اسپریس,ʔ æ s p æ ɾ eː s,اسپریس,Racecourse,a s p a r eː s
+233,اسپریس,ʔ æ s p ɾ eː s,اسپریس,Racecourse,a s p r eː s
+234,اسپهسالار,ʔ e s p æ h s ɒː l ɒː ɾ,اسپهسالار,Asphsalar,e s p a h s A l A r
+235,اسپهسالار,ʔ ɪ s p æ h s ɒː l ɒː ɾ,اسپهسالار,Asphsalar,i s p a h s A l A r
+236,اسکدار,a s k u d ɑː ɾ,اسکدار,Askdar,a s k u d A r
+237,اسکدار,a s k u d ɔː ɾ,اسکدار,Askdar,a s k u d A r
+238,اسکدار,a s k ʊ d ɒː ɾ,اسکدار,Askdar,a s k ʊ d A r
+239,اسکدار,æ s k o d ɒː ɾ,اسکدار,Askdar,a s k o d A r
+240,اسکندر,e s k æ n d æ ɾ,اسکندر,Alexander,e s k a n d a r
+241,اسکندر,i s k a n d a ɾ,اسکندر,Alexander,i s k a n d a r
+242,اسکندر,ɪ s k a n d a ɾ,اسکندر,Alexander,i s k a n d a r
+243,اشتر,ʔ o ʃ t o ɾ,اشتر,Griffon,o S t o r
+244,اشرج,æ ʃ r æ d ʒ,اشرج,Ashrj,a S r a j
+245,اصلی,æ s l iː,اصلی,Main,a s l i
+246,اضافه,e z ɒː f e,اضافه,Addition,e z A f e
+247,اضافه,i z ɔː f a,اضافه,Addition,i z A f a
+248,اضافه,i ð ɑː f a,اضافه,Addition,i ð A f a
+249,اضافه,ɪ z ɒː f a,اضافه,Addition,i z A f a
+250,اظهار,e z h ɒː ɾ,اظهار,Remark,e z h A r
+251,اظهار,i z h ɑː ɾ,اظهار,Remark,i z h A r
+252,اظهار,i z h ɔː ɾ,اظهار,Remark,i z h A r
+253,اظهار,ɪ z h ɒː ɾ,اظهار,Remark,i z h A r
+254,اعضا,æ ʔ z ɒ,اعضا,parts,a z ɒ
+255,افتخار,e f t e x ɒː ɾ,افتخار,Honor,e f t e x A r
+256,افتخار,i f t i x ɑː ɾ,افتخار,Honor,i f t i x A r
+257,افتخار,i f t i x ɔː ɾ,افتخار,Honor,i f t i x A r
+258,افتخار,ɪ f t ɪ x ɒː ɾ,افتخار,Honor,i f t i x A r
+259,افرنگ,a f ɾ a n ɡ,افرنگ,Afrang,a f r a n ɡ
+260,افرنگ,æ f ɾ æ n ɡ,افرنگ,Afrang,a f r a n ɡ
+261,افسانه,a f s ɑː n a,افسانه,Fiction,a f s A n a
+262,افسانه,a f s ɒː n a,افسانه,Fiction,a f s A n a
+263,افسانه,a f s ɔː n a,افسانه,Fiction,a f s A n a
+264,افسانه,æ f s uː n e,افسانه,Fiction,a f s A n e
+265,افسانه,æ f s ɒː n e,افسانه,Fiction,a f s A n e
+266,افسوس,a f s oː s,افسوس,Alas,a f s oː s
+267,افسوس,a f s ɵː s,افسوس,Alas,a f s ɵː s
+268,افسوس,æ f s uː s,افسوس,Alas,a f s A s
+269,افشردن,æ f ʃ o ɾ d æ n,افشردن,Afshrdn,a f S o r d a n
+270,افطار,e f t ɒː ɾ,افطار,Breakfast,e f t A r
+271,افطار,i f t ɑː ɾ,افطار,Breakfast,i f t A r
+272,افطار,i f t ɔː ɾ,افطار,Breakfast,i f t A r
+273,افطار,ɪ f t ɒː ɾ,افطار,Breakfast,i f t A r
+274,افغان,a f ɣ ɑː n,افغان,Afghan,a f q A n
+275,افغان,a f ɣ ɒː n,افغان,Afghan,a f q A n
+276,افغان,a f ɣ ɔː n,افغان,Afghan,a f q A n
+277,افغان,æ f ɣ ɒː n,افغان,Afghan,a f q A n
+278,افغانستان,ʔ a f ɣ ɑː n i s t ɑː n,افغانستان,Afghanistan,a f q A n i s t A n
+279,افغانستان,ʔ a f ɣ ɒː n ɪ s t ɒː n,افغانستان,Afghanistan,a f q A n i s t A n
+280,افغانستان,ʔ a f ɣ ɔː n i s t ɔː n,افغانستان,Afghanistan,a f q A n i s t A n
+281,افغانستان,ʔ æ f ɣ ɒː n e s t ɒː n,افغانستان,Afghanistan,a f q A n e s t A n
+282,افیون,ʔ æ f j uː n,افیون,Opium,a f y A n
+283,اقرار,e ɣ ɾ ɒː ɾ,اقرار,Confession,e q r A r
+284,اقرار,i q ɾ ɑː ɾ,اقرار,Confession,i q r A r
+285,اقرار,i q ɾ ɔː ɾ,اقرار,Confession,i q r A r
+286,اقرار,ɪ q ɾ ɒː ɾ,اقرار,Confession,i q r A r
+287,اقیانوس,o ɣ j ɒː n uː s,اقیانوس,Ocean,o q y A n A s
+288,البرز,ʔ æ l b o ɾ z,البرز,Alborz,a l b o r z
+289,البرز,ʔ æ l b u ɾ z,البرز,Alborz,a l b u r z
+290,الماس,ʔ æ l m ɒː s,الماس,Diamond,a l m A s
+291,الماس‌ها,æ l m ɒː s h ɒː,الماسها,Diamonds,a l m A s h A
+292,المزده,æ l æ m z æ d e,المزده,Almzdh,a l a m z a d e
+293,الموت,ʔ æ l æ m uː t,الموت,Alamut,a l a m A t
+294,امتحان,e m t e h uː n,امتحان,Exam,e m t e h A n
+295,امتحان,e m t e h ɒː n,امتحان,Exam,e m t e h A n
+296,امتحان,i m t i h ɑː n,امتحان,Exam,i m t i h A n
+297,امتحان,i m t i h ɔː n,امتحان,Exam,i m t i h A n
+298,امتحان,ɪ m t ɪ h ɒː n,امتحان,Exam,i m t i h A n
+299,امروز,e m ɾ uː z,امروز,Today,e m r A z
+300,امروز,i m ɾ oː z,امروز,Today,i m r oː z
+301,امروز,i m ɾ ɵː z,امروز,Today,i m r ɵː z
+302,امروز,ɪ m ɾ oː z,امروز,Today,i m r oː z
+303,امشب,e m ʃ æ b,امشب,Tonight,e m S a b
+304,امضاء,e m z ɒː,امضاء,Signature,e m z A
+305,امید,ʔ o mː iː d,امید,Hope,o mː i d
+306,امید,ʔ u mː e d,امید,Hope,u mː e d
+307,امید,ʔ u mː eː d,امید,Hope,u mː eː d
+308,امید,ʔ ʊ mː eː d,امید,Hope,ʊ mː eː d
+309,امیدیار,ʔ o m iː d y ɒː ɾ,امیدیار,Omidyar,o m i d y A r
+310,امین,æ m iː n,امین,Trustworthy,a m i n
+311,امین‌ها,æ m iː n h ɒː,امینها,Trustworthy,a m i n h A
+312,ان,uː n,ان,It,A n
+313,ان,ɑː n,ان,It,A n
+314,ان,ɒː n,ان,It,A n
+315,ان,ɔː n,ان,It,A n
+316,انار,a n ɑː ɾ,انار,Pomegranate,a n A r
+317,انار,a n ɒː ɾ,انار,Pomegranate,a n A r
+318,انار,a n ɔː ɾ,انار,Pomegranate,a n A r
+319,انار,æ n ɒː ɾ,انار,Pomegranate,a n A r
+320,انار,ɒː n ɒː ɾ,انار,Pomegranate,A n A r
+321,انبار,ʔ æ m b ɒː ɾ,انبار,Store,a m b A r
+322,انتحار,e n t e h ɒː ɾ,انتحار,Suicide,e n t e h A r
+323,انتحار,i n t i h ɑː ɾ,انتحار,Suicide,i n t i h A r
+324,انتحار,i n t i h ɔː ɾ,انتحار,Suicide,i n t i h A r
+325,انتحار,ɪ n t ɪ h ɒː ɾ,انتحار,Suicide,i n t i h A r
+326,انتشار,e n t e ʃ ɒː ɾ,انتشار,Publication,e n t e S A r
+327,انتشار,i n t i ʃ ɑː ɾ,انتشار,Publication,i n t i S A r
+328,انتشار,i n t i ʃ ɔː ɾ,انتشار,Publication,i n t i S A r
+329,انتشار,ɪ n t ɪ ʃ ɒː ɾ,انتشار,Publication,i n t i S A r
+330,انجمن,ʔ æ n d͡ʒ o m æ n,انجمن,Community,a n j o m a n
+331,اندی,æ n d eː,اندی,Andy,a n d eː
+332,انعکاس,e n ʔ e k ɒː s,انعکاس,Reflection,e n e k A s
+333,انفجار,e n f e d ʒ ɒː ɾ,انفجار,Explosion,e n f e j A r
+334,انفجار,i n f i d ʒ ɑː ɾ,انفجار,Explosion,i n f i j A r
+335,انفجار,i n f i d ʒ ɔː ɾ,انفجار,Explosion,i n f i j A r
+336,انفجار,ɪ n f ɪ d ʒ ɒː ɾ,انفجار,Explosion,i n f i j A r
+337,انه,uː n # e,انه,Henin,A n  e
+338,انه,ɑː n # a,انه,Henin,A n  a
+339,انه,ɒː n # a,انه,Henin,A n  a
+340,انه,ɒː n # e,انه,Henin,A n  e
+341,انه,ɔː n # a,انه,Henin,A n  a
+342,انکار,e n k ɒː ɾ,انکار,Denial,e n k A r
+343,انکار,i n k ɑː ɾ,انکار,Denial,i n k A r
+344,انکار,i n k ɔː ɾ,انکار,Denial,i n k A r
+345,انکار,ɪ n k ɒː ɾ,انکار,Denial,i n k A r
+346,انگبین,a n ɡ u b i n ~ a n ɡ a b i n,انگبین,Honey,a n ɡ u b i n ~ a n ɡ a b i n
+347,انگبین,a n ɡ u b iː n ~ a n ɡ a b iː n,انگبین,Honey,a n ɡ u b i n ~ a n ɡ a b i n
+348,انگبین,a n ɡ ʊ b iː n ~ a n ɡ a b iː n,انگبین,Honey,a n ɡ ʊ b i n ~ a n ɡ a b i n
+349,انگبین,æ n ɡ o b iː n ~ æ n ɡ æ b iː n,انگبین,Honey,a n ɡ o b i n ~ a n ɡ a b i n
+350,انگلستان,e n ɡ e l e s t uː n,انگلستان,United Kingdom,e n ɡ e l e s t A n
+351,انگلستان,e n ɡ e l e s t ɒː n,انگلستان,United Kingdom,e n ɡ e l e s t A n
+352,انگلستان,i n ɡ i l i s t ɑː n,انگلستان,United Kingdom,i n ɡ i l i s t A n
+353,انگلستان,i n ɡ i l i s t ɔː n,انگلستان,United Kingdom,i n ɡ i l i s t A n
+354,انگلستان,ɪ n ɡ ɪ l ɪ s t ɒː n,انگلستان,United Kingdom,i n ɡ i l i s t A n
+355,اهریمن,ʔ æ h ɾ iː m æ n,اهریمن,Demon,a h r i m a n
+356,اهواز,æ h w ɒː z,اهواز,Ahvaz,a h w A z
+357,او,oː,او,She,oː
+358,او,uː,او,She,A
+359,او,ɵː,او,She,ɵː
+360,اورشلیم,ʔ o ɾ ʃ æ l iː m,اورشلیم,Jerusalem,o r S a l i m
+361,اورنگ,a v ɾ a n ɡ,اورنگ,Throne,a v r a n ɡ
+362,اورنگ,a w ɾ a n ɡ,اورنگ,Throne,a w r a n ɡ
+363,اورنگ,o w ɾ æ n ɡ,اورنگ,Throne,o w r a n ɡ
+364,اورنگ,oː ɾ æ n ɡ,اورنگ,Throne,oː r a n ɡ
+365,اولی,æ v v æ l iː,اولی,First,a v v a l i
+366,اوکی,o kʰ e j,اوکی,OK,o kʰ e y
+367,اوگاندا,u ɡ ɔː n d ɔː,اوگاندا,Uganda,u ɡ A n d A
+368,اوگاندا,uː ɡ uː n d ɒː,اوگاندا,Uganda,A ɡ A n d A
+369,اوگاندا,uː ɡ ɑː n d ɑː,اوگاندا,Uganda,A ɡ A n d A
+370,اوگاندا,uː ɡ ɒː n d ɒː,اوگاندا,Uganda,A ɡ A n d A
+371,اً,t æ n v i n,اً,Or,t a n v i n
+372,اً,æ n,اً,Or,a n
+373,اپاختر,æ p ɒː x t æ ɾ,اپاختر,Apakhtr,a p A x t a r
+374,اژدها,ʔ æ ʒ d æ h ɒː,اژدها,Dragon,a ʒ d a h A
+375,اگرچه,æ ɡ æ ɾ t ʃ e,اگرچه,Although the,a ɡ a r t S e
+376,ای,e j,ای,Oh you,e y
+377,ای,æ j,ای,Oh you,a y
+378,ایام,ʔ æ j j ɒː m,ایام,Time,a y y A m
+379,ایدون,e d u n,ایدون,Aidun,e d u n
+380,ایدون,eː d uː n,ایدون,Aidun,eː d A n
+381,ایدون,iː d uː n,ایدون,Aidun,i d A n
+382,ایران,e ɾ ɔː n,ایران,Iran,e r A n
+383,ایران,eː ɾ ɑː n,ایران,Iran,eː r A n
+384,ایران,eː ɾ ɒː n,ایران,Iran,eː r A n
+385,ایران,iː ɾ uː n,ایران,Iran,i r A n
+386,ایران,iː ɾ ɒː n,ایران,Iran,i r A n
+387,ایرانی,e ɾ ɔː n # iː,ایرانی,Iranian,e r A n  i
+388,ایرانی,eː ɾ ɑː n # iː,ایرانی,Iranian,eː r A n  i
+389,ایرانی,eː ɾ ɒː n # iː,ایرانی,Iranian,eː r A n  i
+390,ایرانی,iː ɾ uː n # iː,ایرانی,Iranian,i r A n  i
+391,ایرانی,iː ɾ ɒː n # iː,ایرانی,Iranian,i r A n  i
+392,ایرانیان,iː ɾ ɒː n i j ɒː n,ایرانیان,Iranians,i r A n i y A n
+393,ایران‌ویج,e ɾ ɔː n v e d ʒ,ایرانویج,Airyanem Vaejah,e r A n v e j
+394,ایران‌ویج,eː ɾ ɑː n v eː d ʒ,ایرانویج,Airyanem Vaejah,eː r A n v eː j
+395,ایران‌ویج,eː ɾ ɒː n w eː d ʒ,ایرانویج,Airyanem Vaejah,eː r A n w eː j
+396,ایران‌ویج,iː ɾ ɒː n v iː d ʒ,ایرانویج,Airyanem Vaejah,i r A n v i j
+397,ایشان,e ʃ ɔː n,ایشان,They,e S A n
+398,ایشان,eː ʃ ɑː n,ایشان,They,eː S A n
+399,ایشان,eː ʃ ɒː n,ایشان,They,eː S A n
+400,ایشان,iː ʃ uː n,ایشان,They,i S A n
+401,ایشان,iː ʃ ɒː n,ایشان,They,i S A n
+402,ایمان‌دار,i m ɔː n d ɔː ɾ,ایماندار,Believer,i m A n d A r
+403,ایمان‌دار,iː m uː n d ɒː ɾ,ایماندار,Believer,i m A n d A r
+404,ایمان‌دار,iː m ɑː n d ɑː ɾ,ایماندار,Believer,i m A n d A r
+405,ایمان‌دار,iː m ɒː n d ɒː ɾ,ایماندار,Believer,i m A n d A r
+406,با,b ɒː,با,With,b A
+407,بابک,b ɒː b æ k,بابک,Babak,b A b a k
+408,باجی,b ɒː d ʒ iː,باجی,Baji,b A j i
+409,باحال‌تر,b ɒː h ɒː l t æ ɾ,باحالتر,Bahaltr,b A h A l t a r
+410,باحال‌ترین,b ɒː h ɒː l t æ ɾ iː n,باحالترین,The coolest,b A h A l t a r i n
+411,باد,b ɒː d,باد,Wind,b A d
+412,بادرنگ,b ɑː d ɾ a n ɡ,بادرنگ,Cucumbers,b A d r a n ɡ
+413,بادرنگ,b ɒː d ɾ a n ɡ,بادرنگ,Cucumbers,b A d r a n ɡ
+414,بادرنگ,b ɒː d ɾ æ n ɡ,بادرنگ,Cucumbers,b A d r a n ɡ
+415,بادرنگ,b ɔː d ɾ a n ɡ,بادرنگ,Cucumbers,b A d r a n ɡ
+416,بار,b ɒː ɾ,بار,Bar,b A r
+417,باران,b ɒː ɾ ɒː n,باران,Rain,b A r A n
+418,باردار,b ɑː ɾ d ɑː ɾ,باردار,Pregnant,b A r d A r
+419,باردار,b ɒː ɾ d ɒː ɾ,باردار,Pregnant,b A r d A r
+420,باردار,b ɔː ɾ d ɔː ɾ,باردار,Pregnant,b A r d A r
+421,بارش,b ɑː ɾ i ʃ,بارش,Rainfall,b A r i S
+422,بارش,b ɒː ɾ e ʃ,بارش,Rainfall,b A r e S
+423,بارش,b ɒː ɾ ɪ ʃ,بارش,Rainfall,b A r i S
+424,بارش,b ɔː ɾ i ʃ,بارش,Rainfall,b A r i S
+425,باره,b ɒː ɾ e,باره,Regard,b A r e
+426,باره,b ɒː ɾ æ,باره,Regard,b A r a
+427,باروت,b ɒː ɾ uː t,باروت,Gunpowder,b A r A t
+428,بارود,b ɒː ɾ uː d,بارود,Baroud,b A r A d
+429,باریک,b ɒː ɾ iː k,باریک,Narrow,b A r i k
+430,باریک‌تر,b ɒː ɾ iː k t æ ɾ,باریکتر,narrower,b A r i k t a r
+431,باریک‌ترین,b ɒː ɾ iː k t æ ɾ iː n,باریکترین,Thinnest,b A r i k t a r i n
+432,بازار,b ɑː z ɑː ɾ,بازار,Market,b A z A r
+433,بازار,b ɒː z ɒː ɾ,بازار,Market,b A z A r
+434,بازار,b ɔː z ɔː ɾ,بازار,Market,b A z A r
+435,بازیچه,b ɒː z iː t ʃʰ e,بازیچه,Plaything,b A z i t Sʰ e
+436,باستانی,b ɒː s t ɒː n iː,باستانی,Ancient,b A s t A n i
+437,باغ,b ɒː ɣ,باغ,Garden,b A q
+438,باغات,b ɒː ɣ ɒː t̪,باغات,Gardens,b A q A t
+439,باغبان,b ɑː ɣ b ɑː n,باغبان,Gardener,b A q b A n
+440,باغبان,b ɒː ɣ b uː n,باغبان,Gardener,b A q b A n
+441,باغبان,b ɒː ɣ b ɒː n,باغبان,Gardener,b A q b A n
+442,باغبان,b ɔː ɣ b ɔː n,باغبان,Gardener,b A q b A n
+443,باغ‌ها,b ɒː ɣ h ɒː,باغها,gardens,b A q h A
+444,باف,b ɒː f,باف,Dreamer,b A f
+445,بال,b ɒː l,بال,Wing,b A l
+446,بالغ,b ɒː l e ɣ,بالغ,Mature,b A l e q
+447,بام,b ɒː m,بام,Roof,b A m
+448,بامزه,b ɒː m æ z e,بامزه,Funny,b A m a z e
+449,بامزه‌تر,b ɒː m æ z e t æ ɾ,بامزهتر,Funnier,b A m a z e t a r
+450,بامزه‌ترین,b ɒː m æ z e t æ ɾ iː n,بامزهترین,Funniest,b A m a z e t a r i n
+451,بانو,b uː n uː,بانو,Lady,b A n A
+452,بانو,b ɑː n uː,بانو,Lady,b A n A
+453,بانو,b ɒː n uː,بانو,Lady,b A n A
+454,بانو,b ɔː n u,بانو,Lady,b A n u
+455,باژدار,b ɑː ʒ d ɑː ɾ,باژدار,Bazhdar,b A ʒ d A r
+456,باژدار,b ɒː ʒ d ɒː ɾ,باژدار,Bazhdar,b A ʒ d A r
+457,باژدار,b ɔː ʒ d ɔː ɾ,باژدار,Bazhdar,b A ʒ d A r
+458,باید,b ɒː j æ d,باید,Must,b A y a d
+459,بایست,b ɒː j e s t,بایست,Should,b A y e s t
+460,بایستی,b ɒː j æ s t iː,بایستی,Shall,b A y a s t i
+461,بحر,b æ h r,بحر,Measure,b a h r
+462,بحران,b o h ɾ uː n,بحران,Crisis,b o h r A n
+463,بحران,b o h ɾ ɒː n,بحران,Crisis,b o h r A n
+464,بحران,b u h ɾ ɑː n,بحران,Crisis,b u h r A n
+465,بحران,b ɵː h ɾ ɔː n,بحران,Crisis,b ɵː h r A n
+466,بحران,b ʊ h ɾ ɒː n,بحران,Crisis,b ʊ h r A n
+467,بخار,b o x ɒː ɾ,بخار,Steam,b o x A r
+468,بخار,b u x ɑː ɾ,بخار,Steam,b u x A r
+469,بخار,b u x ɔː ɾ,بخار,Steam,b u x A r
+470,بخار,b ʊ x ɒː ɾ,بخار,Steam,b ʊ x A r
+471,بخارا,b o x ɒː ɾ ɒː,بخارا,Bukhara,b o x A r A
+472,بخارا,b ʊ x ɒː ɾ ɒː,بخارا,Bukhara,b ʊ x A r A
+473,بخاطر,b a # x ɑː t i ɾ i,بخاطر,For,b a  x A t i r i
+474,بخاطر,b a # x ɒː t ɪ ɾ ɪ,بخاطر,For,b a  x A t i r i
+475,بخاطر,b a # x ɔː t i ɾ i,بخاطر,For,b a  x A t i r i
+476,بخاطر,b e # x ɒː t e ɾ e,بخاطر,For,b e  x A t e r e
+477,بختر,b e x t æ ɾ,بختر,Bkhtr,b e x t a r
+478,بختیار,b a x t i j ɑː ɾ,بختیار,Bakhtiar,b a x t i y A r
+479,بختیار,b a x t i j ɒː ɾ,بختیار,Bakhtiar,b a x t i y A r
+480,بختیار,b a x t i j ɔː ɾ,بختیار,Bakhtiar,b a x t i y A r
+481,بختیار,b æ x t i j ɒː ɾ,بختیار,Bakhtiar,b a x t i y A r
+482,بد,b æ d,بد,Bad,b a d
+483,بدبخت,b a d b a x t,بدبخت,Miserable,b a d b a x t
+484,بدبخت,b æ d b æ x t,بدبخت,Miserable,b a d b a x t
+485,بدرود,b e d ɾ uː d,بدرود,Goodbye,b e d r A d
+486,بر,b æ ɾ,بر,On,b a r
+487,برخوردار,b æ ɾ x o ɾ d ɒː ɾ,برخوردار,Have,b a r x o r d A r
+488,برخوردار,b æ ɾ x u ɾ d ɒː ɾ,برخوردار,Have,b a r x u r d A r
+489,برخوردار,b æ ɾ xʷ æ ɾ d ɒː ɾ,برخوردار,Have,b a r x a r d A r
+490,بردار,b a ɾ d ɑː ɾ,بردار,Vector,b a r d A r
+491,بردار,b a ɾ d ɒː ɾ,بردار,Vector,b a r d A r
+492,بردار,b a ɾ d ɔː ɾ,بردار,Vector,b a r d A r
+493,بردار,b æ ɾ d ɒː ɾ,بردار,Vector,b a r d A r
+494,بردن,b o ɾ d æ n,بردن,Carry,b o r d a n
+495,بردن,b u ɾ d a n,بردن,Carry,b u r d a n
+496,بردن,b ʊ ɾ d a n,بردن,Carry,b ʊ r d a n
+497,برزیستن,b a r z iː s t æ n,برزیستن,Brzystn,b a r z i s t a n
+498,برس,b o ɾ s,برس,Brush,b o r s
+499,برس,b u ɾ s,برس,Brush,b u r s
+500,برس,b ʊ ɾ s,برس,Brush,b ʊ r s
+501,برنامه,b æ ɾ n ɒː m æ,برنامه,Program,b a r n A m a
+502,برگ,b æ ɾ ɡ,برگ,Leaf,b a r ɡ
+503,بری,b e ɾ e j,بری,Barry,b e r e y
+504,بری,b æ ɾ e j,بری,Barry,b a r e y
+505,بری,b æ ɾ o j,بری,Barry,b a r o y
+506,بریدن,b o ɾ iː d æ n,بریدن,Cut,b o r i d a n
+507,بز,b o z,بز,Goat,b o z
+508,بز,b u z,بز,Goat,b u z
+509,بز,b ʊ z,بز,Goat,b ʊ z
+510,بزاق,b o z ɒː ɣ,بزاق,Saliva,b o z A q
+511,بسنده,b æ s æ n d e,بسنده,Enough,b a s a n d e
+512,بسیار,b e s j ɒː ɾ,بسیار,Very,b e s y A r
+513,بسیار,b i s j ɑː ɾ,بسیار,Very,b i s y A r
+514,بسیار,b i s j ɔː ɾ,بسیار,Very,b i s y A r
+515,بسیار,b ɪ s j ɒː ɾ,بسیار,Very,b i s y A r
+516,بشکه,b o ʃ k e,بشکه,Barrel,b o S k e
+517,بعد,b a ʔ d,بعد,Then,b a d
+518,بعد,b o ʔ d,بعد,Then,b o d
+519,بعد,b oː d,بعد,Then,b oː d
+520,بعد,b u ʔ d,بعد,Then,b u d
+521,بعد,b æ ʔ d,بعد,Then,b a d
+522,بعد,b æː d,بعد,Then,b aː d
+523,بعد,b ɵː ʔ d,بعد,Then,b ɵː d
+524,بعد,b ʊ ʔ d,بعد,Then,b ʊ d
+525,بغداد,b a ɣ d ɑː d,بغداد,Baghdad,b a q d A d
+526,بغداد,b a ɣ d ɒː d,بغداد,Baghdad,b a q d A d
+527,بغداد,b a ɣ d ɔː d,بغداد,Baghdad,b a q d A d
+528,بغداد,b æ ɣ d ɒː d,بغداد,Baghdad,b a q d A d
+529,بفرمایید,b e f æ ɾ m ɒː j iː d,بفرمایید,here you are,b e f a r m A y i d
+530,بلا,b e l ɒː,بلا,Bella,b e l A
+531,بلا,b æ l ɒː,بلا,Bella,b a l A
+532,بلافاصله,b e l ɒː f ɒː s e l e,بلافاصله,Instantly,b e l A f A s e l e
+533,بلال,b a l ɑː l,بلال,Maize,b a l A l
+534,بلال,b a l ɒː l,بلال,Maize,b a l A l
+535,بلال,b a l ɔː l,بلال,Maize,b a l A l
+536,بلال,b æ l ɒː l,بلال,Maize,b a l A l
+537,بلاگ,b l ɒː ɡ,بلاگ,blog,b l A ɡ
+538,بلبل,b o l b o l,بلبل,Nightingale,b o l b o l
+539,بلبل,b u l b u l,بلبل,Nightingale,b u l b u l
+540,بلبل,b ʊ l b ʊ l,بلبل,Nightingale,b ʊ l b ʊ l
+541,بلعیدن,b æ l ʔ iː d æ n,بلعیدن,Swallow,b a l i d a n
+542,بلور,b ɪ l oː ɾ,بلور,Crystal,b i l oː r
+543,بلگ,b æ l ɡ,بلگ,Blog,b a l ɡ
+544,بلی,b a l e,بلی,Yes sir,b a l e
+545,بلی,b a l eː,بلی,Yes sir,b a l eː
+546,بلی,b æ l iː,بلی,Yes sir,b a l i
+547,بم,b ə m,بم,Bass,b ə m
+548,بندر,b æ n d æ ɾ,بندر,Port,b a n d a r
+549,بنگ,b æ ŋ ɡ,بنگ,Bang,b a ŋ ɡ
+550,به,b a,به,CANNNNNNOT,b a
+551,به,b e,به,CANNNNNNOT,b e
+552,به,b e h,به,CANNNNNNOT,b e h
+553,به,b i h,به,CANNNNNNOT,b i h
+554,به,b ɪ h,به,To,b i h
+555,بهار,b a h ɑː ɾ,بهار,CANNNNNNOT,b a h A r
+556,بهار,b a h ɒː ɾ,بهار,Spring,b a h A r
+557,بهار,b a h ɔː ɾ,بهار,CANNNNNNOT,b a h A r
+558,بهار,b æ h ɒː ɾ,بهار,CANNNNNNOT,b a h A r
+559,بهار,b ɒː h ɒː ɾ,بهار,Spring,b A h A r
+560,بهاری,b æ h ɒː ɾ iː,بهاری,Vernal,b a h A r i
+561,بهبود,b e h b uː d,بهبود,Recovery,b e h b A d
+562,بهتان,b o h t u n,بهتان,Vilification,b o h t u n
+563,بهتان,b o h t ɒ n,بهتان,CANNNNNNOT,b o h t ɒ n
+564,بهتر,b e h t a ɾ,بهتر,Better,b e h t a r
+565,بهتر,b e h t æ ɾ,بهتر,Better,b e h t a r
+566,بهتر,b i h t a ɾ,بهتر,Better,b i h t a r
+567,بهتر,b ɪ h t a ɾ,بهتر,Better,b i h t a r
+568,بهترین,b e h t a ɾ i n,بهترین,Best,b e h t a r i n
+569,بهترین,b e h t æ ɾ iː n,بهترین,CANNNNNNOT,b e h t a r i n
+570,بهترین,b i h t a ɾ iː n,بهترین,CANNNNNNOT,b i h t a r i n
+571,بهترین,b ɪ h t a ɾ iː n,بهترین,CANNNNNNOT,b i h t a r i n
+572,بهشت,b e h e ʃ t,بهشت,CANNNNNNOT,b e h e S t
+573,بهشت,b i h i ʃ t,بهشت,Paradise,b i h i S t
+574,بهشت,b ɪ h ɪ ʃ t,بهشت,CANNNNNNOT,b i h i S t
+575,بهمن,b æ h m æ n,بهمن,Avalanche,b a h m a n
+576,به‌آفرید,b e h # ɒː f e ɾ iː d,بهآفرید,Behafarid,b e h  A f e r i d
+577,به‌آفرید,b e h # ɒː f æ ɾ iː d,بهآفرید,Behafarid,b e h  A f a r i d
+578,به‌آفرید,b e h # ɔː f a ɾ i d,بهآفرید,Behafarid,b e h  A f a r i d
+579,به‌آفرید,b i h # ɑː f a ɾ iː d,بهآفرید,CANNNNNNOT,b i h  A f a r i d
+580,به‌آفرید,b ɪ h # ɒː f a ɾ iː d,بهآفرید,Behafarid,b i h  A f a r i d
+581,بو,b uː j,بو,Odor,b A y
+582,بو,b ɵː j,بو,CANNNNNNOT,b ɵː y
+583,بوته,b oː t æ,بوته,Bush,b oː t a
+584,بوته,b uː t e,بوته,Bush,b A t e
+585,بوران,b uː ɾ ɒ n,بوران,Squall,b A r ɒ n
+586,بوزه,b oː z æ,بوزه,Bose,b oː z a
+587,بوزه,b uː z e,بوزه,Bose,b A z e
+588,بوستان,b oː s t a n,بوستان,Garden,b oː s t a n
+589,بوستان,b uː s t æ n,بوستان,CANNNNNNOT,b A s t a n
+590,بوستان,b ɵː s t a n,بوستان,CANNNNNNOT,b ɵː s t a n
+591,بوسه,b oː s a,بوسه,CANNNNNNOT,b oː s a
+592,بوسه,b uː s e,بوسه,CANNNNNNOT,b A s e
+593,بوسه,b ɵː s a,بوسه,CANNNNNNOT,b ɵː s a
+594,بوسیدن,b oː s iː d æ n,بوسیدن,CANNNNNNOT,b oː s i d a n
+595,بوسیدن,b uː s iː d æ n,بوسیدن,CANNNNNNOT,b A s i d a n
+596,بون,b uː n,بون,CANNNNNNOT,b A n
+597,بوییدن,b u # j i d a n,بوییدن,CANNNNNNOT,b u  y i d a n
+598,بوییدن,b uː # j iː d a n,بوییدن,CANNNNNNOT,b A  y i d a n
+599,بوییدن,b uː # j iː d æ n,بوییدن,CANNNNNNOT,b A  y i d a n
+600,بچه,b a t t ʃ a ~ b a t ʃ a,بچه,CANNNNNNOT,b a t t S a ~ b a t S a
+601,بچه,b e t ʃ e,بچه,CANNNNNNOT,b e t S e
+602,بچه,b e tː ʃ e,بچه,CANNNNNNOT,b e tː S e
+603,بچه,b æ t t ʃ e ~ b æ t ʃ e,بچه,CANNNNNNOT,b a t t S e ~ b a t S e
+604,بچگی,b a t t ʃ a # ɡ iː,بچگی,CANNNNNNOT,b a t t S a  ɡ i
+605,بچگی,b æ t t ʃ e # ɡ iː,بچگی,CANNNNNNOT,b a t t S e  ɡ i
+606,بژ,b e ʒ,بژ,CANNNNNNOT,b e ʒ
+607,بی,b e,بی,CANNNNNNOT,b e
+608,بی,b eː,بی,CANNNNNNOT,b eː
+609,بی,b iː,بی,CANNNNNNOT,b i
+610,بیابان,b ɪ j ɒː b ɒ n,بیابان,CANNNNNNOT,b i y A b ɒ n
+611,بیابان,b ɪ j ɒː b ɒː n,بیابان,CANNNNNNOT,b i y A b A n
+612,بیدادی,b eː d ɒː d iː,بیدادی,CANNNNNNOT,b eː d A d i
+613,بیدادی,b iː d ɒː d iː,بیدادی,CANNNNNNOT,b i d A d i
+614,بیرون,b iː ɾ uː n,بیرون,CANNNNNNOT,b i r A n
+615,بیرونی,b eː ɾ uː n iː,بیرونی,CANNNNNNOT,b eː r A n i
+616,بیرونی,b iː ɾ uː n iː,بیرونی,CANNNNNNOT,b i r A n i
+617,بیشتر,b e ʃ t a ɾ,بیشتر,CANNNNNNOT,b e S t a r
+618,بیشتر,b eː ʃ t a ɾ,بیشتر,CANNNNNNOT,b eː S t a r
+619,بیشتر,b iː ʃ t æ ɾ,بیشتر,CANNNNNNOT,b i S t a r
+620,بیشه,b e ʃ a,بیشه,CANNNNNNOT,b e S a
+621,بیشه,b eː ʃ a,بیشه,CANNNNNNOT,b eː S a
+622,بیشه,b iː ʃ e,بیشه,CANNNNNNOT,b i S e
+623,بیل,b eː l,بیل,CANNNNNNOT,b eː l
+624,بیل,b iː l,بیل,CANNNNNNOT,b i l
+625,بیمار,b e m ɔː ɾ,بیمار,CANNNNNNOT,b e m A r
+626,بیمار,b eː m ɑː ɾ,بیمار,CANNNNNNOT,b eː m A r
+627,بیمار,b eː m ɒː ɾ,بیمار,CANNNNNNOT,b eː m A r
+628,بیمار,b iː m ɒː ɾ,بیمار,CANNNNNNOT,b i m A r
+629,بیمارتر,b iː m ɒː ɾ t æ ɾ,بیمارتر,CANNNNNNOT,b i m A r t a r
+630,بیمارترین,b iː m ɒː ɾ t æ ɾ iː n,بیمارترین,CANNNNNNOT,b i m A r t a r i n
+631,بیمارستان,b e m ɔː ɾ i s t ɔː n,بیمارستان,CANNNNNNOT,b e m A r i s t A n
+632,بیمارستان,b eː m ɑː ɾ i s t ɑː n,بیمارستان,CANNNNNNOT,b eː m A r i s t A n
+633,بیمارستان,b eː m ɒː ɾ ɪ s t ɒː n,بیمارستان,CANNNNNNOT,b eː m A r i s t A n
+634,بیمارستان,b iː m ɒː ɾ e s t uː n,بیمارستان,CANNNNNNOT,b i m A r e s t A n
+635,بیمارستان,b iː m ɒː ɾ e s t ɒː n,بیمارستان,CANNNNNNOT,b i m A r e s t A n
+636,بین,b a j n,بین,CANNNNNNOT,b a y n
+637,بین,b e j n,بین,CANNNNNNOT,b e y n
+638,بین,b e n,بین,CANNNNNNOT,b e n
+639,بین,b eː n,بین,CANNNNNNOT,b eː n
+640,بین,b i n,بین,CANNNNNNOT,b i n
+641,بین,b iː n,بین,CANNNNNNOT,b i n
+642,بینی,b i n iː,بینی,CANNNNNNOT,b i n i
+643,بینی,b iː n iː,بینی,CANNNNNNOT,b i n i
+644,بیور,b eː w æ ɾ,بیور,CANNNNNNOT,b eː w a r
+645,بیور,b iː v æ ɾ,بیور,CANNNNNNOT,b i v a r
+646,بیچاره,b e t ʃ ɔː ɾ a,بیچاره,CANNNNNNOT,b e t S A r a
+647,بیچاره,b eː t ʃ ɑː ɾ a,بیچاره,CANNNNNNOT,b eː t S A r a
+648,بیچاره,b eː t ʃ ɒː ɾ a,بیچاره,CANNNNNNOT,b eː t S A r a
+649,بیچاره,b iː t ʃ ɒː ɾ e,بیچاره,CANNNNNNOT,b i t S A r e
+650,بیژن,b eː ʒ a n,بیژن,CANNNNNNOT,b eː ʒ a n
+651,بیژن,b iː ʒ æ n,بیژن,CANNNNNNOT,b i ʒ a n
+652,بیگانه,b iː ɡ ɒː n e,بیگانه,CANNNNNNOT,b i ɡ A n e
+653,بی‌شمار,b iː ʃ o m ɒː ɾ,بیشمار,CANNNNNNOT,b i S o m A r
+654,بی‌نظیر,b iː n æ z iː ɾ,بینظیر,CANNNNNNOT,b i n a z i r
+655,بی‌هوش,b e h ɵː ʃ,بیهوش,CANNNNNNOT,b e h ɵː S
+656,بی‌هوش,b eː h oː ʃ,بیهوش,CANNNNNNOT,b eː h oː S
+657,بی‌هوش,b iː h uː ʃ,بیهوش,CANNNNNNOT,b i h A S
+658,بی‌وقفه,b eː w æ q f æ,بیوقفه,CANNNNNNOT,b eː w a q f a
+659,بی‌وقفه,b iː v æ ɣ f e,بیوقفه,CANNNNNNOT,b i v a q f e
+660,بەت,b æː t,بەت,CANNNNNNOT,b aː t
+661,تا,tʰ ɑː,تا,CANNNNNNOT,t A
+662,تا,tʰ ɒː,تا,CANNNNNNOT,t A
+663,تا,tʰ ɔː,تا,CANNNNNNOT,t A
+664,تابستان,t ɑː b i s t ɑː n,تابستان,CANNNNNNOT,t A b i s t A n
+665,تابستان,t ɒː b e s t uː n,تابستان,CANNNNNNOT,t A b e s t A n
+666,تابستان,t ɒː b e s t ɒː n,تابستان,CANNNNNNOT,t A b e s t A n
+667,تابستان,t ɒː b ɪ s t ɒː n,تابستان,CANNNNNNOT,t A b i s t A n
+668,تابستان,t ɔː b i s t ɔː n,تابستان,CANNNNNNOT,t A b i s t A n
+669,تاجور,t ɒː d ʒ v æ ɾ,تاجور,CANNNNNNOT,t A j v a r
+670,تاجور,t ɒː d ʒ w æ ɾ,تاجور,CANNNNNNOT,t A j w a r
+671,تاریخ,t ɑː ɾ iː x,تاریخ,CANNNNNNOT,t A r i x
+672,تاریخ,t ɒː ɾ iː x,تاریخ,CANNNNNNOT,t A r i x
+673,تاریخ,t ɔː ɾ i x,تاریخ,CANNNNNNOT,t A r i x
+674,تاریخچه,t ɑː ɾ iː x t ʃ a,تاریخچه,CANNNNNNOT,t A r i x t S a
+675,تاریخچه,t ɒː ɾ iː x t ʃ a,تاریخچه,CANNNNNNOT,t A r i x t S a
+676,تاریخچه,t ɒː ɾ iː x t ʃ e,تاریخچه,CANNNNNNOT,t A r i x t S e
+677,تاریخچه,t ɔː ɾ i x t ʃ a,تاریخچه,CANNNNNNOT,t A r i x t S a
+678,تاریک‌تر,t ɒː ɾ iː k t æ ɾ,تاریکتر,CANNNNNNOT,t A r i k t a r
+679,تاریک‌ترین,t ɒː ɾ iː k t æ ɾ iː n,تاریکترین,CANNNNNNOT,t A r i k t a r i n
+680,تازه,t ɑː z a,تازه,CANNNNNNOT,t A z a
+681,تازه,t ɒː z a,تازه,CANNNNNNOT,t A z a
+682,تازه,t ɒː z e,تازه,CANNNNNNOT,t A z e
+683,تازه,t ɔː z a,تازه,CANNNNNNOT,t A z a
+684,تازه‌تر,t ɒː z e t æ ɾ,تازهتر,CANNNNNNOT,t A z e t a r
+685,تازه‌ترین,t ɒː z e t æ ɾ iː n,تازهترین,CANNNNNNOT,t A z e t a r i n
+686,تازگی,t ɑː z a # ɡ iː,تازگی,CANNNNNNOT,t A z a  ɡ i
+687,تازگی,t ɒː z a # ɡ iː,تازگی,CANNNNNNOT,t A z a  ɡ i
+688,تازگی,t ɒː z e # ɡ iː,تازگی,CANNNNNNOT,t A z e  ɡ i
+689,تازگی,t ɔː z a # ɡ iː,تازگی,CANNNNNNOT,t A z a  ɡ i
+690,تباه,t a b ɑː h,تباه,CANNNNNNOT,t a b A h
+691,تباه,t a b ɒː h,تباه,CANNNNNNOT,t a b A h
+692,تباه,t a b ɔː h,تباه,CANNNNNNOT,t a b A h
+693,تباه,t æ b ɒː h,تباه,CANNNNNNOT,t a b A h
+694,تباه,t ɒː b ɒː h,تباه,CANNNNNNOT,t A b A h
+695,تجربه,t a d ʒ ɾ u b a ~ t a d ʒ ɾ i b a,تجربه,CANNNNNNOT,t a j r u b a ~ t a j r i b a
+696,تجربه,t a d ʒ ɾ ʊ b a ~ t a d ʒ ɾ ɪ b a,تجربه,CANNNNNNOT,t a j r ʊ b a ~ t a j r i b a
+697,تجربه,t æ d ʒ ɾ o b e ~ t æ d ʒ ɾ e b e,تجربه,CANNNNNNOT,t a j r o b e ~ t a j r e b e
+698,تجربی,t æ d ʒ ɾ o b iː,تجربی,CANNNNNNOT,t a j r o b i
+699,تخته,t æ x t e,تخته,CANNNNNNOT,t a x t e
+700,تخته,t æ x t æ,تخته,CANNNNNNOT,t a x t a
+701,تذرو,t æ z æ ɾ v,تذرو,CANNNNNNOT,t a z a r v
+702,تذرو,t æ ð æ ɾ w,تذرو,CANNNNNNOT,t a ð a r w
+703,ترازو,t a ɾ ɑː z uː,ترازو,CANNNNNNOT,t a r A z A
+704,ترازو,t a ɾ ɒː z uː,ترازو,CANNNNNNOT,t a r A z A
+705,ترازو,t a ɾ ɔː z u,ترازو,CANNNNNNOT,t a r A z u
+706,ترازو,t æ ɾ ɒː z uː,ترازو,CANNNNNNOT,t a r A z A
+707,ترازو,t ɒː ɾ ɒː z uː,ترازو,CANNNNNNOT,t A r A z A
+708,ترسایی,t æ ɾ s ɒː j iː,ترسایی,CANNNNNNOT,t a r s A y i
+709,ترسیدن,t a ɾ s i d a n,ترسیدن,CANNNNNNOT,t a r s i d a n
+710,ترسیدن,t a ɾ s iː d a n,ترسیدن,CANNNNNNOT,t a r s i d a n
+711,ترسیدن,t æ ɾ s iː d æ n,ترسیدن,CANNNNNNOT,t a r s i d a n
+712,ترشی,t o ɾ ʃ iː,ترشی,CANNNNNNOT,t o r S i
+713,ترشی,t u ɾ ʃ iː,ترشی,CANNNNNNOT,t u r S i
+714,ترشی,t ʊ ɾ ʃ iː,ترشی,CANNNNNNOT,t ʊ r S i
+715,ترنج,t o ɾ o n d ʒ,ترنج,CANNNNNNOT,t o r o n j
+716,ترنج,t o ɾ æ n d ʒ,ترنج,CANNNNNNOT,t o r a n j
+717,ترنج,t u ɾ a n d ʒ,ترنج,CANNNNNNOT,t u r a n j
+718,ترنج,t u ɾ u n d ʒ,ترنج,CANNNNNNOT,t u r u n j
+719,ترنج,t ʊ ɾ a n d ʒ,ترنج,CANNNNNNOT,t ʊ r a n j
+720,ترنج,t ʊ ɾ ʊ n d ʒ,ترنج,CANNNNNNOT,t ʊ r ʊ n j
+721,ترکیدن,t æ ɾ æ kʲ iː d æ n,ترکیدن,CANNNNNNOT,t a r a kʲ i d a n
+722,تشکر,t a ʃ a k k u ɾ,تشکر,CANNNNNNOT,t a S a k k u r
+723,تشکر,t a ʃ a k k ʊ ɾ,تشکر,CANNNNNNOT,t a S a k k ʊ r
+724,تشکر,t æ ʃ æ k k o ɾ,تشکر,CANNNNNNOT,t a S a k k o r
+725,تصحیح,t æ s h iː h,تصحیح,CANNNNNNOT,t a s h i h
+726,تعارف,tʰ æ ʔ ɒː ɾ o f,تعارف,CANNNNNNOT,t a A r o f
+727,تعداد,t e ʔ d ɒː d,تعداد,CANNNNNNOT,t e d A d
+728,تعداد,t e ʔ d ɔː d,تعداد,CANNNNNNOT,t e d A d
+729,تعداد,t eː d ɒː d,تعداد,CANNNNNNOT,t eː d A d
+730,تعداد,t i ʔ d ɑː d,تعداد,CANNNNNNOT,t i d A d
+731,تعداد,t ɪ ʔ d ɒː d,تعداد,CANNNNNNOT,t i d A d
+732,تعریف,t a ʔ ɾ i f,تعریف,CANNNNNNOT,t a r i f
+733,تعریف,t a ʔ ɾ iː f,تعریف,CANNNNNNOT,t a r i f
+734,تعریف,t æ ʔ ɾ iː f,تعریف,CANNNNNNOT,t a r i f
+735,تعریف,t æː ɾ iː f,تعریف,CANNNNNNOT,t aː r i f
+736,تعلق,t a ʔ a l l u q,تعلق,CANNNNNNOT,t a a l l u q
+737,تعلق,t a ʔ a l l ʊ q,تعلق,CANNNNNNOT,t a a l l ʊ q
+738,تعلق,t æ æ l l o ɣ,تعلق,CANNNNNNOT,t a a l l o q
+739,تعلق,t æ ʔ æ l l o ɣ,تعلق,CANNNNNNOT,t a a l l o q
+740,تعلیم,t æ ʔ l i m,تعلیم,Teaching,t a l i m
+741,تغییر,t æ ɣ j iː ɾ,تغییر,CANNNNNNOT,t a q y i r
+742,تغییرات,t æ ɣ j iː ɾ ɒː t,تغییرات,CANNNNNNOT,t a q y i r A t
+743,تفریح,t a f ɾ e h,تفریح,Recreation,t a f r e h
+744,تفریح,t a f ɾ iː h,تفریح,CANNNNNNOT,t a f r i h
+745,تفریح,t æ f ɾ iː h,تفریح,Recreation,t a f r i h
+746,تقدیر,t æ ɣ d iː ɾ,تقدیر,CANNNNNNOT,t a q d i r
+747,تقریبا,t æ ɣ ɾ iː b æ n,تقریبا,CANNNNNNOT,t a q r i b a n
+748,تقریباً,t æ ɣ ɾ iː b æ n,تقریباً,Almost,t a q r i b a n
+749,تقصیر,t æ ɣ s iː ɾ,تقصیر,Fault,t a q s i r
+750,تلخ,t æ l x,تلخ,CANNNNNNOT,t a l x
+751,تلویحی,t æ l v iː h iː,تلویحی,Figurative,t a l v i h i
+752,تمام,t æ m ɒː m,تمام,CANNNNNNOT,t a m A m
+753,تمیزتر,t æ m iː z t æ ɾ,تمیزتر,Cleaner,t a m i z t a r
+754,تمیزترین,t æ m iː z t æ ɾ iː n,تمیزترین,CANNNNNNOT,t a m i z t a r i n
+755,تنبان,t o m b ɒ n,تنبان,CANNNNNNOT,t o m b ɒ n
+756,تندیس,t æ n d iː s,تندیس,CANNNNNNOT,t a n d i s
+757,تنیدن,t æ n iː d æ n,تنیدن,Spin,t a n i d a n
+758,تهران,t e h ɾ uː n,تهران,CANNNNNNOT,t e h r A n
+759,تهران,t e h ɾ ɒː n,تهران,Tehran,t e h r A n
+760,تهران,t e h ɾ ɔː n,تهران,Tehran,t e h r A n
+761,تهران,t i h ɾ ɑː n,تهران,Tehran,t i h r A n
+762,تهران,t ɪ h ɾ ɒː n,تهران,CANNNNNNOT,t i h r A n
+763,تهرون,t e h ɾ uː n,تهرون,To Tehran,t e h r A n
+764,تو,t o,تو,CANNNNNNOT,t o
+765,تو,t u,تو,CANNNNNNOT,t u
+766,تو,t uː,تو,CANNNNNNOT,t A
+767,تو,t ʊ,تو,CANNNNNNOT,t ʊ
+768,توجه,t a v a d d ʒ u h,توجه,CANNNNNNOT,t a v a d j u h
+769,توجه,t a v a d d ʒ ɵː h,توجه,Attention,t a v a d j ɵː h
+770,توجه,t a w a d d ʒ ʊ h,توجه,Attention,t a w a d j ʊ h
+771,توجه,t æ v æ d d ʒ o h,توجه,Attention,t a v a d j o h
+772,تور,t o w æ ɾ,تور,CANNNNNNOT,t o w a r
+773,تور,t æ v æ ɾ,تور,Net,t a v a r
+774,توزیع,tʰ o ʊ̯ z iː ʔ,توزیع,CANNNNNNOT,t o ʊ̯ z i ʔ
+775,توسی,t uː s iː,توسی,CANNNNNNOT,t A s i
+776,توقع,t a v a q q u ʔ,توقع,CANNNNNNOT,t a v a q q u ʔ
+777,توقع,t a v a q q ɵː ʔ,توقع,Expectation,t a v a q q ɵː ʔ
+778,توقع,t a w a q q ʊ ʔ,توقع,CANNNNNNOT,t a w a q q ʊ ʔ
+779,توقع,t æ v æ ɣ ɣ o ʔ,توقع,CANNNNNNOT,t a v a q q o ʔ
+780,توپ,t u p,توپ,CANNNNNNOT,t u p
+781,تکفور,t æ k f uː ɾ,تکفور,CANNNNNNOT,t a k f A r
+782,تکور,t æ k v o ɾ,تکور,Tkvr,t a k v o r
+783,تکور,t æ k w u ɾ,تکور,CANNNNNNOT,t a k w u r
+784,تکوک,t æ k oː k,تکوک,CANNNNNNOT,t a k oː k
+785,تکوک,t æ k uː k,تکوک,CANNNNNNOT,t a k A k
+786,تکیه,t a k j a,تکیه,CANNNNNNOT,t a k y a
+787,تکیه,t æ k j e,تکیه,Support,t a k y e
+788,تیرداد,t iː ɾ d ɒː d,تیرداد,CANNNNNNOT,t i r d A d
+789,تیز,t e z,تیز,CANNNNNNOT,t e z
+790,تیز,t eː z,تیز,CANNNNNNOT,t eː z
+791,تیز,t iː z,تیز,CANNNNNNOT,t i z
+792,تیزاب,t e z ɔː b,تیزاب,Aquafortis,t e z A b
+793,تیزاب,t eː z ɑː b,تیزاب,CANNNNNNOT,t eː z A b
+794,تیزاب,t eː z ɒː b,تیزاب,CANNNNNNOT,t eː z A b
+795,تیزاب,t iː z ɒː b,تیزاب,Aquafortis,t i z A b
+796,ثابت,s ɒː b e tʰ,ثابت,CANNNNNNOT,s A b e t
+797,ثابت‌ها,s ɒː b e tʰ h ɒː,ثابتها,CANNNNNNOT,s A b e t h A
+798,ثانیه,s ɑː n i j a,ثانیه,CANNNNNNOT,s A n i y a
+799,ثانیه,s ɒː n i j a,ثانیه,CANNNNNNOT,s A n i y a
+800,ثانیه,s ɒː n i j e,ثانیه,Second,s A n i y e
+801,ثانیه,s ɔː n i j a,ثانیه,CANNNNNNOT,s A n i y a
+802,جا,d ʒ ɑː j,جا,CANNNNNNOT,j A y
+803,جا,d ʒ ɒː j,جا,CANNNNNNOT,j A y
+804,جا,d ʒ ɔː j,جا,Place,j A y
+805,جادو,d ʒ ɑː d uː,جادو,Magic,j A d A
+806,جادو,d ʒ ɒː d uː,جادو,CANNNNNNOT,j A d A
+807,جادو,d ʒ ɔː d u,جادو,Magic,j A d u
+808,جام,d͡ʒ ɒː m,جام,Cup,j A m
+809,جامعه‌شناس,d ʒ ɒː m e ʔ e ʃ e n ɒː s,جامعهشناس,CANNNNNNOT,j A m e e S e n A s
+810,جان,d ʒ uː n,جان,CANNNNNNOT,j A n
+811,جان,d ʒ ɑː n,جان,CANNNNNNOT,j A n
+812,جان,d ʒ ɒː n,جان,CANNNNNNOT,j A n
+813,جان,d ʒ ɔː n,جان,CANNNNNNOT,j A n
+814,جانور,d ʒ uː n v æ ɾ,جانور,animal,j A n v a r
+815,جانور,d ʒ ɑː n v a ɾ,جانور,CANNNNNNOT,j A n v a r
+816,جانور,d ʒ ɒː n v æ ɾ,جانور,CANNNNNNOT,j A n v a r
+817,جانور,d ʒ ɒː n w a ɾ,جانور,animal,j A n w a r
+818,جانور,d ʒ ɔː n v a ɾ,جانور,animal,j A n v a r
+819,جبار,d ʒ æ b ɒː ɾ,جبار,Tyrant,j a b A r
+820,جدا,d͡ʒ o d̪ ɒː,جدا,Apart,j o d̪ A
+821,جدا,d͡ʒ u d̪ ɑː,جدا,Apart,j u d̪ A
+822,جدا,d͡ʒ u d̪ ɔː,جدا,Apart,j u d̪ A
+823,جدا,d͡ʒ ʊ d̪ ɒː,جدا,Apart,j ʊ d̪ A
+824,جستجو,d ʒ o s t o d ʒ uː j,جستجو,Search,j o s t o j A y
+825,جستجو,d ʒ u s t u d ʒ uː j,جستجو,Search,j u s t u j A y
+826,جستجو,d ʒ u s t u d ʒ ɵː j,جستجو,CANNNNNNOT,j u s t u j ɵː y
+827,جستجو,d ʒ ʊ s t ʊ d ʒ uː j,جستجو,Search,j ʊ s t ʊ j A y
+828,جعفر,d͡ʒ æ ʔ f æ r,جعفر,CANNNNNNOT,j a f a r
+829,جعفری,d͡ʒ æ ʔ f æ ɾ iː,جعفری,Parsley,j a f a r i
+830,جفت,d ʒ o f t,جفت,CANNNNNNOT,j o f t
+831,جفت,d ʒ u f t,جفت,Pair,j u f t
+832,جفت,d ʒ ʊ f t,جفت,CANNNNNNOT,j ʊ f t
+833,جلسه,d ʒ a l a s a,جلسه,Session,j a l a s a
+834,جلسه,d ʒ æ l æ s e,جلسه,CANNNNNNOT,j a l a s e
+835,جلو,d ʒ e l o w,جلو,CANNNNNNOT,j e l o w
+836,جلو,d ʒ e l oː,جلو,CANNNNNNOT,j e l oː
+837,جلو,d ʒ i l a v,جلو,CANNNNNNOT,j i l a v
+838,جلو,d ʒ i l a w,جلو,CANNNNNNOT,j i l a w
+839,جلو,d ʒ ɪ l a w,جلو,CANNNNNNOT,j i l a w
+840,جلوگیری,d ʒ e l o w ɡ iː ɾ iː,جلوگیری,Prevention,j e l o w ɡ i r i
+841,جلوگیری,d ʒ e l oː ɡ iː ɾ iː,جلوگیری,Prevention,j e l oː ɡ i r i
+842,جلوگیری,d ʒ i l a v ɡ i ɾ iː,جلوگیری,CANNNNNNOT,j i l a v ɡ i r i
+843,جلوگیری,d ʒ i l a w ɡ iː ɾ iː,جلوگیری,CANNNNNNOT,j i l a w ɡ i r i
+844,جلوگیری,d ʒ ɪ l a w ɡ iː ɾ iː,جلوگیری,CANNNNNNOT,j i l a w ɡ i r i
+845,جمشید,d͡ʒ æ m ʃ eː d,جمشید,Jamshid,j a m S eː d
+846,جمشید,d͡ʒ æ m ʃ iː d,جمشید,CANNNNNNOT,j a m S i d
+847,جمعه,d ʒ o m e,جمعه,CANNNNNNOT,j o m e
+848,جمعه,d ʒ o m ʔ e,جمعه,CANNNNNNOT,j o m e
+849,جمعه,d ʒ u m ʔ a,جمعه,Friday,j u m a
+850,جمعه,d ʒ ʊ m ʔ a,جمعه,CANNNNNNOT,j ʊ m a
+851,جمهوری,d ʒ o m h uː ɾ iː,جمهوری,Republic,j o m h A r i
+852,جمهوری,d ʒ u m h u ɾ iː,جمهوری,Republic,j u m h u r i
+853,جمهوری,d ʒ u m h uː ɾ iː,جمهوری,CANNNNNNOT,j u m h A r i
+854,جمهوری,d ʒ ʊ m h uː ɾ iː,جمهوری,CANNNNNNOT,j ʊ m h A r i
+855,جنون,d ʒ o n uː n,جنون,CANNNNNNOT,j o n A n
+856,جنگل,d ʒ æ n ɡ æ l,جنگل,Jungle,j a n ɡ a l
+857,جواب,d ʒ æ v ɒː b,جواب,CANNNNNNOT,j a v A b
+858,جواب‌ها,d ʒ æ v ɒː b h ɒː,جوابها,Answers,j a v A b h A
+859,جواری,ɡ o v ɒː ɾ iː,جواری,Corn,ɡ o v A r i
+860,جواری,ɡ u v ɑː ɾ iː,جواری,CANNNNNNOT,ɡ u v A r i
+861,جواری,ɡ u v ɔː ɾ iː,جواری,CANNNNNNOT,ɡ u v A r i
+862,جواری,ɡ ʊ w ɒː ɾ iː,جواری,Corn,ɡ ʊ w A r i
+863,جوان,d ʒ a v ɑː n,جوان,Young,j a v A n
+864,جوان,d ʒ a v ɔː n,جوان,Young,j a v A n
+865,جوان,d ʒ a w ɒː n,جوان,CANNNNNNOT,j a w A n
+866,جوان,d ʒ æ v uː n,جوان,CANNNNNNOT,j a v A n
+867,جوان,d ʒ æ v ɒː n,جوان,Young,j a v A n
+868,جوراب,d ʒ oː ɾ ɒː b,جوراب,Socks,j oː r A b
+869,جوهر,d ʒ a v h a ɾ,جوهر,Ink,j a v h a r
+870,جوهر,d ʒ a w h a ɾ,جوهر,CANNNNNNOT,j a w h a r
+871,جوهر,d ʒ o w h æ ɾ,جوهر,Ink,j o w h a r
+872,جوهر,d ʒ oː h æ ɾ,جوهر,Ink,j oː h a r
+873,جوگی,d ʒ oː ɡ iː,جوگی,Jogi,j oː ɡ i
+874,جوگی,d ʒ uː ɡ iː,جوگی,CANNNNNNOT,j A ɡ i
+875,جوگی,d ʒ ɵː ɡ iː,جوگی,Jogi,j ɵː ɡ i
+876,جویدن,d ʒ æ v iː d æ n,جویدن,CANNNNNNOT,j a v i d a n
+877,جگر,d ʒ e ɡ æ ɾ,جگر,Liver,j e ɡ a r
+878,ح,h,ح,(H),h
+879,ح,h e,ح,CANNNNNNOT,h e
+880,حاد,h ɒː d,حاد,Acute,h A d
+881,حاصل,h ɑː s i l,حاصل,Result,h A s i l
+882,حاصل,h ɒː s e l,حاصل,Result,h A s e l
+883,حاصل,h ɒː s ɪ l,حاصل,Result,h A s i l
+884,حاصل,h ɔː s i l,حاصل,CANNNNNNOT,h A s i l
+885,حافظ,h ɒː f e z,حافظ,CANNNNNNOT,h A f e z
+886,حج,h a d d ʒ,حج,CANNNNNNOT,h a d j
+887,حج,h æ d d ʒ,حج,CANNNNNNOT,h a d j
+888,حجره,h o d͡ʒ r e,حجره,Cell,h o j r e
+889,حدادی,h æ dː ɒː d iː,حدادی,Haddadi,h a dː A d i
+890,حرف,h a ɾ f,حرف,CANNNNNNOT,h a r f
+891,حرف,h æ ɾ f,حرف,CANNNNNNOT,h a r f
+892,حرفه,h e ɾ f e,حرفه,CANNNNNNOT,h e r f e
+893,حرفه,h i ɾ f a,حرفه,CANNNNNNOT,h i r f a
+894,حرفه,h ɪ ɾ f a,حرفه,the profession,h i r f a
+895,حرکت,h a ɾ a k a t,حرکت,Move,h a r a k a t
+896,حرکت,h æ ɾ æ k æ t,حرکت,Move,h a r a k a t
+897,حقوق,h o q u q,حقوق,Rights,h o q u q
+898,حقیقت,h æ ɣ iː ɣ æ tʰ,حقیقت,CANNNNNNOT,h a q i q a t
+899,حلال,h æ l ɒː l,حلال,CANNNNNNOT,h a l A l
+900,حیوان,h e j v ɒː n,حیوان,CANNNNNNOT,h e y v A n
+901,خ,x,خ,CANNNNNNOT,x
+902,خ,x e,خ,St.,x e
+903,خات,x ɒː t,خات,CANNNNNNOT,x A t
+904,خاتمه,x ɑː t i m a,خاتمه,CANNNNNNOT,x A t i m a
+905,خاتمه,x ɒː t e m e,خاتمه,CANNNNNNOT,x A t e m e
+906,خاتمه,x ɒː t ɪ m a,خاتمه,End,x A t i m a
+907,خاتمه,x ɔː t i m a,خاتمه,CANNNNNNOT,x A t i m a
+908,خار,x ɒː ɾ,خار,Thistle,x A r
+909,خارج,x ɑː ɾ i d ʒ,خارج,Out,x A r i j
+910,خارج,x ɒː ɾ e d ʒ,خارج,Out,x A r e j
+911,خارج,x ɒː ɾ ɪ d ʒ,خارج,CANNNNNNOT,x A r i j
+912,خارج,x ɔː ɾ i d ʒ,خارج,CANNNNNNOT,x A r i j
+913,خارجه,x ɑː ɾ i d ʒ a,خارجه,Foreign,x A r i j a
+914,خارجه,x ɒː ɾ e d ʒ e,خارجه,Foreign,x A r e j e
+915,خارجه,x ɒː ɾ ɪ d ʒ a,خارجه,Foreign,x A r i j a
+916,خارجه,x ɔː ɾ i d ʒ a,خارجه,CANNNNNNOT,x A r i j a
+917,خاص,x ɒː s,خاص,CANNNNNNOT,x A s
+918,خاص‌تر,x ɒː s tʰ æ ɾ,خاصتر,CANNNNNNOT,x A s t a r
+919,خاص‌ترین,x ɒː s tʰ æ ɾ iː n,خاصترین,Most special,x A s t a r i n
+920,خاطره,x ɒː tʰ e ɾ e,خاطره,a diary,x A t e r e
+921,خالق,x ɑː l i q,خالق,CANNNNNNOT,x A l i q
+922,خالق,x ɒː l e ɣ,خالق,the creator,x A l e q
+923,خالق,x ɒː l ɪ q,خالق,CANNNNNNOT,x A l i q
+924,خالق,x ɔː l i q,خالق,CANNNNNNOT,x A l i q
+925,خام,x ɒː m,خام,CANNNNNNOT,x A m
+926,خاموش,x ɑː m oː ʃ,خاموش,Off,x A m oː S
+927,خاموش,x ɒː m oː ʃ,خاموش,CANNNNNNOT,x A m oː S
+928,خاموش,x ɒː m uː ʃ,خاموش,Off,x A m A S
+929,خاموش,x ɔː m ɵː ʃ,خاموش,CANNNNNNOT,x A m ɵː S
+930,خانه,x uː n e,خانه,Home,x A n e
+931,خانه,x ɑː n a,خانه,Home,x A n a
+932,خانه,x ɒː n a,خانه,CANNNNNNOT,x A n a
+933,خانه,x ɒː n e,خانه,Home,x A n e
+934,خانه,x ɔː n a,خانه,CANNNNNNOT,x A n a
+935,خانواده,x uː n e # v ɒː d e,خانواده,Family,x A n e  v A d e
+936,خانواده,x ɑː n a # v ɑː d a,خانواده,Family,x A n a  v A d a
+937,خانواده,x ɒː n a # w ɒː d a,خانواده,Family,x A n a  w A d a
+938,خانواده,x ɒː n e # v ɒː d e,خانواده,Family,x A n e  v A d e
+939,خانواده,x ɔː n a # v ɔː d a,خانواده,Family,x A n a  v A d a
+940,خانوادگی,x uː n e # v ɒː d e # ɡ iː,خانوادگی,Familial,x A n e  v A d e  ɡ i
+941,خانوادگی,x ɑː n a # v ɑː d a # ɡ iː,خانوادگی,Familial,x A n a  v A d a  ɡ i
+942,خانوادگی,x ɒː n a # w ɒː d a # ɡ iː,خانوادگی,Familial,x A n a  w A d a  ɡ i
+943,خانوادگی,x ɒː n e # v ɒː d e # ɡ iː,خانوادگی,Familial,x A n e  v A d e  ɡ i
+944,خانوادگی,x ɔː n a # v ɔː d a # ɡ iː,خانوادگی,Familial,x A n a  v A d a  ɡ i
+945,خانگی,x uː n æː ɡ iː,خانگی,Homemade,x A n aː ɡ i
+946,خانگی,x ɑː n a ʔ ɡ iː,خانگی,Homemade,x A n a ɡ i
+947,خانگی,x ɒː n a ʔ ɡ iː,خانگی,Homemade,x A n a ɡ i
+948,خانگی,x ɒː n æ ʔ ɡ iː,خانگی,Homemade,x A n a ɡ i
+949,خانگی,x ɔː n a ʔ ɡ iː,خانگی,Homemade,x A n a ɡ i
+950,خاویار,x ɒː v i j ɒː ɾ,خاویار,Caviar,x A v i y A r
+951,خاکستر,x ɑː k i s t a ɾ,خاکستر,Ash,x A k i s t a r
+952,خاکستر,x ɒː k e s t æ ɾ,خاکستر,CANNNNNNOT,x A k e s t a r
+953,خاکستر,x ɒː k ɪ s t a ɾ,خاکستر,Ash,x A k i s t a r
+954,خاکستر,x ɔː k i s t a ɾ,خاکستر,Ash,x A k i s t a r
+955,خاکستری,x ɑː k i s t a ɾ,خاکستری,Gray,x A k i s t a r
+956,خاکستری,x ɒː k e s t æ ɾ,خاکستری,Gray,x A k e s t a r
+957,خاکستری,x ɒː k ɪ s t a ɾ,خاکستری,Gray,x A k i s t a r
+958,خاکستری,x ɔː k i s t a ɾ,خاکستری,Gray,x A k i s t a r
+959,خبر,x a b a ɾ,خبر,News,x a b a r
+960,خبر,x æ b æ ɾ,خبر,News,x a b a r
+961,ختنه,x æ tʰ n e,ختنه,Circumcision,x a t n e
+962,خدا,x o d ɒː,خدا,God,x o d A
+963,خدا,x u d ɑː,خدا,God,x u d A
+964,خدا,x u d ɔː,خدا,God,x u d A
+965,خدا,x ʊ d ɒː,خدا,God,x ʊ d A
+966,خداحافظ,x o d ɒː h ɒː f e z,خداحافظ,Bye,x o d A h A f e z
+967,خداحافظ,x u d ɑː h ɑː f i z,خداحافظ,CANNNNNNOT,x u d A h A f i z
+968,خداحافظ,x u d ɔː h ɔː f i z,خداحافظ,Bye,x u d A h A f i z
+969,خداحافظ,x ʊ d ɒː h ɒː f ɪ z,خداحافظ,Bye,x ʊ d A h A f i z
+970,خدای,x o d ɒː j,خدای,God,x o d A y
+971,خدیو,x i d eː w,خدیو,Overlord,x i d eː w
+972,خدیو,x æ d eː w,خدیو,Overlord,x a d eː w
+973,خدیو,x æ d iː v,خدیو,Overlord,x a d i v
+974,خراسان,x o ɾ ɒː s ɒː n,خراسان,Khorasan,x o r A s A n
+975,خراسان,x u ɾ ɔː s ɔː n,خراسان,Khorasan,x u r A s A n
+976,خراسان,x ʊ ɾ ɒː s ɒː n,خراسان,CANNNNNNOT,x ʊ r A s A n
+977,خراسان,xʷ a ɾ ɑː s ɑː n,خراسان,Khorasan,x a r A s A n
+978,خراسانی,x o ɾ ɒː s ɒː n iː,خراسانی,Khorasani,x o r A s A n i
+979,خراسانی,x u ɾ ɔː s ɔː n iː,خراسانی,Khorasani,x u r A s A n i
+980,خراسانی,x ʊ ɾ ɒː s ɒː n iː,خراسانی,Khorasani,x ʊ r A s A n i
+981,خراسانی,xʷ a ɾ ɑː s ɑː n iː,خراسانی,Khorasani,x a r A s A n i
+982,خربز,x a ɾ b u z,خربز,Melon,x a r b u z
+983,خربز,x a ɾ b ʊ z,خربز,Melon,x a r b ʊ z
+984,خربز,x æ ɾ b o z,خربز,Melon,x a r b o z
+985,خربزه,x a ɾ b u z a,خربزه,Melon,x a r b u z a
+986,خربزه,x a ɾ b ʊ z a,خربزه,Melon,x a r b ʊ z a
+987,خربزه,x æ ɾ b o z e,خربزه,Melon,x a r b o z e
+988,خربوزه,x a ɾ b u z a,خربوزه,Melons,x a r b u z a
+989,خربوزه,x a ɾ b uː z a,خربوزه,Melons,x a r b A z a
+990,خربوزه,x æ ɾ b uː z e,خربوزه,Melons,x a r b A z e
+991,خرد,x e ɾ æ d,خرد,Wisdom,x e r a d
+992,خرد,x i ɾ a d,خرد,Wisdom,x i r a d
+993,خرد,x o ɾ d,خرد,Wisdom,x o r d
+994,خرد,x u ɾ d,خرد,Wisdom,x u r d
+995,خرد,x ɪ ɾ a d,خرد,Wisdom,x i r a d
+996,خرد,x ʊ ɾ d,خرد,Wisdom,x ʊ r d
+997,خرداد,x o ɾ d̪ ɒː d̪,خرداد,June,x o r d̪ A d̪
+998,خرم,x o ɾː æ m,خرم,Happy,x o rː a m
+999,خرما,x o ɾ m ɒː,خرما,Date,x o r m A
+1000,خرما,x u ɾ m ɑː,خرما,Date,x u r m A
+1001,خرما,x u ɾ m ɔː,خرما,Date,x u r m A
+1002,خرما,x ʊ ɾ m ɒː,خرما,Date,x ʊ r m A
+1003,خروس,x o ɾ uː s,خروس,Rooster,x o r A s
+1004,خروس,x ɾ o s,خروس,Rooster,x r o s
+1005,خروس,x ʊ ɾ oː s,خروس,Rooster,x ʊ r oː s
+1006,خرگوش,x a ɾ ɡ oː ʃ,خرگوش,Rabbit,x a r ɡ oː S
+1007,خرگوش,x a ɾ ɡ ɵː ʃ,خرگوش,Rabbit,x a r ɡ ɵː S
+1008,خرگوش,x æ ɾ ɡ uː ʃ,خرگوش,Rabbit,x a r ɡ A S
+1009,خریدن,x æ ɾ iː d æ n,خریدن,CANNNNNNOT,x a r i d a n
+1010,خز,x æ z,خز,Fur,x a z
+1011,خزاعی,x æ z ɒː ʔ iː,خزاعی,KHAZAEI,x a z A i
+1012,خزان,x æ z ɒː n,خزان,Fall,x a z A n
+1013,خزنده,x æ z æ n d e,خزنده,Creepy,x a z a n d e
+1014,خزندگان,x æ z æ n d e ɡ ɒː n,خزندگان,CANNNNNNOT,x a z a n d e ɡ A n
+1015,خزیدن,x æ z iː d æ n,خزیدن,Crawl,x a z i d a n
+1016,خزینه,x æ z iː n e,خزینه,CANNNNNNOT,x a z i n e
+1017,خزینه,x æ z iː n æ,خزینه,CANNNNNNOT,x a z i n a
+1018,خسته,x a s t a,خسته,Tired,x a s t a
+1019,خسته,x æ s t e,خسته,Tired,x a s t e
+1020,خسته‌خانه,x a s t a # x ɑː n a,خستهخانه,Khsthkhanh,x a s t a  x A n a
+1021,خسته‌خانه,x a s t a # x ɒː n a,خستهخانه,Khsthkhanh,x a s t a  x A n a
+1022,خسته‌خانه,x a s t a # x ɔː n a,خستهخانه,Khsthkhanh,x a s t a  x A n a
+1023,خسته‌خانه,x æ s t e # x uː n e,خستهخانه,Khsthkhanh,x a s t e  x A n e
+1024,خسته‌خانه,x æ s t e # x ɒː n e,خستهخانه,Khsthkhanh,x a s t e  x A n e
+1025,خشک,x o ʃ k,خشک,Dry,x o S k
+1026,خشکاندن,x o ʃ k ɒː n d æ n,خشکاندن,Sear,x o S k A n d a n
+1027,خشکوندن,x o ʃ k uː n d æ n,خشکوندن,Khshkvndn,x o S k A n d a n
+1028,خط,x a t,خط,Line,x a t
+1029,خط,x æ t,خط,Line,x a t
+1030,خطا,x æ t ɒː,خطا,CANNNNNNOT,x a t A
+1031,خندان,x æ n d ɒ n,خندان,Smiling,x a n d ɒ n
+1032,خندون,x æ n d uː n,خندون,Khndvn,x a n d A n
+1033,خو,x o,خو,CANNNNNNOT,x o
+1034,خواب,x ɒː b,خواب,Dream,x A b
+1035,خواب,x ɔː b,خواب,Dream,x A b
+1036,خواب,xʷ ɑː b,خواب,CANNNNNNOT,x A b
+1037,خواجه,x ɒː d ʒ a,خواجه,Eunuch,x A j a
+1038,خواجه,x ɒː d ʒ e,خواجه,Eunuch,x A j e
+1039,خواجه,x ɔː d ʒ a,خواجه,CANNNNNNOT,x A j a
+1040,خواجه,xʷ ɑː d ʒ a,خواجه,Eunuch,x A j a
+1041,خوارزم,x ɒː ɾ æ z m,خوارزم,Khorezm,x A r a z m
+1042,خوارزم,xʷ ɒː ɾ æ z m,خوارزم,CANNNNNNOT,x A r a z m
+1043,خواستار,x ɒː s t̪ ɒː ɾ,خواستار,Demanding,x A s t A r
+1044,خواستن,x ɒː s t a n,خواستن,Ask,x A s t a n
+1045,خواستن,x ɒː s t æ n,خواستن,Ask,x A s t a n
+1046,خواستن,x ɔː s t a n,خواستن,Ask,x A s t a n
+1047,خواستن,xʷ ɑː s t a n,خواستن,Ask,x A s t a n
+1048,خواندن,x uː n d æ n,خواندن,Read,x A n d a n
+1049,خواندن,x ɒː n d a n,خواندن,Read,x A n d a n
+1050,خواندن,x ɒː n d æ n,خواندن,Read,x A n d a n
+1051,خواندن,x ɔː n d a n,خواندن,Read,x A n d a n
+1052,خواندن,xʷ ɑː n d a n,خواندن,Read,x A n d a n
+1053,خواننده,x ɒː n æ n d e,خواننده,Singer,x A n a n d e
+1054,خوانندگان,x ɒː n æ n d e ɡ ɒː n,خوانندگان,singers,x A n a n d e ɡ A n
+1055,خواهر,x ɒː h a ɾ,خواهر,sister,x A h a r
+1056,خواهر,x ɒː h æ ɾ,خواهر,sister,x A h a r
+1057,خواهر,x ɔː h a ɾ,خواهر,CANNNNNNOT,x A h a r
+1058,خواهر,xʷ ɑː h a ɾ,خواهر,sister,x A h a r
+1059,خود,x o d,خود,Own,x o d
+1060,خود,x oː d,خود,Own,x oː d
+1061,خود,x u d,خود,Own,x u d
+1062,خود,x uː d,خود,CANNNNNNOT,x A d
+1063,خود,x ʊ d,خود,Own,x ʊ d
+1064,خود,xʷ a d,خود,Own,x a d
+1065,خودرو,x o d ɾ o w,خودرو,car,x o d r o w
+1066,خودرو,x o d ɾ oː,خودرو,car,x o d r oː
+1067,خودرو,x u d ɾ a v,خودرو,car,x u d r a v
+1068,خودرو,x ʊ d ɾ a w,خودرو,car,x ʊ d r a w
+1069,خودرو,xʷ a d ɾ a w,خودرو,CANNNNNNOT,x a d r a w
+1070,خور,x o ɾ,خور,Estuary,x o r
+1071,خور,x o ʊ ɾ,خور,Estuary,x o ʊ r
+1072,خور,x u ɾ,خور,CANNNNNNOT,x u r
+1073,خور,x uː ɾ,خور,Estuary,x A r
+1074,خور,x ʊ ɾ,خور,Estuary,x ʊ r
+1075,خور,xʷ a ɾ,خور,Estuary,x a r
+1076,خوراک,x o ɾ ɒː k,خوراک,food,x o r A k
+1077,خوراک,x u ɾ ɔː k,خوراک,food,x u r A k
+1078,خوراک,x ʊ ɾ ɒː k,خوراک,food,x ʊ r A k
+1079,خوراک,xʷ a ɾ ɑː k,خوراک,food,x a r A k
+1080,خوردن,x oː ɾ d æ n,خوردن,Eat,x oː r d a n
+1081,خوردن,x v u ɾ d æ n,خوردن,CANNNNNNOT,x v u r d a n
+1082,خوردن,x ɵː r d a n,خوردن,Eat,x ɵː r d a n
+1083,خورشید,x o ɾ ʃ iː d,خورشید,CANNNNNNOT,x o r S i d
+1084,خورشید,x u ɾ ʃ e d,خورشید,CANNNNNNOT,x u r S e d
+1085,خورشید,x ʊ ɾ ʃ eː d,خورشید,Sun,x ʊ r S eː d
+1086,خورشید,xʷ u ɾ ʃ eː d,خورشید,Sun,x u r S eː d
+1087,خوره,x o rː æ h,خوره,Nerd,x o rː a h
+1088,خوره,x o ɾ e,خوره,CANNNNNNOT,x o r e
+1089,خوش,x o ʃ,خوش,good,x o S
+1090,خوش,x u ʃ,خوش,good,x u S
+1091,خوش,x ʊ ʃ,خوش,good,x ʊ S
+1092,خوش,xʷ a ʃ,خوش,CANNNNNNOT,x a S
+1093,خوشبو,x o ʃ b uː j,خوشبو,Balmy,x o S b A y
+1094,خوشبو,x u ʃ b ɵː j,خوشبو,CANNNNNNOT,x u S b ɵː y
+1095,خوشبو,x ʊ ʃ b uː j,خوشبو,Balmy,x ʊ S b A y
+1096,خوشبو,xʷ a ʃ b uː j,خوشبو,Balmy,x a S b A y
+1097,خوشحال,x o ʃ h ɒː l,خوشحال,Happy,x o S h A l
+1098,خوشحال,x u ʃ h ɔː l,خوشحال,CANNNNNNOT,x u S h A l
+1099,خوشحال,x ʊ ʃ h ɒː l,خوشحال,Happy,x ʊ S h A l
+1100,خوشحال,xʷ a ʃ h ɑː l,خوشحال,Happy,x a S h A l
+1101,خوشنویس,x o ʃ n e v iː s,خوشنویس,Calligrapher,x o S n e v i s
+1102,خوشنویسی,x o ʃ n e v iː s iː,خوشنویسی,Calligraphy,x o S n e v i s i
+1103,خوشگل‌تر,x o ʃ ɡ e l t æ ɾ,خوشگلتر,Prettier,x o S ɡ e l t a r
+1104,خوشگل‌ترین,x o ʃ ɡ e l t æ ɾ iː n,خوشگلترین,the most beautiful,x o S ɡ e l t a r i n
+1105,خوف,x a v f,خوف,Fear,x a v f
+1106,خوف,x a w f,خوف,Fear,x a w f
+1107,خوف,x o w f,خوف,Fear,x o w f
+1108,خوف,x oː f,خوف,Fear,x oː f
+1109,خونریزی,x u n ɾ e z iː,خونریزی,Bloodshed,x u n r e z i
+1110,خونریزی,x uː n ɾ eː z iː,خونریزی,Bloodshed,x A n r eː z i
+1111,خونریزی,x uː n ɾ iː z iː,خونریزی,Bloodshed,x A n r i z i
+1112,خونه,x oː n æ,خونه,Home,x oː n a
+1113,خونین,x uː n iː n,خونین,CANNNNNNOT,x A n i n
+1114,خوک,x uː k,خوک,CANNNNNNOT,x A k
+1115,خویش,x e ʃ,خویش,Self,x e S
+1116,خویش,x eː ʃ,خویش,Self,x eː S
+1117,خویش,x iː ʃ,خویش,Self,x i S
+1118,خویش,xʷ eː ʃ,خویش,CANNNNNNOT,x eː S
+1119,خیار,x i j ɑː ɾ,خیار,CANNNNNNOT,x i y A r
+1120,خیار,x i j ɒː ɾ,خیار,Cucumbers,x i y A r
+1121,خیار,x i j ɔː ɾ,خیار,CANNNNNNOT,x i y A r
+1122,خیر,x a j ɾ,خیر,Good,x a y r
+1123,خیر,x e j ɾ,خیر,CANNNNNNOT,x e y r
+1124,خیز,x e z,خیز,CANNNNNNOT,x e z
+1125,خیز,x eː z,خیز,CANNNNNNOT,x eː z
+1126,خیز,x iː z,خیز,CANNNNNNOT,x i z
+1127,خیس,x iː s,خیس,CANNNNNNOT,x i s
+1128,خیلی,x a j l iː,خیلی,CANNNNNNOT,x a y l i
+1129,خیلی,x e j l iː,خیلی,CANNNNNNOT,x e y l i
+1130,خەر,x æː ɾ,خەر,CANNNNNNOT,x aː r
+1131,داد,d ɒː d,داد,CANNNNNNOT,d A d
+1132,دارفلفل,d ɑː ɾ f i l f i l,دارفلفل,CANNNNNNOT,d A r f i l f i l
+1133,دارفلفل,d ɒː ɾ f e l f e l,دارفلفل,CANNNNNNOT,d A r f e l f e l
+1134,دارفلفل,d ɒː ɾ f ɪ l f ɪ l,دارفلفل,CANNNNNNOT,d A r f i l f i l
+1135,دارفلفل,d ɔː ɾ f i l f i l,دارفلفل,CANNNNNNOT,d A r f i l f i l
+1136,دارو,d ɒː ɾ uː,دارو,CANNNNNNOT,d A r A
+1137,داشتن,d ɑː ʃ t a n,داشتن,CANNNNNNOT,d A S t a n
+1138,داشتن,d ɒː ʃ t a n,داشتن,CANNNNNNOT,d A S t a n
+1139,داشتن,d ɒː ʃ t æ n,داشتن,CANNNNNNOT,d A S t a n
+1140,داشتن,d ɔː ʃ t a n,داشتن,CANNNNNNOT,d A S t a n
+1141,داغ,d ɒː ɣ,داغ,CANNNNNNOT,d A q
+1142,داماد,d ɒː m ɒː d,داماد,CANNNNNNOT,d A m A d
+1143,دانش,d uː n e ʃ,دانش,CANNNNNNOT,d A n e S
+1144,دانش,d ɑː n i ʃ,دانش,CANNNNNNOT,d A n i S
+1145,دانش,d ɒː n e ʃ,دانش,CANNNNNNOT,d A n e S
+1146,دانش,d ɒː n ɪ ʃ,دانش,CANNNNNNOT,d A n i S
+1147,دانش,d ɔː n i ʃ,دانش,CANNNNNNOT,d A n i S
+1148,دانشجو,d uː n e ʃ d ʒ uː j,دانشجو,CANNNNNNOT,d A n e S j A y
+1149,دانشجو,d ɑː n i ʃ d ʒ uː j,دانشجو,CANNNNNNOT,d A n i S j A y
+1150,دانشجو,d ɒː n e ʃ d ʒ uː j,دانشجو,CANNNNNNOT,d A n e S j A y
+1151,دانشجو,d ɒː n ɪ ʃ d ʒ uː j,دانشجو,CANNNNNNOT,d A n i S j A y
+1152,دانشجو,d ɔː n i ʃ d ʒ ɵː j,دانشجو,CANNNNNNOT,d A n i S j ɵː y
+1153,دانشمند,d ɒː n e ʃ m æ n d,دانشمند,CANNNNNNOT,d A n e S m a n d
+1154,داوود,d ɒː v uː d,داوود,CANNNNNNOT,d A v A d
+1155,داوود,d ɒː w uː d,داوود,CANNNNNNOT,d A w A d
+1156,دبیرستان,d a b i ɾ i s tʰ ɔː n,دبیرستان,CANNNNNNOT,d a b i r i s t A n
+1157,دبیرستان,d a b iː ɾ i s tʰ ɑː n,دبیرستان,CANNNNNNOT,d a b i r i s t A n
+1158,دبیرستان,d a b iː ɾ ɪ s tʰ ɒː n,دبیرستان,CANNNNNNOT,d a b i r i s t A n
+1159,دبیرستان,d e b iː ɾ e s tʰ uː n,دبیرستان,CANNNNNNOT,d e b i r e s t A n
+1160,دبیرستان,d æ b iː ɾ e s tʰ ɒː n,دبیرستان,CANNNNNNOT,d a b i r e s t A n
+1161,دختر,d o x d e ɾ,دختر,CANNNNNNOT,d o x d e r
+1162,دختر,d o x tʰ e ɾ,دختر,CANNNNNNOT,d o x t e r
+1163,دختر,d o x tʰ æ ɾ,دختر,CANNNNNNOT,d o x t a r
+1164,در,d e ɾ,در,CANNNNNNOT,d e r
+1165,در,d o r,در,CANNNNNNOT,d o r
+1166,در,d æ ɾ,در,CANNNNNNOT,d a r
+1167,درخت,d æ ɾ æ x t,درخت,CANNNNNNOT,d a r a x t
+1168,درد,d a ɾ d,درد,CANNNNNNOT,d a r d
+1169,درد,d o ɾ d,درد,CANNNNNNOT,d o r d
+1170,درد,d u ɾ d,درد,CANNNNNNOT,d u r d
+1171,درد,d æ ɾ d,درد,CANNNNNNOT,d a r d
+1172,درد,d ʊ ɾ d,درد,CANNNNNNOT,d ʊ r d
+1173,دردمند,d æ ɾ d m æ n d,دردمند,CANNNNNNOT,d a r d m a n d
+1174,درزی,d æ ɾ z iː,درزی,CANNNNNNOT,d a r z i
+1175,درست,d ɾ o s t,درست,CANNNNNNOT,d r o s t
+1176,درشت,d o ɾ o ʃ t,درشت,CANNNNNNOT,d o r o S t
+1177,درشت,d ɾ o ʃ t,درشت,CANNNNNNOT,d r o S t
+1178,درنگ,d e ɾ æ ŋ,درنگ,CANNNNNNOT,d e r a ŋ
+1179,درنگ,d i ɾ a ŋ,درنگ,CANNNNNNOT,d i r a ŋ
+1180,درنگ,d ɪ ɾ a ŋ,درنگ,CANNNNNNOT,d i r a ŋ
+1181,درها,d æ ɾ h ɒː,درها,CANNNNNNOT,d a r h A
+1182,درود,d o ɾ uː d,درود,CANNNNNNOT,d o r A d
+1183,درود,d æ ɾ oː d,درود,CANNNNNNOT,d a r oː d
+1184,درودن,d o ɾ uː d æ n,درودن,CANNNNNNOT,d o r A d a n
+1185,دروغ,d o ɾ uː ɣ,دروغ,CANNNNNNOT,d o r A q
+1186,دروغ,d u ɾ oː ɣ,دروغ,CANNNNNNOT,d u r oː q
+1187,دروغ,d u ɾ ɵː ɣ,دروغ,CANNNNNNOT,d u r ɵː q
+1188,دروغ,d ʊ ɾ oː ɣ,دروغ,CANNNNNNOT,d ʊ r oː q
+1189,دروغ‌ها,d o ɾ uː ɣ h ɒː,دروغها,CANNNNNNOT,d o r A q h A
+1190,درگاه,d æ ɾ ɡ ɒː h,درگاه,CANNNNNNOT,d a r ɡ A h
+1191,دری,d a ɾ iː,دری,CANNNNNNOT,d a r i
+1192,دری,d æ ɾ iː,دری,CANNNNNNOT,d a r i
+1193,دریا,d æ ɾ j ɒː,دریا,CANNNNNNOT,d a r y A
+1194,دریدن,d æ ɾ i d æ n,دریدن,CANNNNNNOT,d a r i d a n
+1195,دس,d æ s,دس,CANNNNNNOT,d a s
+1196,دست,d æ s t,دست,CANNNNNNOT,d a s t
+1197,دستار,d a s t ɒː ɾ,دستار,CANNNNNNOT,d a s t A r
+1198,دستگاه,d æ s t ɡ ɒː h,دستگاه,CANNNNNNOT,d a s t ɡ A h
+1199,دعا,d o ɒː,دعا,CANNNNNNOT,d o A
+1200,دعا,d o ʔ ɒː,دعا,CANNNNNNOT,d o A
+1201,دعا,d u ʔ ɑː,دعا,CANNNNNNOT,d u A
+1202,دعا,d u ʔ ɔː,دعا,CANNNNNNOT,d u A
+1203,دعا,d ʊ ʔ ɒː,دعا,CANNNNNNOT,d ʊ A
+1204,دعوت,d æ ʔ v æ t,دعوت,CANNNNNNOT,d a v a t
+1205,دفتر,d æ f t æ r,دفتر,CANNNNNNOT,d a f t a r
+1206,دقیقه,d a q i q a,دقیقه,CANNNNNNOT,d a q i q a
+1207,دقیقه,d a q iː q a,دقیقه,CANNNNNNOT,d a q i q a
+1208,دقیقه,d e ɣ iː ɣ e,دقیقه,CANNNNNNOT,d e q i q e
+1209,دقیقه,d æ ɣ iː ɣ e,دقیقه,CANNNNNNOT,d a q i q e
+1210,دل,d e l,دل,CANNNNNNOT,d e l
+1211,دل,d i l,دل,CANNNNNNOT,d i l
+1212,دل,d ɪ l,دل,CANNNNNNOT,d i l
+1213,دلسوز,d̪ i l s oː z,دلسوز,CANNNNNNOT,d̪ i l s oː z
+1214,دلفین,d o l f iː n,دلفین,CANNNNNNOT,d o l f i n
+1215,دلفین,d æ l f iː n,دلفین,CANNNNNNOT,d a l f i n
+1216,دلگیر,d e l ɡ iː ɾ,دلگیر,CANNNNNNOT,d e l ɡ i r
+1217,دلگیر,d i l ɡ i ɾ,دلگیر,CANNNNNNOT,d i l ɡ i r
+1218,دلگیر,d i l ɡ iː ɾ,دلگیر,CANNNNNNOT,d i l ɡ i r
+1219,دلگیر,d ɪ l ɡ iː ɾ,دلگیر,CANNNNNNOT,d i l ɡ i r
+1220,دلگیری,d e l ɡ iː ɾ iː,دلگیری,CANNNNNNOT,d e l ɡ i r i
+1221,دلگیری,d i l ɡ i ɾ iː,دلگیری,CANNNNNNOT,d i l ɡ i r i
+1222,دلگیری,d i l ɡ iː ɾ iː,دلگیری,CANNNNNNOT,d i l ɡ i r i
+1223,دلگیری,d ɪ l ɡ iː ɾ iː,دلگیری,CANNNNNNOT,d i l ɡ i r i
+1224,دم,d o m,دم,CANNNNNNOT,d o m
+1225,دم,d æ m,دم,CANNNNNNOT,d a m
+1226,دندان,d e n d ɒː n,دندان,CANNNNNNOT,d e n d A n
+1227,دندان,d æ n d ɒː n,دندان,CANNNNNNOT,d a n d A n
+1228,دنیا,d o n j ɒː,دنیا,CANNNNNNOT,d o n y A
+1229,دنیا,d u n j ɑː,دنیا,CANNNNNNOT,d u n y A
+1230,دنیا,d u n j ɔː,دنیا,CANNNNNNOT,d u n y A
+1231,دنیا,d ʊ n j ɒː,دنیا,CANNNNNNOT,d ʊ n y A
+1232,دنیدن,d æ n iː d æ n,دنیدن,CANNNNNNOT,d a n i d a n
+1233,ده,d e h,ده,CANNNNNNOT,d e h
+1234,ده,d i h,ده,CANNNNNNOT,d i h
+1235,ده,d ɪ h,ده,CANNNNNNOT,d i h
+1236,دهقان,d e h q ɔː n,دهقان,CANNNNNNOT,d e h q A n
+1237,دهقان,d e h ɣ uː n,دهقان,CANNNNNNOT,d e h q A n
+1238,دهقان,d e h ɣ ɒː n,دهقان,CANNNNNNOT,d e h q A n
+1239,دهقان,d i h q ɑː n,دهقان,CANNNNNNOT,d i h q A n
+1240,دهقان,d ɪ h q ɒː n,دهقان,CANNNNNNOT,d i h q A n
+1241,دو,d o,دو,CANNNNNNOT,d o
+1242,دو,d u,دو,CANNNNNNOT,d u
+1243,دو,d uː,دو,CANNNNNNOT,d A
+1244,دو,d ʊ,دو,CANNNNNNOT,d ʊ
+1245,دودل,d o d e l,دودل,CANNNNNNOT,d o d e l
+1246,دور,d a v ɾ,دور,CANNNNNNOT,d a v r
+1247,دور,d a w ɾ,دور,CANNNNNNOT,d a w r
+1248,دور,d o w ɾ,دور,CANNNNNNOT,d o w r
+1249,دور,d oː ɾ,دور,CANNNNNNOT,d oː r
+1250,دور,d u ɾ,دور,CANNNNNNOT,d u r
+1251,دور,d uː ɾ,دور,CANNNNNNOT,d A r
+1252,دوزخ,d oː z a x,دوزخ,CANNNNNNOT,d oː z a x
+1253,دوزخ,d uː z æ x,دوزخ,CANNNNNNOT,d A z a x
+1254,دوزخ,d ɵː z a x,دوزخ,CANNNNNNOT,d ɵː z a x
+1255,دوست,d oː s t,دوست,CANNNNNNOT,d oː s t
+1256,دوست,d uː s t,دوست,CANNNNNNOT,d A s t
+1257,دوست,d ɵː s t,دوست,CANNNNNNOT,d ɵː s t
+1258,دوش,d oː ʃ,دوش,CANNNNNNOT,d oː S
+1259,دوش,d uː ʃ,دوش,CANNNNNNOT,d A S
+1260,دوش,d ɵː ʃ,دوش,CANNNNNNOT,d ɵː S
+1261,دوغ,d oː ɣ,دوغ,CANNNNNNOT,d oː q
+1262,دوغ,d uː ɣ,دوغ,CANNNNNNOT,d A q
+1263,دول,d oː l,دول,CANNNNNNOT,d oː l
+1264,دول,d uː l,دول,CANNNNNNOT,d A l
+1265,دول,d ɵː l,دول,CANNNNNNOT,d ɵː l
+1266,دویدن,d a v i d a n,دویدن,CANNNNNNOT,d a v i d a n
+1267,دویدن,d a v iː d a n,دویدن,CANNNNNNOT,d a v i d a n
+1268,دویدن,d a w iː d a n,دویدن,CANNNNNNOT,d a w i d a n
+1269,دویدن,d e v iː d æ n,دویدن,CANNNNNNOT,d e v i d a n
+1270,دویدن,d æ v iː d æ n,دویدن,CANNNNNNOT,d a v i d a n
+1271,دپارتمان,d e p ɒ r tʰ e m ɒ n,دپارتمان,CANNNNNNOT,d e p ɒ r t e m ɒ n
+1272,دژ,d e ʒ,دژ,CANNNNNNOT,d e ʒ
+1273,دیدن,d i d a n,دیدن,CANNNNNNOT,d i d a n
+1274,دیدن,d iː d a n,دیدن,CANNNNNNOT,d i d a n
+1275,دیدن,d iː d æ n,دیدن,CANNNNNNOT,d i d a n
+1276,دیر,d e ɾ,دیر,CANNNNNNOT,d e r
+1277,دیر,d eː ɾ,دیر,CANNNNNNOT,d eː r
+1278,دیر,d iː ɾ,دیر,CANNNNNNOT,d i r
+1279,دیروز,d i ɾ ɵː z,دیروز,CANNNNNNOT,d i r ɵː z
+1280,دیروز,d iː ɾ oː z,دیروز,CANNNNNNOT,d i r oː z
+1281,دیروز,d iː ɾ uː z,دیروز,CANNNNNNOT,d i r A z
+1282,دیسک,d iː s k,دیسک,CANNNNNNOT,d i s k
+1283,دیسک‌ها,d iː s k h ɒː,دیسکها,CANNNNNNOT,d i s k h A
+1284,دیو,d e v,دیو,CANNNNNNOT,d e v
+1285,دیو,d eː v,دیو,CANNNNNNOT,d eː v
+1286,دیو,d eː w,دیو,CANNNNNNOT,d eː w
+1287,دیو,d iː v,دیو,CANNNNNNOT,d i v
+1288,دیوانه,d e v ɔː n a,دیوانه,CANNNNNNOT,d e v A n a
+1289,دیوانه,d eː v ɑː n a,دیوانه,CANNNNNNOT,d eː v A n a
+1290,دیوانه,d eː w ɒː n a,دیوانه,CANNNNNNOT,d eː w A n a
+1291,دیوانه,d iː v uː n e,دیوانه,CANNNNNNOT,d i v A n e
+1292,دیوانه,d iː v ɒː n e,دیوانه,CANNNNNNOT,d i v A n e
+1293,دیگر,d i ɡ a ɾ,دیگر,CANNNNNNOT,d i ɡ a r
+1294,دیگر,d iː ɡ a ɾ,دیگر,CANNNNNNOT,d i ɡ a r
+1295,دیگر,d iː ɡ æ ɾ,دیگر,CANNNNNNOT,d i ɡ a r
+1296,ذ,z,ذ,CANNNNNNOT,z
+1297,ذ,z ɒː l,ذ,CANNNNNNOT,z A l
+1298,ذات,z ɒː t,ذات,CANNNNNNOT,z A t
+1299,ذاتی,z ɒː t iː,ذاتی,CANNNNNNOT,z A t i
+1300,ذرت,z o rː æ t,ذرت,CANNNNNNOT,z o rː a t
+1301,ذرت,z u rː a t,ذرت,CANNNNNNOT,z u rː a t
+1302,ذرت,z ʊ rː a t,ذرت,CANNNNNNOT,z ʊ rː a t
+1303,ذرت,ð u rː a t,ذرت,CANNNNNNOT,ð u rː a t
+1304,ذره,z a r r a,ذره,CANNNNNNOT,z a r r a
+1305,ذره,z æ r r e,ذره,CANNNNNNOT,z a r r e
+1306,ذهن,z e h n,ذهن,CANNNNNNOT,z e h n
+1307,ذهن,z ɪ h n,ذهن,CANNNNNNOT,z i h n
+1308,ذهن,ð i h n,ذهن,CANNNNNNOT,ð i h n
+1309,را,ɾ ɒː,را,CANNNNNNOT,r A
+1310,رازی,r ɒː z iː,رازی,CANNNNNNOT,r A z i
+1311,راسته,ɾ ɑː s t a,راسته,CANNNNNNOT,r A s t a
+1312,راسته,ɾ ɒː s t a,راسته,CANNNNNNOT,r A s t a
+1313,راسته,ɾ ɒː s t e,راسته,CANNNNNNOT,r A s t e
+1314,راسته,ɾ ɔː s t a,راسته,CANNNNNNOT,r A s t a
+1315,رایانه,ɾ ɑː j ɑː n a,رایانه,CANNNNNNOT,r A y A n a
+1316,رایانه,ɾ ɒː j uː n e,رایانه,CANNNNNNOT,r A y A n e
+1317,رایانه,ɾ ɒː j ɒː n a,رایانه,CANNNNNNOT,r A y A n a
+1318,رایانه,ɾ ɒː j ɒː n e,رایانه,CANNNNNNOT,r A y A n e
+1319,رایانه,ɾ ɔː j ɔː n a,رایانه,CANNNNNNOT,r A y A n a
+1320,رباعی,ɾ o b ɒː iː,رباعی,CANNNNNNOT,r o b A i
+1321,رباعی,ɾ o b ɒː ʔ iː,رباعی,CANNNNNNOT,r o b A i
+1322,رباعی,ɾ u b ɑː ʔ iː,رباعی,CANNNNNNOT,r u b A i
+1323,رباعی,ɾ u b ɔː ʔ iː,رباعی,CANNNNNNOT,r u b A i
+1324,رباعی,ɾ ʊ b ɒː ʔ iː,رباعی,CANNNNNNOT,r ʊ b A i
+1325,رحیم,r æ h iː m,رحیم,CANNNNNNOT,r a h i m
+1326,رخ,r o x,رخ,CANNNNNNOT,r o x
+1327,رختن,r e x t æ n,رختن,CANNNNNNOT,r e x t a n
+1328,رستوران,r e s t o ɾ ɒː n,رستوران,CANNNNNNOT,r e s t o r A n
+1329,رستوران‌ها,r e s t o ɾ ɒː n h ɒː,رستورانها,CANNNNNNOT,r e s t o r A n h A
+1330,رشت,r o ʃ t,رشت,CANNNNNNOT,r o S t
+1331,رشت,r æ ʃ t,رشت,CANNNNNNOT,r a S t
+1332,رعد,r æ ʔ d,رعد,CANNNNNNOT,r a d
+1333,رغبت,r æ ɣ b æ t,رغبت,CANNNNNNOT,r a q b a t
+1334,رفتار,r æ f t ɒː r,رفتار,CANNNNNNOT,r a f t A r
+1335,رنده,ɾ a n d a,رنده,CANNNNNNOT,r a n d a
+1336,رنده,ɾ æ n d e,رنده,CANNNNNNOT,r a n d e
+1337,رنگ,ɾ a n ɡ,رنگ,CANNNNNNOT,r a n ɡ
+1338,رنگ,ɾ æ n ɡ,رنگ,CANNNNNNOT,r a n ɡ
+1339,ره,r æ h,ره,CANNNNNNOT,r a h
+1340,ره,r æː,ره,CANNNNNNOT,r aː
+1341,رواج,r æ v ɒː d͡ʒ,رواج,CANNNNNNOT,r a v A j
+1342,روادید,r æ v ɒː d̪ iː d̪,روادید,CANNNNNNOT,r a v A d̪ i d̪
+1343,روباه,ɾ oː b ɑː h,روباه,CANNNNNNOT,r oː b A h
+1344,روباه,ɾ oː b ɒː h,روباه,CANNNNNNOT,r oː b A h
+1345,روباه,ɾ uː b ɒː h,روباه,CANNNNNNOT,r A b A h
+1346,روباه,ɾ ɵː b ɔː h,روباه,CANNNNNNOT,r ɵː b A h
+1347,روح,ɾ uː h,روح,CANNNNNNOT,r A h
+1348,روح,ɾ ɵː h,روح,CANNNNNNOT,r ɵː h
+1349,روحانی,r o ʊ h ɒː n iː,روحانی,CANNNNNNOT,r o ʊ h A n i
+1350,رودابه,ɾ uː d ɒː b e,رودابه,CANNNNNNOT,r A d A b e
+1351,رودابه,ɾ uː d ɒː b æ,رودابه,CANNNNNNOT,r A d A b a
+1352,رودخانه,ɾ uː d x ɒː n e,رودخانه,CANNNNNNOT,r A d x A n e
+1353,روز,ɾ oː z,روز,CANNNNNNOT,r oː z
+1354,روز,ɾ uː z,روز,CANNNNNNOT,r A z
+1355,روز,ɾ ɵː z,روز,CANNNNNNOT,r ɵː z
+1356,روزنامه,ɾ oː z # n ɑː m a,روزنامه,CANNNNNNOT,r oː z  n A m a
+1357,روزنامه,ɾ oː z # n ɒː m a,روزنامه,CANNNNNNOT,r oː z  n A m a
+1358,روزنامه,ɾ uː z # n uː m e,روزنامه,CANNNNNNOT,r A z  n A m e
+1359,روزنامه,ɾ uː z # n ɒː m e,روزنامه,CANNNNNNOT,r A z  n A m e
+1360,روزنامه,ɾ ɵː z # n ɔː m a,روزنامه,CANNNNNNOT,r ɵː z  n A m a
+1361,روزگار,ɾ oː z ɡ ɒː ɾ,روزگار,CANNNNNNOT,r oː z ɡ A r
+1362,روزگار,ɾ uː z e ɡ ɒː ɾ,روزگار,CANNNNNNOT,r A z e ɡ A r
+1363,روزگار,ɾ ɵː z ɡ ɔː ɾ,روزگار,CANNNNNNOT,r ɵː z ɡ A r
+1364,روستا,ɾ oː s t ɑː,روستا,CANNNNNNOT,r oː s t A
+1365,روستا,ɾ oː s t ɒː,روستا,CANNNNNNOT,r oː s t A
+1366,روستا,ɾ uː s t ɒː,روستا,CANNNNNNOT,r A s t A
+1367,روستا,ɾ ɵː s t ɔː,روستا,CANNNNNNOT,r ɵː s t A
+1368,روسیه,ɾ uː s i j e,روسیه,CANNNNNNOT,r A s i y e
+1369,روش,ɾ a v i ʃ,روش,CANNNNNNOT,r a v i S
+1370,روش,ɾ a w ɪ ʃ,روش,CANNNNNNOT,r a w i S
+1371,روش,ɾ æ v e ʃ,روش,CANNNNNNOT,r a v e S
+1372,روشن,ɾ a v ʃ a n,روشن,CANNNNNNOT,r a v S a n
+1373,روشن,ɾ a w ʃ a n,روشن,CANNNNNNOT,r a w S a n
+1374,روشن,ɾ o w ʃ æ n,روشن,CANNNNNNOT,r o w S a n
+1375,روشن,ɾ oː ʃ æ n,روشن,CANNNNNNOT,r oː S a n
+1376,روشنی,ɾ a v ʃ a n iː,روشنی,CANNNNNNOT,r a v S a n i
+1377,روشنی,ɾ a w ʃ a n iː,روشنی,CANNNNNNOT,r a w S a n i
+1378,روشنی,ɾ o w ʃ æ n iː,روشنی,CANNNNNNOT,r o w S a n i
+1379,روشنی,ɾ oː ʃ e n iː,روشنی,CANNNNNNOT,r oː S e n i
+1380,رومی,ɾ oː m iː,رومی,CANNNNNNOT,r oː m i
+1381,رومی,ɾ uː m iː,رومی,CANNNNNNOT,r A m i
+1382,رومی,ɾ ɵː m iː,رومی,CANNNNNNOT,r ɵː m i
+1383,روند,ɾ æ v æ n d,روند,CANNNNNNOT,r a v a n d
+1384,ریختن,ɾ e x t a n,ریختن,CANNNNNNOT,r e x t a n
+1385,ریختن,ɾ eː x t a n,ریختن,CANNNNNNOT,r eː x t a n
+1386,ریختن,ɾ iː x t æ n,ریختن,CANNNNNNOT,r i x t a n
+1387,ریدک,r e j d æ k,ریدک,CANNNNNNOT,r e y d a k
+1388,ریدک,r eː d æ k,ریدک,CANNNNNNOT,r eː d a k
+1389,ریدک,r iː d æ k,ریدک,CANNNNNNOT,r i d a k
+1390,ریدک,r æ j d æ k,ریدک,CANNNNNNOT,r a y d a k
+1391,ریز,ɾ e z,ریز,CANNNNNNOT,r e z
+1392,ریز,ɾ eː z,ریز,CANNNNNNOT,r eː z
+1393,ریز,ɾ iː z,ریز,CANNNNNNOT,r i z
+1394,ریش,ɾ e ʃ,ریش,CANNNNNNOT,r e S
+1395,ریش,ɾ eː ʃ,ریش,CANNNNNNOT,r eː S
+1396,ریش,ɾ iː ʃ,ریش,CANNNNNNOT,r i S
+1397,ریشه,ɾ e ʃ a,ریشه,CANNNNNNOT,r e S a
+1398,ریشه,ɾ eː ʃ a,ریشه,CANNNNNNOT,r eː S a
+1399,ریشه,ɾ iː ʃ e,ریشه,CANNNNNNOT,r i S e
+1400,ریگ,ɾ e ɡ,ریگ,CANNNNNNOT,r e ɡ
+1401,ریگ,ɾ eː ɡ,ریگ,CANNNNNNOT,r eː ɡ
+1402,ریگ,ɾ iː ɡ,ریگ,CANNNNNNOT,r i ɡ
+1403,ریگستان,ɾ e ɡ i s t ɔː n,ریگستان,CANNNNNNOT,r e ɡ i s t A n
+1404,ریگستان,ɾ eː ɡ i s t ɑː n,ریگستان,CANNNNNNOT,r eː ɡ i s t A n
+1405,ریگستان,ɾ eː ɡ ɪ s t ɒː n,ریگستان,CANNNNNNOT,r eː ɡ i s t A n
+1406,ریگستان,ɾ iː ɡ e s t uː n,ریگستان,CANNNNNNOT,r i ɡ e s t A n
+1407,ریگستان,ɾ iː ɡ e s t ɒː n,ریگستان,CANNNNNNOT,r i ɡ e s t A n
+1408,زئوس,z e uː s,زئوس,CANNNNNNOT,z e A s
+1409,زاده,z ɑː d a,زاده,CANNNNNNOT,z A d a
+1410,زاده,z ɒː d a,زاده,CANNNNNNOT,z A d a
+1411,زاده,z ɒː d e,زاده,CANNNNNNOT,z A d e
+1412,زاده,z ɔː d a,زاده,CANNNNNNOT,z A d a
+1413,زال,z ɒː l,زال,CANNNNNNOT,z A l
+1414,زبان,z a b ɑː n,زبان,CANNNNNNOT,z a b A n
+1415,زبان,z a b ɒː n,زبان,CANNNNNNOT,z a b A n
+1416,زبان,z a b ɔː n,زبان,CANNNNNNOT,z a b A n
+1417,زبان,z æ b ɒː n,زبان,CANNNNNNOT,z a b A n
+1418,زبان,z ɒː b uː n,زبان,CANNNNNNOT,z A b A n
+1419,زبان‌ها,z æ b ɒː n h ɒː,زبانها,CANNNNNNOT,z a b A n h A
+1420,زراوند,z a ɾ ɑː v a n d,زراوند,CANNNNNNOT,z a r A v a n d
+1421,زراوند,z a ɾ ɒː w a n d,زراوند,CANNNNNNOT,z a r A w a n d
+1422,زراوند,z a ɾ ɔː v a n d,زراوند,CANNNNNNOT,z a r A v a n d
+1423,زراوند,z æ ɾ ɒː v æ n d,زراوند,CANNNNNNOT,z a r A v a n d
+1424,زراوند,z ɒː ɾ ɒː v æ n d,زراوند,CANNNNNNOT,z A r A v a n d
+1425,زرشک,z e ɾ e ʃ k,زرشک,CANNNNNNOT,z e r e S k
+1426,زرشکی,z e ɾ e ʃ k iː,زرشکی,CANNNNNNOT,z e r e S k i
+1427,زرناپا,z u r n ɒː p ɒː,زرناپا,CANNNNNNOT,z u r n A p A
+1428,زره,z e ɾ e h,زره,CANNNNNNOT,z e r e h
+1429,زره,z i ɾ e h,زره,CANNNNNNOT,z i r e h
+1430,زره,z i ɾ i h,زره,CANNNNNNOT,z i r i h
+1431,زره,z ɪ ɾ ɪ h,زره,CANNNNNNOT,z i r i h
+1432,زشت,z e ʃ t,زشت,CANNNNNNOT,z e S t
+1433,زشت,z i ʃ t,زشت,CANNNNNNOT,z i S t
+1434,زشت,z ɪ ʃ t,زشت,CANNNNNNOT,z i S t
+1435,زشتی,z e ʃ t iː,زشتی,CANNNNNNOT,z e S t i
+1436,زمان,z a m ɑː n,زمان,CANNNNNNOT,z a m A n
+1437,زمان,z a m ɒː n,زمان,CANNNNNNOT,z a m A n
+1438,زمان,z a m ɔː n,زمان,CANNNNNNOT,z a m A n
+1439,زمان,z æ m ɒː n,زمان,CANNNNNNOT,z a m A n
+1440,زمان,z ɒː m uː n,زمان,CANNNNNNOT,z A m A n
+1441,زمستان,z e m e s t uː n,زمستان,CANNNNNNOT,z e m e s t A n
+1442,زمستان,z e m e s t ɒː n,زمستان,CANNNNNNOT,z e m e s t A n
+1443,زمستان,z i m i s t ɑː n,زمستان,CANNNNNNOT,z i m i s t A n
+1444,زمستان,z i m i s t ɔː n,زمستان,CANNNNNNOT,z i m i s t A n
+1445,زمستان,z ɪ m ɪ s t ɒː n,زمستان,CANNNNNNOT,z i m i s t A n
+1446,زمی,z m iː,زمی,CANNNNNNOT,z m i
+1447,زمی,z æ m iː,زمی,CANNNNNNOT,z a m i
+1448,زمین,z a m i n,زمین,CANNNNNNOT,z a m i n
+1449,زمین,z a m iː n,زمین,CANNNNNNOT,z a m i n
+1450,زمین,z e m iː n,زمین,CANNNNNNOT,z e m i n
+1451,زمین,z æ m iː n,زمین,CANNNNNNOT,z a m i n
+1452,زمین‌شناسی,z æ m iː n ʃ e n ɒː s iː,زمینشناسی,CANNNNNNOT,z a m i n S e n A s i
+1453,زنانه,z a n ɑː n a,زنانه,CANNNNNNOT,z a n A n a
+1454,زنانه,z a n ɒː n a,زنانه,CANNNNNNOT,z a n A n a
+1455,زنانه,z a n ɔː n a,زنانه,CANNNNNNOT,z a n A n a
+1456,زنانه,z æ n ɒː n e,زنانه,CANNNNNNOT,z a n A n e
+1457,زنانه,z ɒː n uː n e,زنانه,CANNNNNNOT,z A n A n e
+1458,زنانگی,z a n ɑː n a # ɡ iː,زنانگی,CANNNNNNOT,z a n A n a  ɡ i
+1459,زنانگی,z a n ɒː n a # ɡ iː,زنانگی,CANNNNNNOT,z a n A n a  ɡ i
+1460,زنانگی,z a n ɔː n a # ɡ iː,زنانگی,CANNNNNNOT,z a n A n a  ɡ i
+1461,زنانگی,z æ n ɒː n e # ɡ iː,زنانگی,CANNNNNNOT,z a n A n e  ɡ i
+1462,زنانگی,z ɒː n uː n e # ɡ iː,زنانگی,CANNNNNNOT,z A n A n e  ɡ i
+1463,زنبق,z æ n b æ q,زنبق,CANNNNNNOT,z a n b a q
+1464,زنبور,z a m b u ɾ,زنبور,CANNNNNNOT,z a m b u r
+1465,زنبور,z a m b uː ɾ,زنبور,CANNNNNNOT,z a m b A r
+1466,زنبور,z æ m b uː ɾ,زنبور,CANNNNNNOT,z a m b A r
+1467,زندان,z e n d uː n,زندان,CANNNNNNOT,z e n d A n
+1468,زندان,z e n d ɒː n,زندان,CANNNNNNOT,z e n d A n
+1469,زندان,z i n d ɑː n,زندان,CANNNNNNOT,z i n d A n
+1470,زندان,z i n d ɔː n,زندان,CANNNNNNOT,z i n d A n
+1471,زندان,z ɪ n d ɒː n,زندان,CANNNNNNOT,z i n d A n
+1472,زنده,z e n d e,زنده,CANNNNNNOT,z e n d e
+1473,زنده,z i n d a,زنده,CANNNNNNOT,z i n d a
+1474,زنده,z ɪ n d a,زنده,CANNNNNNOT,z i n d a
+1475,زندگی,z e n d e # ɡ iː,زندگی,CANNNNNNOT,z e n d e  ɡ i
+1476,زندگی,z i n d a # ɡ iː,زندگی,CANNNNNNOT,z i n d a  ɡ i
+1477,زندگی,z ɪ n d a # ɡ iː,زندگی,CANNNNNNOT,z i n d a  ɡ i
+1478,زور,z a v ɾ,زور,CANNNNNNOT,z a v r
+1479,زور,z a w ɾ,زور,CANNNNNNOT,z a w r
+1480,زور,z o w ɾ,زور,CANNNNNNOT,z o w r
+1481,زور,z oː ɾ,زور,CANNNNNNOT,z oː r
+1482,زور,z uː ɾ,زور,CANNNNNNOT,z A r
+1483,زور,z ɵː ɾ,زور,CANNNNNNOT,z ɵː r
+1484,زورق,z o w ɾ a q,زورق,CANNNNNNOT,z o w r a q
+1485,زورق,z o w ɾ æ ɣ,زورق,CANNNNNNOT,z o w r a q
+1486,زورمند,z oː ɾ m a n d,زورمند,CANNNNNNOT,z oː r m a n d
+1487,زورمند,z uː ɾ m æ n d,زورمند,CANNNNNNOT,z A r m a n d
+1488,زورمند,z ɵː ɾ m a n d,زورمند,CANNNNNNOT,z ɵː r m a n d
+1489,زوو,z v oː,زوو,CANNNNNNOT,z v oː
+1490,زگیل,z e ɡ iː l,زگیل,CANNNNNNOT,z e ɡ i l
+1491,زیاد,z iː j ɒː d,زیاد,CANNNNNNOT,z i y A d
+1492,زیاد,z ɪ j ɒː d,زیاد,CANNNNNNOT,z i y A d
+1493,زیبا,z e b ɔː,زیبا,CANNNNNNOT,z e b A
+1494,زیبا,z eː b ɑː,زیبا,CANNNNNNOT,z eː b A
+1495,زیبا,z eː b ɒː,زیبا,CANNNNNNOT,z eː b A
+1496,زیبا,z iː b ɒː,زیبا,CANNNNNNOT,z i b A
+1497,زیباتر,z iː b ɒː t æ ɾ,زیباتر,CANNNNNNOT,z i b A t a r
+1498,زیباترین,z iː b ɒː t æ ɾ iː n,زیباترین,CANNNNNNOT,z i b A t a r i n
+1499,زیر,z e ɾ,زیر,CANNNNNNOT,z e r
+1500,زیر,z eː ɾ,زیر,CANNNNNNOT,z eː r
+1501,زیر,z iː ɾ,زیر,CANNNNNNOT,z i r
+1502,زیره,z iː ɾ e,زیره,CANNNNNNOT,z i r e
+1503,زیره,z iː ɾ æ,زیره,CANNNNNNOT,z i r a
+1504,زیستن,z iː s t æ n,زیستن,CANNNNNNOT,z i s t a n
+1505,زیست‌شناس,z iː s t ʃ e n ɒː s,زیستشناس,CANNNNNNOT,z i s t S e n A s
+1506,زیست‌شناسی,z iː s t ʃ e n ɒː s iː,زیستشناسی,CANNNNNNOT,z i s t S e n A s i
+1507,زیویدن,z iː v iː d æ n,زیویدن,CANNNNNNOT,z i v i d a n
+1508,زیگ,z iː ɡ,زیگ,CANNNNNNOT,z i ɡ
+1509,سؤال,s o ɒː l,سؤال,CANNNNNNOT,s o A l
+1510,سؤال,s u ɑː l,سؤال,CANNNNNNOT,s u A l
+1511,سؤال,s u ɔː l,سؤال,CANNNNNNOT,s u A l
+1512,سؤال,s ʊ ɒː l,سؤال,CANNNNNNOT,s ʊ A l
+1513,ساده,s ɑː d a,ساده,CANNNNNNOT,s A d a
+1514,ساده,s ɒː d a,ساده,CANNNNNNOT,s A d a
+1515,ساده,s ɒː d e,ساده,CANNNNNNOT,s A d e
+1516,ساده,s ɔː d a,ساده,CANNNNNNOT,s A d a
+1517,ساده‌تر,s ɒː d e t æ ɾ,سادهتر,CANNNNNNOT,s A d e t a r
+1518,ساده‌ترین,s ɒː d e t æ ɾ iː n,سادهترین,CANNNNNNOT,s A d e t a r i n
+1519,ساز,s ɑː z,ساز,CANNNNNNOT,s A z
+1520,ساز,s ɒː z,ساز,CANNNNNNOT,s A z
+1521,ساز,s ɔː z,ساز,CANNNNNNOT,s A z
+1522,ساعت,s ɑː ʔ a t,ساعت,CANNNNNNOT,s A a t
+1523,ساعت,s ɒː æ t,ساعت,CANNNNNNOT,s A a t
+1524,ساعت,s ɒː ʔ a t,ساعت,CANNNNNNOT,s A a t
+1525,ساعت,s ɒː ʔ æ t,ساعت,CANNNNNNOT,s A a t
+1526,ساعت,s ɔː ʔ a t,ساعت,CANNNNNNOT,s A a t
+1527,سال,s ɒː l,سال,CANNNNNNOT,s A l
+1528,سالار,s ɒː l ɒː ɾ,سالار,CANNNNNNOT,s A l A r
+1529,سالم,s ɒː l e m,سالم,CANNNNNNOT,s A l e m
+1530,سامانه,s ɒː m ɒː n e,سامانه,CANNNNNNOT,s A m A n e
+1531,سامانه‌ها,s ɒː m ɒː n e h ɒː,سامانهها,CANNNNNNOT,s A m A n e h A
+1532,سایه,s ɑː j a,سایه,CANNNNNNOT,s A y a
+1533,سایه,s ɒː j a,سایه,CANNNNNNOT,s A y a
+1534,سایه,s ɒː j e,سایه,CANNNNNNOT,s A y e
+1535,سایه,s ɔː j a,سایه,CANNNNNNOT,s A y a
+1536,سبد,s æ b æ d̪,سبد,CANNNNNNOT,s a b a d̪
+1537,سبز,s a b z,سبز,CANNNNNNOT,s a b z
+1538,سبز,s æ b z,سبز,CANNNNNNOT,s a b z
+1539,سبزه,s e b z æ,سبزه,CANNNNNNOT,s e b z a
+1540,سبزه,s æ b z e,سبزه,CANNNNNNOT,s a b z e
+1541,سبزی,s æ b z iː,سبزی,CANNNNNNOT,s a b z i
+1542,ستاره,s e t ɒː ɾ e,ستاره,CANNNNNNOT,s e t A r e
+1543,ستاره,s i t ɑː ɾ a,ستاره,CANNNNNNOT,s i t A r a
+1544,ستاره,s i t ɔː ɾ a,ستاره,CANNNNNNOT,s i t A r a
+1545,ستاره,s ɪ t ɒː ɾ a,ستاره,CANNNNNNOT,s i t A r a
+1546,ستاره‌شناس,s e t ɒː ɾ e ʃ e n ɒː s,ستارهشناس,CANNNNNNOT,s e t A r e S e n A s
+1547,ستبر,s e tʰ æ b ɾ,ستبر,CANNNNNNOT,s e t a b r
+1548,ستبر,s i tʰ a b ɾ,ستبر,CANNNNNNOT,s i t a b r
+1549,ستبر,s ɪ tʰ a b ɾ,ستبر,CANNNNNNOT,s i t a b r
+1550,ستون,s ʊ t uː n,ستون,CANNNNNNOT,s ʊ t A n
+1551,سحر,s e h ɾ,سحر,CANNNNNNOT,s e h r
+1552,سحر,s i h ɾ,سحر,CANNNNNNOT,s i h r
+1553,سحر,s ɪ h ɾ,سحر,CANNNNNNOT,s i h r
+1554,سختن,s o x t æ n,سختن,CANNNNNNOT,s o x t a n
+1555,سختن,s æ x t æ n,سختن,CANNNNNNOT,s a x t a n
+1556,سر,s e r,سر,CANNNNNNOT,s e r
+1557,سر,s æ ɾ,سر,CANNNNNNOT,s a r
+1558,سرانجام,s æ ɾ æ n d͡ʒ ɒː m,سرانجام,CANNNNNNOT,s a r a n j A m
+1559,سرای,s æ ɾ ɒː j,سرای,CANNNNNNOT,s a r A y
+1560,سرب,s o ɾ b,سرب,CANNNNNNOT,s o r b
+1561,سرب,s u ɾ b,سرب,CANNNNNNOT,s u r b
+1562,سرب,s ʊ ɾ b,سرب,CANNNNNNOT,s ʊ r b
+1563,سرجوخه,s a ɾ d ʒ u x a,سرجوخه,CANNNNNNOT,s a r j u x a
+1564,سرجوخه,s a ɾ d ʒ uː x a,سرجوخه,CANNNNNNOT,s a r j A x a
+1565,سرجوخه,s æ ɾ d ʒ uː x e,سرجوخه,CANNNNNNOT,s a r j A x e
+1566,سرحد,s æ ɾ h æ d,سرحد,CANNNNNNOT,s a r h a d
+1567,سرخ,s o ɾ x,سرخ,CANNNNNNOT,s o r x
+1568,سرخ,s u ɾ x,سرخ,CANNNNNNOT,s u r x
+1569,سرخ,s ʊ ɾ x,سرخ,CANNNNNNOT,s ʊ r x
+1570,سرد,s æ ɾ d,سرد,CANNNNNNOT,s a r d
+1571,سرداب,s æ ɾ d ɑː b,سرداب,CANNNNNNOT,s a r d A b
+1572,سردار,s æ ɾ d ɒː ɾ,سردار,CANNNNNNOT,s a r d A r
+1573,سرعت,s o ɾ æ t,سرعت,CANNNNNNOT,s o r a t
+1574,سرعت,s o ɾ ʔ æ t,سرعت,CANNNNNNOT,s o r a t
+1575,سرعت,s u ɾ ʔ a t,سرعت,CANNNNNNOT,s u r a t
+1576,سرعت,s ʊ ɾ ʔ a t,سرعت,CANNNNNNOT,s ʊ r a t
+1577,سرندیپ,s a r a n d iː p,سرندیپ,CANNNNNNOT,s a r a n d i p
+1578,سرنشین,s a ɾ n i ʃ i n,سرنشین,CANNNNNNOT,s a r n i S i n
+1579,سرنشین,s a ɾ n i ʃ iː n,سرنشین,CANNNNNNOT,s a r n i S i n
+1580,سرنشین,s a ɾ n ɪ ʃ iː n,سرنشین,CANNNNNNOT,s a r n i S i n
+1581,سرنشین,s æ ɾ n e ʃ iː n,سرنشین,CANNNNNNOT,s a r n e S i n
+1582,سرو,s a ɾ v,سرو,CANNNNNNOT,s a r v
+1583,سرو,s a ɾ w,سرو,CANNNNNNOT,s a r w
+1584,سرو,s o ɾ uː,سرو,CANNNNNNOT,s o r A
+1585,سرو,s u ɾ u,سرو,CANNNNNNOT,s u r u
+1586,سرو,s u ɾ uː,سرو,CANNNNNNOT,s u r A
+1587,سرو,s æ ɾ v,سرو,CANNNNNNOT,s a r v
+1588,سرو,s ʊ ɾ uː,سرو,CANNNNNNOT,s ʊ r A
+1589,سرودن,s o ɾ uː d æ n,سرودن,CANNNNNNOT,s o r A d a n
+1590,سرودن,s u ɾ u d a n,سرودن,CANNNNNNOT,s u r u d a n
+1591,سرودن,s u ɾ uː d a n,سرودن,CANNNNNNOT,s u r A d a n
+1592,سرودن,s ʊ ɾ uː d a n,سرودن,CANNNNNNOT,s ʊ r A d a n
+1593,سرکار,s æ ɾ k ɒː ɾ,سرکار,CANNNNNNOT,s a r k A r
+1594,سرکه,s e ɾ k e,سرکه,CANNNNNNOT,s e r k e
+1595,سرکه,s i ɾ k a,سرکه,CANNNNNNOT,s i r k a
+1596,سرکه,s ɪ ɾ k a,سرکه,CANNNNNNOT,s i r k a
+1597,سرگیجه,s a ɾ ɡ i d ʒ a,سرگیجه,CANNNNNNOT,s a r ɡ i j a
+1598,سرگیجه,s a ɾ ɡ iː d ʒ a,سرگیجه,CANNNNNNOT,s a r ɡ i j a
+1599,سرگیجه,s æ ɾ ɡ iː d ʒ e,سرگیجه,CANNNNNNOT,s a r ɡ i j e
+1600,سریانی,s o ɾ j ɒː n iː,سریانی,CANNNNNNOT,s o r y A n i
+1601,سریدن,s o ɾ iː d æ n,سریدن,CANNNNNNOT,s o r i d a n
+1602,سفید,s a f e d,سفید,CANNNNNNOT,s a f e d
+1603,سفید,s a f eː d,سفید,CANNNNNNOT,s a f eː d
+1604,سفید,s e f iː d,سفید,CANNNNNNOT,s e f i d
+1605,سفید,s æ f iː d,سفید,CANNNNNNOT,s a f i d
+1606,سقرلات,s æ ɣ e ɾ l ɒː t,سقرلات,CANNNNNNOT,s a q e r l A t
+1607,سلام,s æ l ɒː m,سلام,CANNNNNNOT,s a l A m
+1608,سلیمانی,s o l e j m ɒː n iː,سلیمانی,CANNNNNNOT,s o l e y m A n i
+1609,سمند,s æ m æ n d,سمند,CANNNNNNOT,s a m a n d
+1610,سمور,s æ m oː ɾ,سمور,CANNNNNNOT,s a m oː r
+1611,سمور,s æ m uː ɾ,سمور,CANNNNNNOT,s a m A r
+1612,سمیعی,s æ m iː ʔ iː,سمیعی,CANNNNNNOT,s a m i i
+1613,سن,s e nː,سن,CANNNNNNOT,s e nː
+1614,سن,s i nː,سن,CANNNNNNOT,s i nː
+1615,سن,s ɪ nː,سن,CANNNNNNOT,s i nː
+1616,سنبل,s o m b o l,سنبل,CANNNNNNOT,s o m b o l
+1617,سنبل,s u m b u l,سنبل,CANNNNNNOT,s u m b u l
+1618,سنبل,s ʊ m b ʊ l,سنبل,CANNNNNNOT,s ʊ m b ʊ l
+1619,سنت‌ها,s o n æ t h ɒː,سنتها,CANNNNNNOT,s o n a t h A
+1620,سنگ,s æ ŋ ɡ,سنگ,CANNNNNNOT,s a ŋ ɡ
+1621,سهراب,s o h ɾ ɒː b,سهراب,CANNNNNNOT,s o h r A b
+1622,سهراب,s u h ɾ ɑː b,سهراب,CANNNNNNOT,s u h r A b
+1623,سهراب,s ɵː h ɾ ɔː b,سهراب,CANNNNNNOT,s ɵː h r A b
+1624,سهراب,s ʊ h ɾ ɒː b,سهراب,CANNNNNNOT,s ʊ h r A b
+1625,سه‌بعدی,s e b o ʔ d iː,سهبعدی,CANNNNNNOT,s e b o d i
+1626,سوت,s oː t,سوت,CANNNNNNOT,s oː t
+1627,سوت,s uː t,سوت,CANNNNNNOT,s A t
+1628,سوخ,s oː x,سوخ,CANNNNNNOT,s oː x
+1629,سوخ,s uː x,سوخ,CANNNNNNOT,s A x
+1630,سوختن,s oː x t a n,سوختن,CANNNNNNOT,s oː x t a n
+1631,سوختن,s uː x t æ n,سوختن,CANNNNNNOT,s A x t a n
+1632,سوختن,s ɵː x t a n,سوختن,CANNNNNNOT,s ɵː x t a n
+1633,سوخته,s uː x t e,سوخته,CANNNNNNOT,s A x t e
+1634,سوداگر,s a v d ɔː ɡ a ɾ,سوداگر,CANNNNNNOT,s a v d A ɡ a r
+1635,سوداگر,s a w d ɑː ɡ a ɾ,سوداگر,CANNNNNNOT,s a w d A ɡ a r
+1636,سوداگر,s a w d ɒː ɡ a ɾ,سوداگر,CANNNNNNOT,s a w d A ɡ a r
+1637,سوداگر,s o w d ɒː ɡ æ ɾ,سوداگر,CANNNNNNOT,s o w d A ɡ a r
+1638,سوداگر,s oː d ɒː ɡ æ ɾ,سوداگر,CANNNNNNOT,s oː d A ɡ a r
+1639,سورپرایز,s u r p e ɾ ɒ j z,سورپرایز,CANNNNNNOT,s u r p e r ɒ y z
+1640,سورپرایز,s u r p ɾ ɒ j z,سورپرایز,CANNNNNNOT,s u r p r ɒ y z
+1641,سورپریز,s u r p i ɾ i z,سورپریز,CANNNNNNOT,s u r p i r i z
+1642,سورپریز,s u r p ɾ i z,سورپریز,CANNNNNNOT,s u r p r i z
+1643,سوریه,s uː ɾ i j e,سوریه,CANNNNNNOT,s A r i y e
+1644,سوز,s oː z,سوز,CANNNNNNOT,s oː z
+1645,سوز,s uː z,سوز,CANNNNNNOT,s A z
+1646,سوز,s ɵː z,سوز,CANNNNNNOT,s ɵː z
+1647,سوسمار,s uː s m ɒː r,سوسمار,CANNNNNNOT,s A s m A r
+1648,سوسن,s oː s æ n,سوسن,CANNNNNNOT,s oː s a n
+1649,سوسن,s uː s æ n,سوسن,CANNNNNNOT,s A s a n
+1650,سوسن,s æ ʊ s æ n,سوسن,CANNNNNNOT,s a ʊ s a n
+1651,سوگ,s oː ɡ,سوگ,CANNNNNNOT,s oː ɡ
+1652,سوگ,s uː ɡ,سوگ,CANNNNNNOT,s A ɡ
+1653,سوگ,s ɵː ɡ,سوگ,CANNNNNNOT,s ɵː ɡ
+1654,سوگند,s a v ɡ a n d,سوگند,CANNNNNNOT,s a v ɡ a n d
+1655,سوگند,s a w ɡ a n d,سوگند,CANNNNNNOT,s a w ɡ a n d
+1656,سوگند,s o w ɡ æ n d,سوگند,CANNNNNNOT,s o w ɡ a n d
+1657,سوگند,s oː ɡ æ n d,سوگند,CANNNNNNOT,s oː ɡ a n d
+1658,سپاه,s e p ɒː h,سپاه,CANNNNNNOT,s e p A h
+1659,سپاهی,s e p ɒː h iː,سپاهی,CANNNNNNOT,s e p A h i
+1660,سپر,s e p æ ɾ,سپر,CANNNNNNOT,s e p a r
+1661,سپهسالار,s e p æ h s ɒː l ɒː ɾ,سپهسالار,CANNNNNNOT,s e p a h s A l A r
+1662,سپهسالار,s ɪ p æ h s ɒː l ɒː ɾ,سپهسالار,CANNNNNNOT,s i p a h s A l A r
+1663,سژناک,s e ʒ n ɒː k,سژناک,CANNNNNNOT,s e ʒ n A k
+1664,سکه,s e kː e,سکه,CANNNNNNOT,s e kː e
+1665,سکه,s i kː a,سکه,CANNNNNNOT,s i kː a
+1666,سکه,s ɪ kː a,سکه,CANNNNNNOT,s i kː a
+1667,سیاره‌ها,s æ j ɒː ɾ e h ɒː,سیارهها,CANNNNNNOT,s a y A r e h A
+1668,سیاه,s i j ɑː h,سیاه,CANNNNNNOT,s i y A h
+1669,سیاه,s i j ɒː h,سیاه,CANNNNNNOT,s i y A h
+1670,سیاه,s i j ɔː h,سیاه,CANNNNNNOT,s i y A h
+1671,سیاه‌گوش,s i j ɒː h ɡ oː ʃ,سیاهگوش,CANNNNNNOT,s i y A h ɡ oː S
+1672,سیب,s e b,سیب,CANNNNNNOT,s e b
+1673,سیب,s eː b,سیب,CANNNNNNOT,s eː b
+1674,سیب,s iː b,سیب,CANNNNNNOT,s i b
+1675,سید,s a j j i d,سید,CANNNNNNOT,s a y y i d
+1676,سید,s a j j ɪ d,سید,CANNNNNNOT,s a y y i d
+1677,سید,s e j j e d,سید,CANNNNNNOT,s e y y e d
+1678,سیر,s e ɾ,سیر,CANNNNNNOT,s e r
+1679,سیر,s eː ɾ,سیر,CANNNNNNOT,s eː r
+1680,سیر,s iː ɾ,سیر,CANNNNNNOT,s i r
+1681,سیزده,s e z d a h,سیزده,CANNNNNNOT,s e z d a h
+1682,سیزده,s eː z d a h,سیزده,CANNNNNNOT,s eː z d a h
+1683,سیزده,s iː z d æ h,سیزده,CANNNNNNOT,s i z d a h
+1684,سیستم,s iː s tʰ e m,سیستم,CANNNNNNOT,s i s t e m
+1685,سیل,s a j l,سیل,CANNNNNNOT,s a y l
+1686,سیل,s e j l,سیل,CANNNNNNOT,s e y l
+1687,سیلاس,s iː l ɒː s,سیلاس,CANNNNNNOT,s i l A s
+1688,سیلو,s i l u,سیلو,CANNNNNNOT,s i l u
+1689,سیم,s e j o m,سیم,CANNNNNNOT,s e y o m
+1690,سیم,s iː m,سیم,CANNNNNNOT,s i m
+1691,سینا,s iː n ɒː,سینا,CANNNNNNOT,s i n A
+1692,ش,j e ʃ,ش,CANNNNNNOT,y e S
+1693,ش,j i ʃ,ش,CANNNNNNOT,y i S
+1694,ش,j ɪ ʃ,ش,CANNNNNNOT,y i S
+1695,شات,ʃ ɒː t,شات,CANNNNNNOT,S A t
+1696,شاخ,ʃ ɒ x,شاخ,CANNNNNNOT,S ɒ x
+1697,شاخه,ʃ ɒː x e,شاخه,CANNNNNNOT,S A x e
+1698,شاداب,ʃ ɒː d ɒː b,شاداب,CANNNNNNOT,S A d A b
+1699,شادمان,ʃ ɒː d m ɒː n,شادمان,CANNNNNNOT,S A d m A n
+1700,شاذ,ʃ ɒː z,شاذ,CANNNNNNOT,S A z
+1701,شاعر,ʃ ɑː ʔ i ɾ,شاعر,CANNNNNNOT,S A i r
+1702,شاعر,ʃ ɒː e ɾ,شاعر,CANNNNNNOT,S A e r
+1703,شاعر,ʃ ɒː ʔ e ɾ,شاعر,CANNNNNNOT,S A e r
+1704,شاعر,ʃ ɒː ʔ ɪ ɾ,شاعر,CANNNNNNOT,S A i r
+1705,شاعر,ʃ ɔː ʔ i ɾ,شاعر,CANNNNNNOT,S A i r
+1706,شال,ʃ ɒː l,شال,CANNNNNNOT,S A l
+1707,شاه,ʃ ɒː h,شاه,CANNNNNNOT,S A h
+1708,شاهان,ʃ ɒː h ɒː n,شاهان,CANNNNNNOT,S A h A n
+1709,شاهانشاه,ʃ ɑː h ɑː n ʃ ɑː h,شاهانشاه,CANNNNNNOT,S A h A n S A h
+1710,شاهانشاه,ʃ ɒː h uː n ʃ ɒː h,شاهانشاه,CANNNNNNOT,S A h A n S A h
+1711,شاهانشاه,ʃ ɒː h ɒː n ʃ ɒː h,شاهانشاه,CANNNNNNOT,S A h A n S A h
+1712,شاهانشاه,ʃ ɔː h ɔː n ʃ ɔː h,شاهانشاه,CANNNNNNOT,S A h A n S A h
+1713,شاهزاده,ʃ ɒː h z ɒː d e,شاهزاده,CANNNNNNOT,S A h z A d e
+1714,شاهزادگان,ʃ ɒː h z ɒː d e ɡ ɒː n,شاهزادگان,CANNNNNNOT,S A h z A d e ɡ A n
+1715,شاهنامه,ʃ ɑː h n ɑː m a,شاهنامه,CANNNNNNOT,S A h n A m a
+1716,شاهنامه,ʃ ɒː h n uː m e,شاهنامه,CANNNNNNOT,S A h n A m e
+1717,شاهنامه,ʃ ɒː h n ɒː m a,شاهنامه,CANNNNNNOT,S A h n A m a
+1718,شاهنامه,ʃ ɒː h n ɒː m e,شاهنامه,CANNNNNNOT,S A h n A m e
+1719,شاهنامه,ʃ ɔː h n ɔː m a,شاهنامه,CANNNNNNOT,S A h n A m a
+1720,شاهنشاه,ʃ ɑː h a n ʃ ɑː h,شاهنشاه,CANNNNNNOT,S A h a n S A h
+1721,شاهنشاه,ʃ ɒː h a n ʃ ɒː h,شاهنشاه,CANNNNNNOT,S A h a n S A h
+1722,شاهنشاه,ʃ ɒː h æ n ʃ ɒː h,شاهنشاه,CANNNNNNOT,S A h a n S A h
+1723,شاهنشاه,ʃ ɔː h a n ʃ ɔː h,شاهنشاه,CANNNNNNOT,S A h a n S A h
+1724,شاهین,ʃ ɒː h iː n,شاهین,CANNNNNNOT,S A h i n
+1725,شاه‌دانه,ʃ ɑː h d ɑː n a,شاهدانه,CANNNNNNOT,S A h d A n a
+1726,شاه‌دانه,ʃ ɒː h d ɒː n a,شاهدانه,CANNNNNNOT,S A h d A n a
+1727,شاه‌دانه,ʃ ɒː h d ɒː n e,شاهدانه,CANNNNNNOT,S A h d A n e
+1728,شاه‌دانه,ʃ ɔː h d ɔː n a,شاهدانه,CANNNNNNOT,S A h d A n a
+1729,شاپور,ʃ ɒː p uː ɾ,شاپور,CANNNNNNOT,S A p A r
+1730,شاگرد,ʃ ɑː ɡ i ɾ d̪,شاگرد,CANNNNNNOT,S A ɡ i r d̪
+1731,شاگرد,ʃ ɒː ɡ e ɾ d̪,شاگرد,CANNNNNNOT,S A ɡ e r d̪
+1732,شاگرد,ʃ ɒː ɡ ɪ ɾ d̪,شاگرد,CANNNNNNOT,S A ɡ i r d̪
+1733,شاگرد,ʃ ɔː ɡ i ɾ d̪,شاگرد,CANNNNNNOT,S A ɡ i r d̪
+1734,شاید,ʃ ɒː j æ d,شاید,CANNNNNNOT,S A y a d
+1735,شب,ʃ a b,شب,CANNNNNNOT,S a b
+1736,شب,ʃ æ b,شب,CANNNNNNOT,S a b
+1737,شبنم,ʃ a b n a m,شبنم,CANNNNNNOT,S a b n a m
+1738,شبنم,ʃ æ b n æ m,شبنم,CANNNNNNOT,S a b n a m
+1739,شجاعت,ʃ a d͡ʒ ɒ ʔ a t,شجاعت,CANNNNNNOT,S a j ɒ a t
+1740,شجاعت,ʃ o d͡ʒ ɒ ʔ a t,شجاعت,CANNNNNNOT,S o j ɒ a t
+1741,شجر,ʃ æ d ʒ æ r,شجر,CANNNNNNOT,S a j a r
+1742,شخص,ʃ æ x s,شخص,CANNNNNNOT,S a x s
+1743,شد,ʃ o d,شد,CANNNNNNOT,S o d
+1744,شد,ʃ u d,شد,CANNNNNNOT,S u d
+1745,شدن,ʃ o d æ n,شدن,CANNNNNNOT,S o d a n
+1746,شدن,ʃ u d a n,شدن,CANNNNNNOT,S u d a n
+1747,شدن,ʃ ʊ d a n,شدن,CANNNNNNOT,S ʊ d a n
+1748,شدنی,ʃ o d æ n iː,شدنی,CANNNNNNOT,S o d a n i
+1749,شرط,ʃ a ɾ t,شرط,CANNNNNNOT,S a r t
+1750,شرط,ʃ æ ɾ t,شرط,CANNNNNNOT,S a r t
+1751,شروع,ʃ o r uː ʔ,شروع,CANNNNNNOT,S o r A ʔ
+1752,شعب,ʃ o ʔ æ b,شعب,CANNNNNNOT,S o a b
+1753,شعبه,ʃ o ʔ b e,شعبه,CANNNNNNOT,S o b e
+1754,شعبه,ʃ oː b e,شعبه,CANNNNNNOT,S oː b e
+1755,شعبه,ʃ u ʔ b a,شعبه,CANNNNNNOT,S u b a
+1756,شعبه,ʃ ɵː ʔ b a,شعبه,CANNNNNNOT,S ɵː b a
+1757,شعبه,ʃ ʊ ʔ b a,شعبه,CANNNNNNOT,S ʊ b a
+1758,شعر,ʃ e ʔ ɾ,شعر,CANNNNNNOT,S e r
+1759,شعر,ʃ eː ɾ,شعر,CANNNNNNOT,S eː r
+1760,شعر,ʃ i ʔ ɾ,شعر,CANNNNNNOT,S i r
+1761,شعر,ʃ ɪ ʔ ɾ,شعر,CANNNNNNOT,S i r
+1762,شغال,ʃ o ɣ ɒː l,شغال,CANNNNNNOT,S o q A l
+1763,شغال,ʃ æ ɣ ɒː l,شغال,CANNNNNNOT,S a q A l
+1764,شغال‌ها,ʃ o ɣ ɒː l ɒː,شغالها,CANNNNNNOT,S o q A l A
+1765,شغال‌ها,ʃ æ ɣ ɒː l h ɒː,شغالها,CANNNNNNOT,S a q A l h A
+1766,شلغم,ʃ æ l ɣ æ m,شلغم,CANNNNNNOT,S a l q a m
+1767,شلوار,ʃ a l v ɔː ɾ,شلوار,CANNNNNNOT,S a l v A r
+1768,شلوار,ʃ æ l v ɒː ɾ,شلوار,CANNNNNNOT,S a l v A r
+1769,شلوار,ʃ æ l w ɒː ɾ,شلوار,CANNNNNNOT,S a l w A r
+1770,شلوغ,ʃ o l uː ɣ,شلوغ,CANNNNNNOT,S o l A q
+1771,شلوغ‌تر,ʃ o l uː ɣ t æ ɾ,شلوغتر,CANNNNNNOT,S o l A q t a r
+1772,شلوغ‌ترین,ʃ o l uː ɣ t æ ɾ iː n,شلوغترین,CANNNNNNOT,S o l A q t a r i n
+1773,شمال,ʃ o m ɒː l,شمال,CANNNNNNOT,S o m A l
+1774,شمع,ʃ æ m ʔ,شمع,CANNNNNNOT,S a m ʔ
+1775,شناختن,ʃ e n ɒː x t æ n,شناختن,CANNNNNNOT,S e n A x t a n
+1776,شناختن,ʃ i n ɑː x t a n,شناختن,CANNNNNNOT,S i n A x t a n
+1777,شناختن,ʃ i n ɔː x t a n,شناختن,CANNNNNNOT,S i n A x t a n
+1778,شناختن,ʃ ɪ n ɒː x t a n,شناختن,CANNNNNNOT,S i n A x t a n
+1779,شناسی,ʃ e n ɒː s iː,شناسی,CANNNNNNOT,S e n A s i
+1780,شناسی,ʃ i n ɑː s iː,شناسی,CANNNNNNOT,S i n A s i
+1781,شناسی,ʃ i n ɔː s iː,شناسی,CANNNNNNOT,S i n A s i
+1782,شناسی,ʃ ɪ n ɒː s iː,شناسی,CANNNNNNOT,S i n A s i
+1783,شنبلیله,ʃ æ m b æ l iː l e,شنبلیله,CANNNNNNOT,S a m b a l i l e
+1784,شنبلیله,ʃ æ m b æ l iː l æ,شنبلیله,CANNNNNNOT,S a m b a l i l a
+1785,شنیدن,ʃ e n iː d æ n ~ ʃ o n iː d æ n,شنیدن,CANNNNNNOT,S e n i d a n ~ S o n i d a n
+1786,شنیدن,ʃ i n i d a n ~ ʃ u n i d a n,شنیدن,CANNNNNNOT,S i n i d a n ~ S u n i d a n
+1787,شنیدن,ʃ i n iː d a n ~ ʃ u n iː d a n,شنیدن,CANNNNNNOT,S i n i d a n ~ S u n i d a n
+1788,شنیدن,ʃ ɪ n iː d a n ~ ʃ ʊ n iː d a n,شنیدن,CANNNNNNOT,S i n i d a n ~ S ʊ n i d a n
+1789,شهادت,ʃ æ h ɒː d̪ æ t̪,شهادت,CANNNNNNOT,S a h A d̪ a t
+1790,شهر,ʃ æ h ɾ,شهر,CANNNNNNOT,S a h r
+1791,شهرزاد,ʃ æ h ɾ z ɒː d,شهرزاد,CANNNNNNOT,S a h r z A d
+1792,شهریور,ʃ æ h ɾ iː v æ ɾ,شهریور,CANNNNNNOT,S a h r i v a r
+1793,شهلا,ʃ a h l ɑː,شهلا,CANNNNNNOT,S a h l A
+1794,شهلا,ʃ a h l ɒː,شهلا,CANNNNNNOT,S a h l A
+1795,شهلا,ʃ a h l ɔː,شهلا,CANNNNNNOT,S a h l A
+1796,شهلا,ʃ æ h l ɒː,شهلا,CANNNNNNOT,S a h l A
+1797,شو,ʃ o w,شو,CANNNNNNOT,S o w
+1798,شو,ʃ æ v,شو,CANNNNNNOT,S a v
+1799,شوخی,ʃ oː x iː,شوخی,CANNNNNNOT,S oː x i
+1800,شوخی,ʃ uː x iː,شوخی,CANNNNNNOT,S A x i
+1801,شوخی,ʃ ɵː x iː,شوخی,CANNNNNNOT,S ɵː x i
+1802,شور,ʃ oː ɾ,شور,CANNNNNNOT,S oː r
+1803,شور,ʃ uː ɾ,شور,CANNNNNNOT,S A r
+1804,شور,ʃ ɵː ɾ,شور,CANNNNNNOT,S ɵː r
+1805,شورا,ʃ o ʊ̯ ɾ ɒː,شورا,CANNNNNNOT,S o ʊ̯ r A
+1806,شورا,ʃ u ɾ ɔː,شورا,CANNNNNNOT,S u r A
+1807,شورا,ʃ uː ɾ ɑː,شورا,CANNNNNNOT,S A r A
+1808,شورا,ʃ uː ɾ ɒː,شورا,CANNNNNNOT,S A r A
+1809,شورا,ʃ ɵː ɾ ɔː,شورا,CANNNNNNOT,S ɵː r A
+1810,شوربا,ʃ oː ɾ b ɑː,شوربا,CANNNNNNOT,S oː r b A
+1811,شوربا,ʃ oː ɾ b ɒː,شوربا,CANNNNNNOT,S oː r b A
+1812,شوربا,ʃ uː ɾ b ɒː,شوربا,CANNNNNNOT,S A r b A
+1813,شوربا,ʃ ɵː ɾ b ɔː,شوربا,CANNNNNNOT,S ɵː r b A
+1814,شوره,ʃ oː ɾ e,شوره,CANNNNNNOT,S oː r e
+1815,شوره,ʃ uː ɾ æ,شوره,CANNNNNNOT,S A r a
+1816,شوروی,ʃ uː ɾ æ v iː,شوروی,CANNNNNNOT,S A r a v i
+1817,شوهر,ʃ a v h a ɾ,شوهر,CANNNNNNOT,S a v h a r
+1818,شوهر,ʃ a w h a ɾ,شوهر,CANNNNNNOT,S a w h a r
+1819,شوهر,ʃ o w h æ ɾ,شوهر,CANNNNNNOT,S o w h a r
+1820,شوهر,ʃ oː h æ ɾ,شوهر,CANNNNNNOT,S oː h a r
+1821,شوکران,ʃ a v k a ɾ ɔː n,شوکران,CANNNNNNOT,S a v k a r A n
+1822,شوکران,ʃ a w k a ɾ ɑː n,شوکران,CANNNNNNOT,S a w k a r A n
+1823,شوکران,ʃ a w k a ɾ ɒː n,شوکران,CANNNNNNOT,S a w k a r A n
+1824,شوکران,ʃ o w k æ ɾ ɒː n,شوکران,CANNNNNNOT,S o w k a r A n
+1825,شوکران,ʃ oː k ɒː ɾ uː n,شوکران,CANNNNNNOT,S oː k A r A n
+1826,شوید,ʃ e v iː d,شوید,CANNNNNNOT,S e v i d
+1827,شپش,ʃ e p e ʃ,شپش,CANNNNNNOT,S e p e S
+1828,شپش‌ها,ʃ e p e ʃ h ɒː,شپشها,CANNNNNNOT,S e p e S h A
+1829,شکال,ʃ e k ɒː l,شکال,CANNNNNNOT,S e k A l
+1830,شکال,ʃ o k ɒː l,شکال,CANNNNNNOT,S o k A l
+1831,شکست,ʃ e k æ s t,شکست,CANNNNNNOT,S e k a s t
+1832,شکست,ʃ i k a s t,شکست,CANNNNNNOT,S i k a s t
+1833,شکست,ʃ ɪ k a s t,شکست,CANNNNNNOT,S i k a s t
+1834,شکستن,ʃ e kʲ æ s t̪ʰ æ n,شکستن,CANNNNNNOT,S e kʲ a s tʰ a n
+1835,شکستنی,ʃ i k æ s t̪ æ n iː,شکستنی,CANNNNNNOT,S i k a s t a n i
+1836,شکسته‌نستعلیق,ʃ ɪ k æ s t æ n æ s t æ ʔ l iː q,شکستهنستعلیق,CANNNNNNOT,S i k a s t a n a s t a l i q
+1837,شکلاتی,ʃ o kʰ o l ɒ tʰ i,شکلاتی,CANNNNNNOT,S o kʰ o l ɒ t i
+1838,شیدا,ʃ e j d ɒː,شیدا,CANNNNNNOT,S e y d A
+1839,شیدا,ʃ æ j d ɒː,شیدا,CANNNNNNOT,S a y d A
+1840,شیر,ʃ e ɾ,شیر,CANNNNNNOT,S e r
+1841,شیر,ʃ eː ɾ,شیر,CANNNNNNOT,S eː r
+1842,شیر,ʃ i ɾ,شیر,CANNNNNNOT,S i r
+1843,شیر,ʃ iː ɾ,شیر,CANNNNNNOT,S i r
+1844,شیراز,ʃ e ɾ ɔː z,شیراز,CANNNNNNOT,S e r A z
+1845,شیراز,ʃ eː ɾ ɑː z,شیراز,CANNNNNNOT,S eː r A z
+1846,شیراز,ʃ eː ɾ ɒː z,شیراز,CANNNNNNOT,S eː r A z
+1847,شیراز,ʃ iː ɾ ɒː z,شیراز,CANNNNNNOT,S i r A z
+1848,شیرین,ʃ iː ɾ iː n,شیرین,CANNNNNNOT,S i r i n
+1849,شیرین‌تر,ʃ iː ɾ iː n t æ ɾ,شیرینتر,CANNNNNNOT,S i r i n t a r
+1850,شیرین‌ترین,ʃ iː ɾ iː n t æ ɾ iː n,شیرینترین,CANNNNNNOT,S i r i n t a r i n
+1851,شیشه,ʃ i ʃ a,شیشه,CANNNNNNOT,S i S a
+1852,شیشه,ʃ iː ʃ a,شیشه,CANNNNNNOT,S i S a
+1853,شیشه,ʃ iː ʃ e,شیشه,CANNNNNNOT,S i S e
+1854,شیطان,ʃ a j t ɑː n,شیطان,CANNNNNNOT,S a y t A n
+1855,شیطان,ʃ a j t ɒː n,شیطان,CANNNNNNOT,S a y t A n
+1856,شیطان,ʃ a j t ɔː n,شیطان,CANNNNNNOT,S a y t A n
+1857,شیطان,ʃ e j t uː n,شیطان,CANNNNNNOT,S e y t A n
+1858,شیطان,ʃ e j t ɒː n,شیطان,CANNNNNNOT,S e y t A n
+1859,شیوا,ʃ eː w ɒː,شیوا,CANNNNNNOT,S eː w A
+1860,شیوا,ʃ iː v ɒː,شیوا,CANNNNNNOT,S i v A
+1861,شیک,ʃ iː k,شیک,CANNNNNNOT,S i k
+1862,صابون,s ɒː b uː n,صابون,CANNNNNNOT,s A b A n
+1863,صادق,s ɑː d i q,صادق,CANNNNNNOT,s A d i q
+1864,صادق,s ɒː d e ɣ,صادق,CANNNNNNOT,s A d e q
+1865,صادق,s ɒː d ɪ q,صادق,CANNNNNNOT,s A d i q
+1866,صادق,s ɔː d i q,صادق,CANNNNNNOT,s A d i q
+1867,صاعقه,s ɑː ʔ i q a,صاعقه,CANNNNNNOT,s A i q a
+1868,صاعقه,s ɒː e ɣ e,صاعقه,CANNNNNNOT,s A e q e
+1869,صاعقه,s ɒː ʔ e ɣ e,صاعقه,CANNNNNNOT,s A e q e
+1870,صاعقه,s ɒː ʔ ɪ q a,صاعقه,CANNNNNNOT,s A i q a
+1871,صاعقه,s ɔː ʔ i q a,صاعقه,CANNNNNNOT,s A i q a
+1872,صبحانه,s o b h ɒː n e,صبحانه,CANNNNNNOT,s o b h A n e
+1873,صبور,s æ b uː ɾ,صبور,CANNNNNNOT,s a b A r
+1874,صحبت,s o h b æ t,صحبت,CANNNNNNOT,s o h b a t
+1875,صحبت,s u h b a t,صحبت,CANNNNNNOT,s u h b a t
+1876,صحبت,s ɵː h b a t,صحبت,CANNNNNNOT,s ɵː h b a t
+1877,صحبت,s ʊ h b a t,صحبت,CANNNNNNOT,s ʊ h b a t
+1878,صحنه,s æ h n e,صحنه,CANNNNNNOT,s a h n e
+1879,صحیح,s a h e h,صحیح,CANNNNNNOT,s a h e h
+1880,صحیح,s a h iː h,صحیح,CANNNNNNOT,s a h i h
+1881,صحیح,s æ h iː h,صحیح,CANNNNNNOT,s a h i h
+1882,صدا,s æ d ɒː,صدا,CANNNNNNOT,s a d A
+1883,صرف,s e ɾ f,صرف,CANNNNNNOT,s e r f
+1884,صرف,s i ɾ f,صرف,CANNNNNNOT,s i r f
+1885,صرف,s ɪ ɾ f,صرف,CANNNNNNOT,s i r f
+1886,صفت,s e f æ t,صفت,CANNNNNNOT,s e f a t
+1887,صندلی,s æ n d æ l iː,صندلی,CANNNNNNOT,s a n d a l i
+1888,صندوق,s a n d u q,صندوق,CANNNNNNOT,s a n d u q
+1889,صندوق,s a n d uː q,صندوق,CANNNNNNOT,s a n d A q
+1890,صندوق,s æ n d uː ɣ,صندوق,CANNNNNNOT,s a n d A q
+1891,صنعت,s æ n ʔ æ t,صنعت,CANNNNNNOT,s a n a t
+1892,صنوبر,s a n a v b a ɾ,صنوبر,CANNNNNNOT,s a n a v b a r
+1893,صنوبر,s a n a w b a ɾ,صنوبر,CANNNNNNOT,s a n a w b a r
+1894,صنوبر,s æ n o w b æ ɾ,صنوبر,CANNNNNNOT,s a n o w b a r
+1895,صنوبر,s æ n oː b æ ɾ,صنوبر,CANNNNNNOT,s a n oː b a r
+1896,صورتى,s uː ɾ æ tʰ iː,صورتى,CANNNNNNOT,s A r a t i
+1897,صورتی,s uː ɾ æ tʰ iː,صورتی,CANNNNNNOT,s A r a t i
+1898,ضخیم,z æ x iː m,ضخیم,CANNNNNNOT,z a x i m
+1899,ضربان,z æ ɾ æ b ɒː n,ضربان,CANNNNNNOT,z a r a b A n
+1900,ضلع,z e l ʔ,ضلع,CANNNNNNOT,z e l ʔ
+1901,طاس,t ɒː s,طاس,CANNNNNNOT,t A s
+1902,طاقت,t ɑː q a t,طاقت,CANNNNNNOT,t A q a t
+1903,طاقت,t ɒː q a t,طاقت,CANNNNNNOT,t A q a t
+1904,طاقت,t ɒː ɣ æ t,طاقت,CANNNNNNOT,t A q a t
+1905,طاقت,t ɔː q a t,طاقت,CANNNNNNOT,t A q a t
+1906,طاووس,t ɑː v uː s,طاووس,CANNNNNNOT,t A v A s
+1907,طاووس,t ɒː v uː s,طاووس,CANNNNNNOT,t A v A s
+1908,طاووس,t ɒː w uː s,طاووس,CANNNNNNOT,t A w A s
+1909,طاووس,t ɔː v u s,طاووس,CANNNNNNOT,t A v u s
+1910,طبقه,t a b a q a,طبقه,CANNNNNNOT,t a b a q a
+1911,طبقه,t æ b æ ɣ e,طبقه,CANNNNNNOT,t a b a q e
+1912,طعم,t æ ʔ m,طعم,CANNNNNNOT,t a m
+1913,طلا,tʰ e l ɒː,طلا,CANNNNNNOT,t e l A
+1914,طلا,tʰ æ l ɒː,طلا,CANNNNNNOT,t a l A
+1915,طور,t a v ɾ,طور,CANNNNNNOT,t a v r
+1916,طور,t a w ɾ,طور,CANNNNNNOT,t a w r
+1917,طور,t o w ɾ,طور,CANNNNNNOT,t o w r
+1918,طور,t oː ɾ,طور,CANNNNNNOT,t oː r
+1919,طیاره,t a j j ɑː ɾ a,طیاره,CANNNNNNOT,t a y y A r a
+1920,طیاره,t a j j ɒː ɾ a,طیاره,CANNNNNNOT,t a y y A r a
+1921,طیاره,t a j j ɔː ɾ a,طیاره,CANNNNNNOT,t a y y A r a
+1922,طیاره,t e j j ɒː ɾ e,طیاره,CANNNNNNOT,t e y y A r e
+1923,ظهر,z o h ɾ,ظهر,CANNNNNNOT,z o h r
+1924,ظهر,z u h ɾ,ظهر,CANNNNNNOT,z u h r
+1925,ظهر,z ɵː h ɾ,ظهر,CANNNNNNOT,z ɵː h r
+1926,ظهر,z ʊ h ɾ,ظهر,CANNNNNNOT,z ʊ h r
+1927,ظهور,z o h uː ɾ,ظهور,CANNNNNNOT,z o h A r
+1928,ظهور,z u h u ɾ,ظهور,CANNNNNNOT,z u h u r
+1929,ظهور,z u h uː ɾ,ظهور,CANNNNNNOT,z u h A r
+1930,ظهور,z ʊ h uː ɾ,ظهور,CANNNNNNOT,z ʊ h A r
+1931,عاشق,ɑː ʃ i q,عاشق,CANNNNNNOT,A S i q
+1932,عاشق,ɒː ʃ e ɣ,عاشق,CANNNNNNOT,A S e q
+1933,عاشق,ɒː ʃ ɪ q,عاشق,CANNNNNNOT,A S i q
+1934,عاشق,ɔː ʃ i q,عاشق,CANNNNNNOT,A S i q
+1935,عاصی,ʔ ɒː s iː,عاصی,CANNNNNNOT,A s i
+1936,عباء,a b ɒː,عباء,CANNNNNNOT,a b A
+1937,عباسی,ʔ æ b b ɒː s iː,عباسی,CANNNNNNOT,a b b A s i
+1938,عثمان,o s m ɒː n,عثمان,CANNNNNNOT,o s m A n
+1939,عثمان,u s m ɑː n,عثمان,CANNNNNNOT,u s m A n
+1940,عثمان,u s m ɔː n,عثمان,CANNNNNNOT,u s m A n
+1941,عثمان,ʊ s m ɒː n,عثمان,CANNNNNNOT,ʊ s m A n
+1942,عجان,ʔ e d ʒ ɒː n,عجان,CANNNNNNOT,e j A n
+1943,عجیب‌تر,æ d ʒ iː b t æ ɾ,عجیبتر,CANNNNNNOT,a j i b t a r
+1944,عجیب‌ترین,æ d ʒ iː b t æ ɾ iː n,عجیبترین,CANNNNNNOT,a j i b t a r i n
+1945,عروس,ʔ æ ɾ uː s,عروس,CANNNNNNOT,a r A s
+1946,عشق,e ʃ ɣ,عشق,CANNNNNNOT,e S q
+1947,عشق,i ʃ q,عشق,CANNNNNNOT,i S q
+1948,عشق,ɪ ʃ q,عشق,CANNNNNNOT,i S q
+1949,عشق‌آباد,e ʃ ɣ ɒː b ɒː d,عشقآباد,CANNNNNNOT,e S q A b A d
+1950,عشق‌آباد,i ʃ q ɑː b ɑː d,عشقآباد,CANNNNNNOT,i S q A b A d
+1951,عشق‌آباد,i ʃ q ɔː b ɔː d,عشقآباد,CANNNNNNOT,i S q A b A d
+1952,عشق‌آباد,ɪ ʃ q ɒː b ɒː d,عشقآباد,CANNNNNNOT,i S q A b A d
+1953,عضو,o z v,عضو,CANNNNNNOT,o z v
+1954,عضو,u z v,عضو,CANNNNNNOT,u z v
+1955,عضو,ʊ z w,عضو,CANNNNNNOT,ʊ z w
+1956,عضوها,o z v h ɒ,عضوها,CANNNNNNOT,o z v h ɒ
+1957,عقرب,ʔ æ ɣ ɾ æ b,عقرب,CANNNNNNOT,a q r a b
+1958,علف,ʔ æ l æ f,علف,CANNNNNNOT,a l a f
+1959,عمر,o m æ ɾ,عمر,CANNNNNNOT,o m a r
+1960,عمر,o m ɾ,عمر,CANNNNNNOT,o m r
+1961,عمر,u m a ɾ,عمر,CANNNNNNOT,u m a r
+1962,عمر,u m ɾ,عمر,CANNNNNNOT,u m r
+1963,عمر,ʊ m a ɾ,عمر,CANNNNNNOT,ʊ m a r
+1964,عمر,ʊ m ɾ,عمر,CANNNNNNOT,ʊ m r
+1965,عمو,a m u,عمو,CANNNNNNOT,a m u
+1966,عنصر,o n s o ɾ,عنصر,CANNNNNNOT,o n s o r
+1967,عنصر,u n s u ɾ,عنصر,CANNNNNNOT,u n s u r
+1968,عنصر,ʊ n s ʊ ɾ,عنصر,CANNNNNNOT,ʊ n s ʊ r
+1969,غایب,ɣ ɑː j i b,غایب,CANNNNNNOT,q A y i b
+1970,غایب,ɣ ɒː j e b,غایب,CANNNNNNOT,q A y e b
+1971,غایب,ɣ ɒː j ɪ b,غایب,CANNNNNNOT,q A y i b
+1972,غایب,ɣ ɔː j i b,غایب,CANNNNNNOT,q A y i b
+1973,غذا,ɢ e z ɒː,غذا,CANNNNNNOT,ɢ e z A
+1974,غذا,ɣ e z ɒː ~ ɣ æ z ɒː,غذا,CANNNNNNOT,q e z A ~ q a z A
+1975,غذا,ɣ e z ɒː ~ ɣ ɒː z ɒː,غذا,CANNNNNNOT,q e z A ~ q A z A
+1976,غذا,ɣ i z ɑː ~ ɣ a z ɑː,غذا,CANNNNNNOT,q i z A ~ q a z A
+1977,غذا,ɣ i z ɔː ~ ɣ a z ɔː,غذا,CANNNNNNOT,q i z A ~ q a z A
+1978,غذا,ɣ ɪ z ɒː ~ ɣ a z ɒː,غذا,CANNNNNNOT,q i z A ~ q a z A
+1979,غرق,ɣ æ ɾ ɣ,غرق,CANNNNNNOT,q a r q
+1980,غره,ɢ æ ɾ ɾ e,غره,CANNNNNNOT,ɢ a r r e
+1981,غم,ɣ æ m,غم,CANNNNNNOT,q a m
+1982,غمگین,ɣ æ m ɡ iː n,غمگین,CANNNNNNOT,q a m ɡ i n
+1983,غمگینی,ɢ æ m ɡ iː n iː,غمگینی,CANNNNNNOT,ɢ a m ɡ i n i
+1984,غور,ɣ a v ɾ,غور,CANNNNNNOT,q a v r
+1985,غور,ɣ a w ɾ,غور,CANNNNNNOT,q a w r
+1986,غور,ɣ o w ɾ,غور,CANNNNNNOT,q o w r
+1987,غور,ɣ oː ɾ,غور,CANNNNNNOT,q oː r
+1988,غژب,ɢ o ʒ b,غژب,CANNNNNNOT,ɢ o ʒ b
+1989,غیر,ɣ a j ɾ,غیر,CANNNNNNOT,q a y r
+1990,غیر,ɣ e j ɾ,غیر,CANNNNNNOT,q e y r
+1991,غیرت,ɣ æ j ɾ æ t,غیرت,CANNNNNNOT,q a y r a t
+1992,ـستان,e s t uː n,ـستان,CANNNNNNOT,e s t A n
+1993,ـستان,e s t ɒː n,ـستان,CANNNNNNOT,e s t A n
+1994,ـستان,i s t ɑː n,ـستان,CANNNNNNOT,i s t A n
+1995,ـستان,i s t ɔː n,ـستان,CANNNNNNOT,i s t A n
+1996,ـستان,ɪ s t ɒː n,ـستان,CANNNNNNOT,i s t A n
+1997,ـی,e,ـی,CANNNNNNOT,e
+1998,ـی,eː,ـی,CANNNNNNOT,eː
+1999,ـی,iː,ـی,CANNNNNNOT,i
+2000,ـیسم,iː s m,ـیسم,CANNNNNNOT,i s m
+2001,فائده,f ɒː ʔ e d e,فائده,CANNNNNNOT,f A e d e
+2002,فاحش,f ɒː h e ʃ,فاحش,CANNNNNNOT,f A h e S
+2003,فارسی,f ɑː ɾ s iː,فارسی,CANNNNNNOT,f A r s i
+2004,فارسی,f ɒː ɾ s iː,فارسی,CANNNNNNOT,f A r s i
+2005,فارسی,f ɔː ɾ s iː,فارسی,CANNNNNNOT,f A r s i
+2006,فاعل,f ɑː ʔ i l,فاعل,CANNNNNNOT,f A i l
+2007,فاعل,f ɒː e l,فاعل,CANNNNNNOT,f A e l
+2008,فاعل,f ɒː ʔ e l,فاعل,CANNNNNNOT,f A e l
+2009,فاعل,f ɒː ʔ ɪ l,فاعل,CANNNNNNOT,f A i l
+2010,فاعل,f ɔː ʔ i l,فاعل,CANNNNNNOT,f A i l
+2011,فامیل,f ɒː m iː l,فامیل,CANNNNNNOT,f A m i l
+2012,فانوس,f ɒː n uː s,فانوس,CANNNNNNOT,f A n A s
+2013,فایده,f ɒ j d e,فایده,CANNNNNNOT,f ɒ y d e
+2014,فایده,f ɒː j e d e,فایده,CANNNNNNOT,f A y e d e
+2015,فحش,f o h ʃ,فحش,CANNNNNNOT,f o h S
+2016,فحش,f u h ʃ,فحش,CANNNNNNOT,f u h S
+2017,فحش,f ɵː h ʃ,فحش,CANNNNNNOT,f ɵː h S
+2018,فحش,f ʊ h ʃ,فحش,CANNNNNNOT,f ʊ h S
+2019,فر,f o ɾ,فر,CANNNNNNOT,f o r
+2020,فر,f æ r,فر,CANNNNNNOT,f a r
+2021,فرآیند,f æ ɾ ɒː j æ n d,فرآیند,CANNNNNNOT,f a r A y a n d
+2022,فراموش,f a ɾ ɑː m oː ʃ,فراموش,CANNNNNNOT,f a r A m oː S
+2023,فراموش,f a ɾ ɒː m oː ʃ,فراموش,CANNNNNNOT,f a r A m oː S
+2024,فراموش,f a ɾ ɔː m ɵː ʃ,فراموش,CANNNNNNOT,f a r A m ɵː S
+2025,فراموش,f æ ɾ ɒː m uː ʃ,فراموش,CANNNNNNOT,f a r A m A S
+2026,فراموشی,f æ ɾ ɒː m uː ʃ iː,فراموشی,CANNNNNNOT,f a r A m A S i
+2027,فراموشیدن,f æ ɾ ɒː m uː ʃ iː d̪ æ n,فراموشیدن,CANNNNNNOT,f a r A m A S i d̪ a n
+2028,فرانک,f æ ɾ ɒː n æ k,فرانک,CANNNNNNOT,f a r A n a k
+2029,فردا,f a ɾ d ɑː,فردا,CANNNNNNOT,f a r d A
+2030,فردا,f a ɾ d ɒː,فردا,CANNNNNNOT,f a r d A
+2031,فردا,f a ɾ d ɔː,فردا,CANNNNNNOT,f a r d A
+2032,فردا,f æ ɾ d ɒː,فردا,CANNNNNNOT,f a r d A
+2033,فردوس,f e ɾ d o w s,فردوس,CANNNNNNOT,f e r d o w s
+2034,فردوس,f e ɾ d oː s,فردوس,CANNNNNNOT,f e r d oː s
+2035,فردوس,f i ɾ d a v s,فردوس,CANNNNNNOT,f i r d a v s
+2036,فردوس,f i ɾ d a w s,فردوس,CANNNNNNOT,f i r d a w s
+2037,فردوس,f ɪ ɾ d a w s,فردوس,CANNNNNNOT,f i r d a w s
+2038,فرشته,f e ɾ e ʃ t e,فرشته,CANNNNNNOT,f e r e S t e
+2039,فرشته,f æ ɾ ɪ ʃ t æ,فرشته,CANNNNNNOT,f a r i S t a
+2040,فرشته,f ɪ ɾ ɪ ʃ t æ,فرشته,CANNNNNNOT,f i r i S t a
+2041,فرق,f a ɾ q,فرق,CANNNNNNOT,f a r q
+2042,فرق,f æ ɾ ɣ,فرق,CANNNNNNOT,f a r q
+2043,فرمانده,f æ ɾ m ɒ n d e h,فرمانده,CANNNNNNOT,f a r m ɒ n d e h
+2044,فرمایش,f a ɾ m ɑː j i ʃ,فرمایش,CANNNNNNOT,f a r m A y i S
+2045,فرمایش,f a ɾ m ɒː j ɪ ʃ,فرمایش,CANNNNNNOT,f a r m A y i S
+2046,فرمایش,f a ɾ m ɔː j i ʃ,فرمایش,CANNNNNNOT,f a r m A y i S
+2047,فرمایش,f æ ɾ m ɒː j e ʃ,فرمایش,CANNNNNNOT,f a r m A y e S
+2048,فروختن,f o ɾ uː x t æ n,فروختن,CANNNNNNOT,f o r A x t a n
+2049,فروختن,f u ɾ oː x t a n,فروختن,CANNNNNNOT,f u r oː x t a n
+2050,فروختن,f u ɾ ɵː x t a n,فروختن,CANNNNNNOT,f u r ɵː x t a n
+2051,فروختن,f ʊ ɾ oː x t a n,فروختن,CANNNNNNOT,f ʊ r oː x t a n
+2052,فروردین,f æ ɾ v æ ɾ d̪ iː n,فروردین,CANNNNNNOT,f a r v a r d̪ i n
+2053,فروش,f o ɾ uː ʃ,فروش,CANNNNNNOT,f o r A S
+2054,فروش,f u ɾ oː ʃ,فروش,CANNNNNNOT,f u r oː S
+2055,فروش,f u ɾ ɵː ʃ,فروش,CANNNNNNOT,f u r ɵː S
+2056,فروش,f ʊ ɾ oː ʃ,فروش,CANNNNNNOT,f ʊ r oː S
+2057,فروغ,f o ɾ uː ɣ,فروغ,CANNNNNNOT,f o r A q
+2058,فروغ,f u ɾ oː ɣ,فروغ,CANNNNNNOT,f u r oː q
+2059,فروغ,f u ɾ ɵː ɣ,فروغ,CANNNNNNOT,f u r ɵː q
+2060,فروغ,f ʊ ɾ oː ɣ,فروغ,CANNNNNNOT,f ʊ r oː q
+2061,فروهر,f o ɾ uː h æ ɾ,فروهر,CANNNNNNOT,f o r A h a r
+2062,فروهر,f u ɾ oː h æ ɾ,فروهر,CANNNNNNOT,f u r oː h a r
+2063,فریب,f a ɾ e b ~ f i ɾ e b,فریب,CANNNNNNOT,f a r e b ~ f i r e b
+2064,فریب,f a ɾ eː b ~ f i ɾ eː b,فریب,CANNNNNNOT,f a r eː b ~ f i r eː b
+2065,فریب,f a ɾ eː b ~ f ɪ ɾ eː b,فریب,CANNNNNNOT,f a r eː b ~ f i r eː b
+2066,فریب,f æ ɾ iː b ~ f e ɾ iː b,فریب,CANNNNNNOT,f a r i b ~ f e r i b
+2067,فریدون,f e ɾ e i̯ d uː n,فریدون,CANNNNNNOT,f e r e i̯ d A n
+2068,فریدون,f ɪ ɾ eː d uː n,فریدون,CANNNNNNOT,f i r eː d A n
+2069,فریفتن,f a ɾ e f t a n ~ f i ɾ e f t a n,فریفتن,CANNNNNNOT,f a r e f t a n ~ f i r e f t a n
+2070,فریفتن,f a ɾ eː f t a n ~ f i ɾ eː f t a n,فریفتن,CANNNNNNOT,f a r eː f t a n ~ f i r eː f t a n
+2071,فریفتن,f a ɾ eː f t a n ~ f ɪ ɾ eː f t a n,فریفتن,CANNNNNNOT,f a r eː f t a n ~ f i r eː f t a n
+2072,فریفتن,f e ɾ iː f t æ n ~ f e ɾ iː f t æ n,فریفتن,CANNNNNNOT,f e r i f t a n ~ f e r i f t a n
+2073,فریفتن,f æ ɾ iː f t æ n ~ f e ɾ iː f t æ n,فریفتن,CANNNNNNOT,f a r i f t a n ~ f e r i f t a n
+2074,فشنگ,f e ʃ æ n ɡ,فشنگ,CANNNNNNOT,f e S a n ɡ
+2075,فشنگ,f i ʃ a n ɡ,فشنگ,CANNNNNNOT,f i S a n ɡ
+2076,فشنگ,f ɪ ʃ a n ɡ,فشنگ,CANNNNNNOT,f i S a n ɡ
+2077,فصح,f e s h,فصح,CANNNNNNOT,f e s h
+2078,فصح,f i s h,فصح,CANNNNNNOT,f i s h
+2079,فصح,f ɪ s h,فصح,CANNNNNNOT,f i s h
+2080,فضا,f a z ɑː ~ f i z ɑː,فضا,CANNNNNNOT,f a z A ~ f i z A
+2081,فضا,f a z ɒː ~ f ɪ z ɒː,فضا,CANNNNNNOT,f a z A ~ f i z A
+2082,فضا,f a z ɔː ~ f i z ɔː,فضا,CANNNNNNOT,f a z A ~ f i z A
+2083,فضا,f æ z ɒː ~ f e z ɒː,فضا,CANNNNNNOT,f a z A ~ f e z A
+2084,فضا,f ɒː z ɒː ~ f e z ɒː,فضا,CANNNNNNOT,f A z A ~ f e z A
+2085,فضازمان,f a z ɑː z a m ɑː n,فضازمان,CANNNNNNOT,f a z A z a m A n
+2086,فضازمان,f a z ɒː z a m ɒː n,فضازمان,CANNNNNNOT,f a z A z a m A n
+2087,فضازمان,f a z ɔː z a m ɔː n,فضازمان,CANNNNNNOT,f a z A z a m A n
+2088,فضازمان,f æ z ɒː z æ m ɒː n,فضازمان,CANNNNNNOT,f a z A z a m A n
+2089,فضازمان,f ɒː z ɒː z ɒː m uː n,فضازمان,CANNNNNNOT,f A z A z A m A n
+2090,فعل,f e ʔ l,فعل,CANNNNNNOT,f e l
+2091,فعل,f eː l,فعل,CANNNNNNOT,f eː l
+2092,فعل,f i ʔ l,فعل,CANNNNNNOT,f i l
+2093,فعل,f ɪ ʔ l,فعل,CANNNNNNOT,f i l
+2094,فغفور,f æ ɣ f uː ɾ,فغفور,CANNNNNNOT,f a q f A r
+2095,فقط,f a q a t,فقط,CANNNNNNOT,f a q a t
+2096,فقط,f æ ɣ æ t,فقط,CANNNNNNOT,f a q a t
+2097,فلاخن,f æ l ɒː x æ n,فلاخن,CANNNNNNOT,f a l A x a n
+2098,فهرست,f e h ɾ e s t,فهرست,CANNNNNNOT,f e h r e s t
+2099,فهرست,f e h ɾ i s t,فهرست,CANNNNNNOT,f e h r i s t
+2100,فهرست,f i h ɾ i s t,فهرست,CANNNNNNOT,f i h r i s t
+2101,فهرست,f ɪ h ɾ ɪ s t,فهرست,CANNNNNNOT,f i h r i s t
+2102,فهم,f æ h m,فهم,CANNNNNNOT,f a h m
+2103,فهماندن,f a h m ɑː n d a n,فهماندن,CANNNNNNOT,f a h m A n d a n
+2104,فهماندن,f a h m ɒː n d a n,فهماندن,CANNNNNNOT,f a h m A n d a n
+2105,فهماندن,f a h m ɔː n d a n,فهماندن,CANNNNNNOT,f a h m A n d a n
+2106,فهماندن,f æ h m uː n d æ n,فهماندن,CANNNNNNOT,f a h m A n d a n
+2107,فهماندن,f æ h m ɒː n d æ n,فهماندن,CANNNNNNOT,f a h m A n d a n
+2108,فهمیدن,f æ h m iː d æ n,فهمیدن,CANNNNNNOT,f a h m i d a n
+2109,فوت,f a v t,فوت,CANNNNNNOT,f a v t
+2110,فوت,f a w t,فوت,CANNNNNNOT,f a w t
+2111,فوت,f o w t,فوت,CANNNNNNOT,f o w t
+2112,فوت,f oː t,فوت,CANNNNNNOT,f oː t
+2113,فوق‌العاده,f a w q o l ʔ ɒ d a,فوقالعاده,CANNNNNNOT,f a w q o l ɒ d a
+2114,فک,f æ k,فک,CANNNNNNOT,f a k
+2115,فکر,f e k,فکر,CANNNNNNOT,f e k
+2116,فکر,f e k r,فکر,CANNNNNNOT,f e k r
+2117,فیض,f a j z,فیض,CANNNNNNOT,f a y z
+2118,فیض,f e j z,فیض,CANNNNNNOT,f e y z
+2119,فیلیپ,f i l i p,فیلیپ,CANNNNNNOT,f i l i p
+2120,قابل,q ɑː b i l,قابل,CANNNNNNOT,q A b i l
+2121,قابل,q ɒː b ɪ l,قابل,CANNNNNNOT,q A b i l
+2122,قابل,q ɔː b i l,قابل,CANNNNNNOT,q A b i l
+2123,قابل,ɣ ɒː b e l,قابل,CANNNNNNOT,q A b e l
+2124,قاره,q ɒː r e,قاره,CANNNNNNOT,q A r e
+2125,قاره,q ɒː r r e,قاره,CANNNNNNOT,q A r r e
+2126,قاسم,ɢ ɒː s e m,قاسم,CANNNNNNOT,ɢ A s e m
+2127,قاقم,ɢ ɑː ɢ o m,قاقم,CANNNNNNOT,ɢ A ɢ o m
+2128,قانون,ɢ ɒː n uː n,قانون,CANNNNNNOT,ɢ A n A n
+2129,قانونی,ɢ ɒː n uː n iː,قانونی,CANNNNNNOT,ɢ A n A n i
+2130,قایق,ɢ ɒː j e ɣ,قایق,CANNNNNNOT,ɢ A y e q
+2131,قبر,q a b ɾ,قبر,CANNNNNNOT,q a b r
+2132,قبر,ɣ æ b ɾ,قبر,CANNNNNNOT,q a b r
+2133,قبرستان,q a b ɾ i s t ɑː n,قبرستان,CANNNNNNOT,q a b r i s t A n
+2134,قبرستان,q a b ɾ i s t ɔː n,قبرستان,CANNNNNNOT,q a b r i s t A n
+2135,قبرستان,q a b ɾ ɪ s t ɒː n,قبرستان,CANNNNNNOT,q a b r i s t A n
+2136,قبرستان,ɣ æ b ɾ e s t uː n,قبرستان,CANNNNNNOT,q a b r e s t A n
+2137,قبرستان,ɣ æ b ɾ e s t ɒː n,قبرستان,CANNNNNNOT,q a b r e s t A n
+2138,قبض,ɢ æ b z,قبض,CANNNNNNOT,ɢ a b z
+2139,قربک,q o ɾ b æ k,قربک,CANNNNNNOT,q o r b a k
+2140,قرغیزستان,q ɪ ɾ ɣ iː z ɪ s t ɒː n,قرغیزستان,CANNNNNNOT,q i r q i z i s t A n
+2141,قرمز,q i ɾ m i z,قرمز,CANNNNNNOT,q i r m i z
+2142,قرمز,q ɪ ɾ m ɪ z,قرمز,CANNNNNNOT,q i r m i z
+2143,قرمز,ɣ e ɾ m e z,قرمز,CANNNNNNOT,q e r m e z
+2144,قرمزی,q i ɾ m i z iː,قرمزی,CANNNNNNOT,q i r m i z i
+2145,قرمزی,q ɪ ɾ m ɪ z iː,قرمزی,CANNNNNNOT,q i r m i z i
+2146,قرمزی,ɣ e ɾ m e z iː,قرمزی,CANNNNNNOT,q e r m e z i
+2147,قزاق,q æ z z ɒː q,قزاق,CANNNNNNOT,q a z z A q
+2148,قسم,q a s a m,قسم,CANNNNNNOT,q a s a m
+2149,قسم,q i s m,قسم,CANNNNNNOT,q i s m
+2150,قسم,q ɪ s m,قسم,CANNNNNNOT,q i s m
+2151,قسم,ɣ e s m,قسم,CANNNNNNOT,q e s m
+2152,قسم,ɣ æ s æ m,قسم,CANNNNNNOT,q a s a m
+2153,قشنگ,ɢ e ʃ æ ŋ ɡ,قشنگ,CANNNNNNOT,ɢ e S a ŋ ɡ
+2154,قشنگ,ɢ æ ʃ æ ŋ ɡ,قشنگ,CANNNNNNOT,ɢ a S a ŋ ɡ
+2155,قشنگی,q æ ʃ æ n ɡ iː,قشنگی,CANNNNNNOT,q a S a n ɡ i
+2156,قصد,ɢ æ s d,قصد,CANNNNNNOT,ɢ a s d
+2157,قفس,ɢ æ f e s,قفس,CANNNNNNOT,ɢ a f e s
+2158,قفس,ɢ æ f æ s,قفس,CANNNNNNOT,ɢ a f a s
+2159,قفسه,ɢ æ f æ s e,قفسه,CANNNNNNOT,ɢ a f a s e
+2160,ققنس,ˑq a q n u s ~ q u q n u s,ققنس,CANNNNNNOT,ˑq a q n u s ~ q u q n u s
+2161,ققنس,ˑq a q n ʊ s ~ q ʊ q n ʊ s,ققنس,CANNNNNNOT,ˑq a q n ʊ s ~ q ʊ q n ʊ s
+2162,ققنس,ˑɣ æ ɣ n o s ~ ɣ o ɣ n o s,ققنس,CANNNNNNOT,ˑq a q n o s ~ q o q n o s
+2163,ققنوس,ˑq a q n u s ~ q u q n u s,ققنوس,CANNNNNNOT,ˑq a q n u s ~ q u q n u s
+2164,ققنوس,ˑq a q n uː s ~ q u q n uː s,ققنوس,CANNNNNNOT,ˑq a q n A s ~ q u q n A s
+2165,ققنوس,ˑq a q n uː s ~ q ʊ q n uː s,ققنوس,CANNNNNNOT,ˑq a q n A s ~ q ʊ q n A s
+2166,ققنوس,ˑɣ æ ɣ n uː s ~ ɣ o ɣ n uː s,ققنوس,CANNNNNNOT,ˑq a q n A s ~ q o q n A s
+2167,قلاوز,q u l ɑː v u z,قلاوز,CANNNNNNOT,q u l A v u z
+2168,قلاوز,q u l ɔː v u z,قلاوز,CANNNNNNOT,q u l A v u z
+2169,قلاوز,q ʊ l ɒː w ʊ z,قلاوز,CANNNNNNOT,q ʊ l A w ʊ z
+2170,قلاوز,ɣ o l ɒː v o z,قلاوز,CANNNNNNOT,q o l A v o z
+2171,قلاووز,q u l ɑː v uː z,قلاووز,CANNNNNNOT,q u l A v A z
+2172,قلاووز,q u l ɔː v u z,قلاووز,CANNNNNNOT,q u l A v u z
+2173,قلاووز,q ʊ l ɒː w uː z,قلاووز,CANNNNNNOT,q ʊ l A w A z
+2174,قلاووز,ɣ o l ɒː v uː z,قلاووز,CANNNNNNOT,q o l A v A z
+2175,قلب,q a l b,قلب,CANNNNNNOT,q a l b
+2176,قلب,ɣ æ l b,قلب,CANNNNNNOT,q a l b
+2177,قلعه,q æ l ʔ æ,قلعه,CANNNNNNOT,q a l a
+2178,قلمدان,q æ l æ m d ɒː n,قلمدان,CANNNNNNOT,q a l a m d A n
+2179,قند,q æ n d,قند,CANNNNNNOT,q a n d
+2180,قندهار,q a n d a h ɑː ɾ,قندهار,CANNNNNNOT,q a n d a h A r
+2181,قندهار,q a n d a h ɒː ɾ,قندهار,CANNNNNNOT,q a n d a h A r
+2182,قندهار,q a n d a h ɔː ɾ,قندهار,CANNNNNNOT,q a n d a h A r
+2183,قندهار,ɣ æ n d æ h ɒː ɾ,قندهار,CANNNNNNOT,q a n d a h A r
+2184,قندهار,ɣ æ n d ɒː h ɒː ɾ,قندهار,CANNNNNNOT,q a n d A h A r
+2185,قندوز,q o n d uː z,قندوز,CANNNNNNOT,q o n d A z
+2186,قندوز,ɢ o n d uː z,قندوز,CANNNNNNOT,ɢ o n d A z
+2187,قهوه,q a h v a,قهوه,CANNNNNNOT,q a h v a
+2188,قهوه,q a h w a,قهوه,CANNNNNNOT,q a h w a
+2189,قهوه,ɣ æ h v e,قهوه,CANNNNNNOT,q a h v e
+2190,قو,q u,قو,CANNNNNNOT,q u
+2191,قو,q uː,قو,CANNNNNNOT,q A
+2192,قو,ɣ uː,قو,CANNNNNNOT,q A
+2193,قوت,q u v v a t,قوت,CANNNNNNOT,q u v v a t
+2194,قوت,q ʊ w w a t,قوت,CANNNNNNOT,q ʊ w w a t
+2195,قوت,ɣ o v v æ t,قوت,CANNNNNNOT,q o v v a t
+2196,قوم,q a v m,قوم,CANNNNNNOT,q a v m
+2197,قوم,q a w m,قوم,CANNNNNNOT,q a w m
+2198,قوم,ɣ o w m,قوم,CANNNNNNOT,q o w m
+2199,قوم,ɣ oː m,قوم,CANNNNNNOT,q oː m
+2200,قوی,q a v iː,قوی,CANNNNNNOT,q a v i
+2201,قوی,q a w iː,قوی,CANNNNNNOT,q a w i
+2202,قوی,q uː j i,قوی,CANNNNNNOT,q A y i
+2203,قوی,q uː j ɪ,قوی,CANNNNNNOT,q A y i
+2204,قوی,q ɵː j i,قوی,CANNNNNNOT,q ɵː y i
+2205,قوی,ɣ e v iː,قوی,CANNNNNNOT,q e v i
+2206,قوی,ɣ uː j e,قوی,CANNNNNNOT,q A y e
+2207,قوی,ɣ æ v iː,قوی,CANNNNNNOT,q a v i
+2208,قید,ɢ e j d,قید,CANNNNNNOT,ɢ e y d
+2209,قیمت,q i m a t,قیمت,CANNNNNNOT,q i m a t
+2210,قیمت,q iː m a t,قیمت,CANNNNNNOT,q i m a t
+2211,قیمت,ɣ iː m æ t,قیمت,CANNNNNNOT,q i m a t
+2212,قیچی,q a j t ʃ iː,قیچی,CANNNNNNOT,q a y t S i
+2213,قیچی,ɣ e j t ʃ iː,قیچی,CANNNNNNOT,q e y t S i
+2214,لابد,l ɒː b o d,لابد,CANNNNNNOT,l A b o d
+2215,لازم,l ɑː z i m,لازم,CANNNNNNOT,l A z i m
+2216,لازم,l ɒː z e m,لازم,CANNNNNNOT,l A z e m
+2217,لازم,l ɒː z ɪ m,لازم,CANNNNNNOT,l A z i m
+2218,لازم,l ɔː z i m,لازم,CANNNNNNOT,l A z i m
+2219,لاغر,l ɑː ɣ a ɾ,لاغر,CANNNNNNOT,l A q a r
+2220,لاغر,l ɒː ɣ a ɾ,لاغر,CANNNNNNOT,l A q a r
+2221,لاغر,l ɒː ɣ æ ɾ,لاغر,CANNNNNNOT,l A q a r
+2222,لاغر,l ɔː ɣ a ɾ,لاغر,CANNNNNNOT,l A q a r
+2223,لاله,l ɒː l e,لاله,CANNNNNNOT,l A l e
+2224,لاله,l ɒː l æ,لاله,CANNNNNNOT,l A l a
+2225,لایه,l ɒː j e,لایه,CANNNNNNOT,l A y e
+2226,لب,l æ b,لب,CANNNNNNOT,l a b
+2227,لبخند,l æ b x æ n d,لبخند,CANNNNNNOT,l a b x a n d
+2228,لبی,l æ b iː,لبی,CANNNNNNOT,l a b i
+2229,لثه,l a s e,لثه,CANNNNNNOT,l a s e
+2230,لحظه,l æ h z æ,لحظه,CANNNNNNOT,l a h z a
+2231,لزوماً,l o z uː m æ n,لزوماً,CANNNNNNOT,l o z A m a n
+2232,لهذا,l e h ɒː z ɒː,لهذا,CANNNNNNOT,l e h A z A
+2233,لو,l o w,لو,CANNNNNNOT,l o w
+2234,لوبیا,l oː b i i̯ ɒː,لوبیا,CANNNNNNOT,l oː b i i̯ A
+2235,لوبیا,l uː b i i̯ ɒː,لوبیا,CANNNNNNOT,l A b i i̯ A
+2236,لوله,l uː l e,لوله,CANNNNNNOT,l A l e
+2237,لوله,l uː l æ,لوله,CANNNNNNOT,l A l a
+2238,لی,l iː,لی,CANNNNNNOT,l i
+2239,لیمو,l i m u,لیمو,CANNNNNNOT,l i m u
+2240,لیمو,l iː m uː,لیمو,CANNNNNNOT,l i m A
+2241,لیک,l iː k,لیک,CANNNNNNOT,l i k
+2242,ما,m ɒː,ما,CANNNNNNOT,m A
+2243,مادر,m ɑː d a ɾ,مادر,CANNNNNNOT,m A d a r
+2244,مادر,m ɒː d a ɾ,مادر,CANNNNNNOT,m A d a r
+2245,مادر,m ɒː d e ɾ,مادر,CANNNNNNOT,m A d e r
+2246,مادر,m ɒː d æ ɾ,مادر,CANNNNNNOT,m A d a r
+2247,مادر,m ɔː d a ɾ,مادر,CANNNNNNOT,m A d a r
+2248,مادرانه,m ɑː d a ɾ ɑː n a,مادرانه,CANNNNNNOT,m A d a r A n a
+2249,مادرانه,m ɒː d a ɾ ɒː n a,مادرانه,CANNNNNNOT,m A d a r A n a
+2250,مادرانه,m ɒː d æ ɾ ɒː n e,مادرانه,CANNNNNNOT,m A d a r A n e
+2251,مادرانه,m ɒː d ɒː ɾ uː n e,مادرانه,CANNNNNNOT,m A d A r A n e
+2252,مادرانه,m ɔː d a ɾ ɔː n a,مادرانه,CANNNNNNOT,m A d a r A n a
+2253,مادیان,m ɒː d i i̯ ɒː n,مادیان,CANNNNNNOT,m A d i i̯ A n
+2254,مار,m ɑː ɾ,مار,CANNNNNNOT,m A r
+2255,مار,m ɒː ɾ,مار,CANNNNNNOT,m A r
+2256,مار,m ɔː ɾ,مار,CANNNNNNOT,m A r
+2257,مارس,m ɒː ɾ s,مارس,CANNNNNNOT,m A r s
+2258,مارمولک,m ɑː ɾ m uː l a k,مارمولک,CANNNNNNOT,m A r m A l a k
+2259,مارمولک,m ɒː ɾ m uː l a k,مارمولک,CANNNNNNOT,m A r m A l a k
+2260,مارمولک,m ɒː ɾ m uː l æ k,مارمولک,CANNNNNNOT,m A r m A l a k
+2261,مارمولک,m ɔː ɾ m u l a k,مارمولک,CANNNNNNOT,m A r m u l a k
+2262,ماز,m ɑː z,ماز,CANNNNNNOT,m A z
+2263,ماز,m ɒː z,ماز,CANNNNNNOT,m A z
+2264,ماز,m ɔː z,ماز,CANNNNNNOT,m A z
+2265,مازریون,m ɑː z a ɾ j oː n,مازریون,CANNNNNNOT,m A z a r y oː n
+2266,مازریون,m ɒː z a ɾ j oː n,مازریون,CANNNNNNOT,m A z a r y oː n
+2267,مازریون,m ɒː z æ ɾ j uː n,مازریون,CANNNNNNOT,m A z a r y A n
+2268,مازریون,m ɔː z a ɾ j ɵː n,مازریون,CANNNNNNOT,m A z a r y ɵː n
+2269,مازو,m ɑː z uː,مازو,CANNNNNNOT,m A z A
+2270,مازو,m ɒː z uː,مازو,CANNNNNNOT,m A z A
+2271,مازو,m ɔː z u,مازو,CANNNNNNOT,m A z u
+2272,مازوج,m ɑː z uː d ʒ,مازوج,CANNNNNNOT,m A z A j
+2273,مازوج,m ɒː z uː d ʒ,مازوج,CANNNNNNOT,m A z A j
+2274,مازوج,m ɔː z u d ʒ,مازوج,CANNNNNNOT,m A z u j
+2275,ماشین,m ɒː ʃ iː n,ماشین,CANNNNNNOT,m A S i n
+2276,ماهور,m ɒː h uː ɾ,ماهور,CANNNNNNOT,m A h A r
+2277,ماهی,m ɒː h iː,ماهی,CANNNNNNOT,m A h i
+2278,ماک,m ɒː k,ماک,CANNNNNNOT,m A k
+2279,مایه,m ɒː j æ,مایه,CANNNNNNOT,m A y a
+2280,متخلف,m o t æ x æ l l e f,متخلف,CANNNNNNOT,m o t a x a l l e f
+2281,متخلف,m u t a x a l l i f,متخلف,CANNNNNNOT,m u t a x a l l i f
+2282,متخلف,m ʊ t a x a l l ɪ f,متخلف,CANNNNNNOT,m ʊ t a x a l l i f
+2283,مجازات,m o d ʒ ɒː z ɒː t,مجازات,CANNNNNNOT,m o j A z A t
+2284,مجازات‌ها,m o d ʒ ɒː z ɒː t h ɒː,مجازاتها,CANNNNNNOT,m o j A z A t h A
+2285,مجرد,m o d͡ʒ æ ɾ ɾ æ d,مجرد,CANNNNNNOT,m o j a r r a d
+2286,مجروح,m a d ʒ ɾ uː h,مجروح,CANNNNNNOT,m a j r A h
+2287,مجروح,m a d ʒ ɾ ɵː h,مجروح,CANNNNNNOT,m a j r ɵː h
+2288,مجروح,m æ d ʒ ɾ uː h,مجروح,CANNNNNNOT,m a j r A h
+2289,مجید,m æ d͡ʒ iː d,مجید,CANNNNNNOT,m a j i d
+2290,محبت,m o h æ b b æ t ~ m æ h æ b b æ t,محبت,CANNNNNNOT,m o h a b b a t ~ m a h a b b a t
+2291,محبت,m u h a b b a t ~ m a h a b b a t,محبت,CANNNNNNOT,m u h a b b a t ~ m a h a b b a t
+2292,محبت,m ʊ h a b b a t ~ m a h a b b a t,محبت,CANNNNNNOT,m ʊ h a b b a t ~ m a h a b b a t
+2293,محمد,m o h æ m m æ d,محمد,CANNNNNNOT,m o h a m m a d
+2294,محنت,m e h n a t,محنت,CANNNNNNOT,m e h n a t
+2295,محنت,m e h n æ t,محنت,CANNNNNNOT,m e h n a t
+2296,محنت,m i h n a t,محنت,CANNNNNNOT,m i h n a t
+2297,محنت,m ɪ h n a t,محنت,CANNNNNNOT,m i h n a t
+2298,مختل,m o x t æ l,مختل,CANNNNNNOT,m o x t a l
+2299,مختلف,m o x t æ l e f,مختلف,CANNNNNNOT,m o x t a l e f
+2300,مختلف,m u x t a l i f,مختلف,CANNNNNNOT,m u x t a l i f
+2301,مختلف,m ʊ x t a l ɪ f,مختلف,CANNNNNNOT,m ʊ x t a l i f
+2302,مخرج,m æ x ɾ æ d͡ʒ,مخرج,CANNNNNNOT,m a x r a j
+2303,مدهوش,m æ d h u ʃ,مدهوش,CANNNNNNOT,m a d h u S
+2304,مراکش,m æ r ɒː k e ʃ,مراکش,CANNNNNNOT,m a r A k e S
+2305,مربا,m o r æ b b ɑ,مربا,CANNNNNNOT,m o r a b b ɑ
+2306,مرخ,m æ ɾ x,مرخ,CANNNNNNOT,m a r x
+2307,مرد,m a ɾ d,مرد,CANNNNNNOT,m a r d
+2308,مرد,m e ɾ d,مرد,CANNNNNNOT,m e r d
+2309,مرد,m æ ɾ d,مرد,CANNNNNNOT,m a r d
+2310,مرداد,m o ɾ d̪ ɒː d̪,مرداد,CANNNNNNOT,m o r d̪ A d̪
+2311,مردان,m a ɾ d ɑː n,مردان,CANNNNNNOT,m a r d A n
+2312,مردان,m a ɾ d ɒː n,مردان,CANNNNNNOT,m a r d A n
+2313,مردان,m a ɾ d ɔː n,مردان,CANNNNNNOT,m a r d A n
+2314,مردان,m æ ɾ d uː n,مردان,CANNNNNNOT,m a r d A n
+2315,مردان,m æ ɾ d ɒː n,مردان,CANNNNNNOT,m a r d A n
+2316,مردانه,m a ɾ d ɑː n a,مردانه,CANNNNNNOT,m a r d A n a
+2317,مردانه,m a ɾ d ɒː n a,مردانه,CANNNNNNOT,m a r d A n a
+2318,مردانه,m a ɾ d ɔː n a,مردانه,CANNNNNNOT,m a r d A n a
+2319,مردانه,m æ ɾ d uː n e,مردانه,CANNNNNNOT,m a r d A n e
+2320,مردانه,m æ ɾ d ɒː n e,مردانه,CANNNNNNOT,m a r d A n e
+2321,مردانگی,m a ɾ d ɑː n a # ɡ iː,مردانگی,CANNNNNNOT,m a r d A n a  ɡ i
+2322,مردانگی,m a ɾ d ɒː n a # ɡ iː,مردانگی,CANNNNNNOT,m a r d A n a  ɡ i
+2323,مردانگی,m a ɾ d ɔː n a # ɡ iː,مردانگی,CANNNNNNOT,m a r d A n a  ɡ i
+2324,مردانگی,m æ ɾ d uː n e # ɡ iː,مردانگی,CANNNNNNOT,m a r d A n e  ɡ i
+2325,مردانگی,m æ ɾ d ɒː n e # ɡ iː,مردانگی,CANNNNNNOT,m a r d A n e  ɡ i
+2326,مردم,m a ɾ d u m,مردم,CANNNNNNOT,m a r d u m
+2327,مردم,m a ɾ d ʊ m,مردم,CANNNNNNOT,m a r d ʊ m
+2328,مردم,m æ ɾ d o m,مردم,CANNNNNNOT,m a r d o m
+2329,مردم‌سالاری,m a ɾ d u m # s ɑː l ɑː ɾ iː,مردمسالاری,CANNNNNNOT,m a r d u m  s A l A r i
+2330,مردم‌سالاری,m a ɾ d u m # s ɔː l ɔː ɾ iː,مردمسالاری,CANNNNNNOT,m a r d u m  s A l A r i
+2331,مردم‌سالاری,m a ɾ d ʊ m # s ɒː l ɒː ɾ iː,مردمسالاری,CANNNNNNOT,m a r d ʊ m  s A l A r i
+2332,مردم‌سالاری,m æ ɾ d o m # s ɒː l ɒː ɾ iː,مردمسالاری,CANNNNNNOT,m a r d o m  s A l A r i
+2333,مردن,m o ɾ d æ n,مردن,CANNNNNNOT,m o r d a n
+2334,مردن,m u ɾ d a n,مردن,CANNNNNNOT,m u r d a n
+2335,مردن,m ʊ ɾ d a n,مردن,CANNNNNNOT,m ʊ r d a n
+2336,مردها,m æ ɾ d h ɒː,مردها,CANNNNNNOT,m a r d h A
+2337,مرز,m æ ɾ z,مرز,CANNNNNNOT,m a r z
+2338,مرغ,m o ɾ ɣ,مرغ,CANNNNNNOT,m o r q
+2339,مرغان,m o ɾ ɣ ɒː n,مرغان,CANNNNNNOT,m o r q A n
+2340,مرغ‌ها,m o ɾ ɣ h ɒː,مرغها,CANNNNNNOT,m o r q h A
+2341,مرو,m æ ɾ v,مرو,CANNNNNNOT,m a r v
+2342,مرو,m æ ɾ w,مرو,CANNNNNNOT,m a r w
+2343,مروارید,m o ɾ v ɒː ɾ iː d,مروارید,CANNNNNNOT,m o r v A r i d
+2344,مروارید,m o ɾ w ɒː ɾ iː d,مروارید,CANNNNNNOT,m o r w A r i d
+2345,مروارید,m æ ɾ w ɒː ɾ iː d,مروارید,CANNNNNNOT,m a r w A r i d
+2346,مروزی,m æ ɾ v e z iː,مروزی,CANNNNNNOT,m a r v e z i
+2347,مروزی,m æ ɾ v æ z iː,مروزی,CANNNNNNOT,m a r v a z i
+2348,مروزی,m æ ɾ w æ z iː,مروزی,CANNNNNNOT,m a r w a z i
+2349,مرچ,m o ɾ t ʃ,مرچ,CANNNNNNOT,m o r t S
+2350,مرچ,m æ ɾ e t ʃ,مرچ,CANNNNNNOT,m a r e t S
+2351,مریض,m a ɾ i z,مریض,CANNNNNNOT,m a r i z
+2352,مریض,m a ɾ iː z,مریض,CANNNNNNOT,m a r i z
+2353,مریض,m e ɾ iː z,مریض,CANNNNNNOT,m e r i z
+2354,مریض,m æ ɾ iː z,مریض,CANNNNNNOT,m a r i z
+2355,مریضی,m æ ɾ iː z iː,مریضی,CANNNNNNOT,m a r i z i
+2356,مزنه,m o z n e,مزنه,CANNNNNNOT,m o z n e
+2357,مزنه,m u z n a,مزنه,CANNNNNNOT,m u z n a
+2358,مزنه,m ʊ z n a,مزنه,CANNNNNNOT,m ʊ z n a
+2359,مزه,m a z z a,مزه,CANNNNNNOT,m a z z a
+2360,مزه,m æ z z e,مزه,CANNNNNNOT,m a z z e
+2361,مستقیم,m o s t e ɣ iː m,مستقیم,CANNNNNNOT,m o s t e q i m
+2362,مستقیم,m o s t æ ɣ iː m,مستقیم,CANNNNNNOT,m o s t a q i m
+2363,مستقیم,m u s t a q i m,مستقیم,CANNNNNNOT,m u s t a q i m
+2364,مستقیم,m u s t a q iː m,مستقیم,CANNNNNNOT,m u s t a q i m
+2365,مستقیم,m ʊ s t a q iː m,مستقیم,CANNNNNNOT,m ʊ s t a q i m
+2366,مسجد,m æ s d ʒ e d̪,مسجد,CANNNNNNOT,m a s j e d̪
+2367,مسجدها,m æ s d ʒ e d h ɒː,مسجدها,CANNNNNNOT,m a s j e d h A
+2368,مسعود,m æ s ʔ uː d,مسعود,CANNNNNNOT,m a s A d
+2369,مسلمون,m o s æ l m uː n,مسلمون,CANNNNNNOT,m o s a l m A n
+2370,مسیح,m a s e h,مسیح,CANNNNNNOT,m a s e h
+2371,مسیح,m a s iː h,مسیح,CANNNNNNOT,m a s i h
+2372,مسیح,m e s iː h,مسیح,CANNNNNNOT,m e s i h
+2373,مسیح,m æ s iː h,مسیح,CANNNNNNOT,m a s i h
+2374,مشاهده,m o ʃ ɒː h æ d e,مشاهده,CANNNNNNOT,m o S A h a d e
+2375,مشغول,m æ ʃ ɣ uː l,مشغول,CANNNNNNOT,m a S q A l
+2376,مشق,m æ ʃ ɢ,مشق,CANNNNNNOT,m a S ɢ
+2377,مشکل,m u ʃ k i l,مشکل,CANNNNNNOT,m u S k i l
+2378,مشکل‌تر,m o ʃ k e l t æ ɾ,مشکلتر,CANNNNNNOT,m o S k e l t a r
+2379,مشکل‌ترین,m o ʃ k e l t æ ɾ iː n,مشکلترین,CANNNNNNOT,m o S k e l t a r i n
+2380,مشکل‌ها,m o ʃ k e l h ɒː,مشکلها,CANNNNNNOT,m o S k e l h A
+2381,مشکی,m e ʃ kʰ iː,مشکی,CANNNNNNOT,m e S kʰ i
+2382,مصون,m æ s uː n,مصون,CANNNNNNOT,m a s A n
+2383,مضحک,m o z h e k,مضحک,CANNNNNNOT,m o z h e k
+2384,مضحک,m u z h i k,مضحک,CANNNNNNOT,m u z h i k
+2385,مضحک,m ʊ z h ɪ k,مضحک,CANNNNNNOT,m ʊ z h i k
+2386,مطبوعات,m a t b u ʔ ɔː t,مطبوعات,CANNNNNNOT,m a t b u A t
+2387,مطبوعات,m a t b uː ʔ ɑː t,مطبوعات,CANNNNNNOT,m a t b A A t
+2388,مطبوعات,m a t b uː ʔ ɒː t,مطبوعات,CANNNNNNOT,m a t b A A t
+2389,مطبوعات,m æ t b uː ɒː t,مطبوعات,CANNNNNNOT,m a t b A A t
+2390,مطبوعات,m æ t b uː ʔ ɒː t,مطبوعات,CANNNNNNOT,m a t b A A t
+2391,معجزه,m o ʔ d͡ʒ e z e,معجزه,CANNNNNNOT,m o j e z e
+2392,معده,m e ʔ d e,معده,CANNNNNNOT,m e d e
+2393,معروف,m a ʔ ɾ u f,معروف,CANNNNNNOT,m a r u f
+2394,معروف,m a ʔ ɾ uː f,معروف,CANNNNNNOT,m a r A f
+2395,معروف,m æ ʔ ɾ uː f,معروف,CANNNNNNOT,m a r A f
+2396,معروف,m æː ɾ uː f,معروف,CANNNNNNOT,m aː r A f
+2397,معشوق,m a ʔ ʃ u q,معشوق,CANNNNNNOT,m a S u q
+2398,معشوق,m a ʔ ʃ uː q,معشوق,CANNNNNNOT,m a S A q
+2399,معشوق,m æ ʔ ʃ uː ɣ,معشوق,CANNNNNNOT,m a S A q
+2400,معلم,m o æ l l e m,معلم,CANNNNNNOT,m o a l l e m
+2401,معلم,m o ʔ æ l l e m,معلم,CANNNNNNOT,m o a l l e m
+2402,معلم,m u ʔ a l l i m,معلم,CANNNNNNOT,m u a l l i m
+2403,معلم,m ʊ ʔ a l l ɪ m,معلم,CANNNNNNOT,m ʊ a l l i m
+2404,معماری,m e ʔ m ɒː ɾ iː,معماری,CANNNNNNOT,m e m A r i
+2405,معماری,m e ʔ m ɔː ɾ iː,معماری,CANNNNNNOT,m e m A r i
+2406,معماری,m eː m ɒː ɾ iː,معماری,CANNNNNNOT,m eː m A r i
+2407,معماری,m i ʔ m ɑː ɾ iː,معماری,CANNNNNNOT,m i m A r i
+2408,معماری,m ɪ ʔ m ɒː ɾ iː,معماری,CANNNNNNOT,m i m A r i
+2409,مغ,m æ ɢ,مغ,CANNNNNNOT,m a ɢ
+2410,مغرور,m æ ɣ ɾ uː ɾ,مغرور,CANNNNNNOT,m a q r A r
+2411,مغز,m a ɣ z,مغز,CANNNNNNOT,m a q z
+2412,مغز,m æ ɣ z,مغز,CANNNNNNOT,m a q z
+2413,مفتی,m o f t iː,مفتی,CANNNNNNOT,m o f t i
+2414,مفتی,m u f t iː,مفتی,CANNNNNNOT,m u f t i
+2415,مفتی,m ʊ f t iː,مفتی,CANNNNNNOT,m ʊ f t i
+2416,مفعول,m a f ʔ u l,مفعول,CANNNNNNOT,m a f u l
+2417,مفعول,m a f ʔ uː l,مفعول,CANNNNNNOT,m a f A l
+2418,مفعول,m æ f uː l,مفعول,CANNNNNNOT,m a f A l
+2419,مفعول,m æ f ʔ uː l,مفعول,CANNNNNNOT,m a f A l
+2420,مقداد,m e ɣ d ɒː d,مقداد,CANNNNNNOT,m e q d A d
+2421,مقدار,m e ɣ d ɒː ɾ,مقدار,CANNNNNNOT,m e q d A r
+2422,مقدار,m i q d ɑː ɾ,مقدار,CANNNNNNOT,m i q d A r
+2423,مقدار,m i q d ɔː ɾ,مقدار,CANNNNNNOT,m i q d A r
+2424,مقدار,m ɪ q d ɒː ɾ,مقدار,CANNNNNNOT,m i q d A r
+2425,مقعد,m a q ʔ a d,مقعد,CANNNNNNOT,m a q a d
+2426,مقعد,m æ ɣ æ d,مقعد,CANNNNNNOT,m a q a d
+2427,مقعد,m æ ɣ ʔ æ d,مقعد,CANNNNNNOT,m a q a d
+2428,ملا,m o lː ɒː,ملا,CANNNNNNOT,m o lː A
+2429,مله,m æ l æ,مله,CANNNNNNOT,m a l a
+2430,ممنوع,m a m n uː ʔ,ممنوع,CANNNNNNOT,m a m n A ʔ
+2431,ممنوع,m a m n ɵː ʔ,ممنوع,CANNNNNNOT,m a m n ɵː ʔ
+2432,ممنوع,m æ m n uː,ممنوع,CANNNNNNOT,m a m n A
+2433,ممنوع,m æ m n uː ʔ,ممنوع,CANNNNNNOT,m a m n A ʔ
+2434,ممکن,m o m k e n,ممکن,CANNNNNNOT,m o m k e n
+2435,ممکن,m u m k i n,ممکن,CANNNNNNOT,m u m k i n
+2436,ممکن,m ʊ m k ɪ n,ممکن,CANNNNNNOT,m ʊ m k i n
+2437,من,m æ n,من,CANNNNNNOT,m a n
+2438,منابع,m a n ɑː b i ʔ,منابع,CANNNNNNOT,m a n A b i ʔ
+2439,منابع,m a n ɒː b ɪ ʔ,منابع,CANNNNNNOT,m a n A b i ʔ
+2440,منابع,m a n ɔː b e ʔ,منابع,CANNNNNNOT,m a n A b e ʔ
+2441,منابع,m æ n ɒː b e ʔ,منابع,CANNNNNNOT,m a n A b e ʔ
+2442,منشی,m u n ʃ iː,منشی,CANNNNNNOT,m u n S i
+2443,منع,m a n ʔ,منع,CANNNNNNOT,m a n ʔ
+2444,منع,m æ n,منع,CANNNNNNOT,m a n
+2445,منع,m æ n ʔ,منع,CANNNNNNOT,m a n ʔ
+2446,منیژه,m a n iː ʒ a,منیژه,CANNNNNNOT,m a n i ʒ a
+2447,منیژه,m æ n iː ʒ e,منیژه,CANNNNNNOT,m a n i ʒ e
+2448,مه,m a h,مه,CANNNNNNOT,m a h
+2449,مه,m e,مه,CANNNNNNOT,m e
+2450,مه,m e h,مه,CANNNNNNOT,m e h
+2451,مه,m i h,مه,CANNNNNNOT,m i h
+2452,مه,m æ,مه,CANNNNNNOT,m a
+2453,مه,m æ h,مه,CANNNNNNOT,m a h
+2454,مه,m ə,مه,CANNNNNNOT,m ə
+2455,مه,m ɪ h,مه,CANNNNNNOT,m i h
+2456,مهر,m e h ɾ,مهر,CANNNNNNOT,m e h r
+2457,مهر,m i h ɾ,مهر,CANNNNNNOT,m i h r
+2458,مهر,m o h ɾ,مهر,CANNNNNNOT,m o h r
+2459,مهر,m u h ɾ,مهر,CANNNNNNOT,m u h r
+2460,مهر,m ɪ h ɾ,مهر,CANNNNNNOT,m i h r
+2461,مهر,m ɵː h ɾ,مهر,CANNNNNNOT,m ɵː h r
+2462,مهر,m ʊ h ɾ,مهر,CANNNNNNOT,m ʊ h r
+2463,مهربان,m e h ɾ a b ɔː n # ~ m e h ɾ u b ɔː n,مهربان,CANNNNNNOT,m e h r a b A n  ~ m e h r u b A n
+2464,مهربان,m e h ɾ æ b ɒː n # ~ m e h ɾ o b ɒː n,مهربان,CANNNNNNOT,m e h r a b A n  ~ m e h r o b A n
+2465,مهربان,m e h ɾ ɒː b uː n # ~ m e h ɾ o b uː n,مهربان,CANNNNNNOT,m e h r A b A n  ~ m e h r o b A n
+2466,مهربان,m i h ɾ a b ɑː n # ~ m i h ɾ u b ɑː n,مهربان,CANNNNNNOT,m i h r a b A n  ~ m i h r u b A n
+2467,مهربان,m ɪ h ɾ a b ɒː n # ~ m ɪ h ɾ ʊ b ɒː n,مهربان,CANNNNNNOT,m i h r a b A n  ~ m i h r ʊ b A n
+2468,مهرداد,m e h ɾ d ɒː d,مهرداد,CANNNNNNOT,m e h r d A d
+2469,مهرداد,m e h ɾ d ɔː d,مهرداد,CANNNNNNOT,m e h r d A d
+2470,مهرداد,m i h ɾ d ɑː d,مهرداد,CANNNNNNOT,m i h r d A d
+2471,مهرداد,m ɪ h ɾ d ɒː d,مهرداد,CANNNNNNOT,m i h r d A d
+2472,مهره,m o h ɾ e,مهره,CANNNNNNOT,m o h r e
+2473,مهره,m u h ɾ a,مهره,CANNNNNNOT,m u h r a
+2474,مهره,m ɵː h ɾ a,مهره,CANNNNNNOT,m ɵː h r a
+2475,مهره,m ʊ h ɾ a,مهره,CANNNNNNOT,m ʊ h r a
+2476,مهمان,m e h m uː n,مهمان,CANNNNNNOT,m e h m A n
+2477,مهمان,m e h m ɒː n,مهمان,CANNNNNNOT,m e h m A n
+2478,مهمان,m e h m ɔː n,مهمان,CANNNNNNOT,m e h m A n
+2479,مهمان,m i h m ɑː n,مهمان,CANNNNNNOT,m i h m A n
+2480,مهمان,m ɪ h m ɒː n,مهمان,CANNNNNNOT,m i h m A n
+2481,مو,m o,مو,CANNNNNNOT,m o
+2482,مو,m uː j,مو,CANNNNNNOT,m A y
+2483,مو,m ɵː j,مو,CANNNNNNOT,m ɵː y
+2484,موافق,m o v ɒː f e ɣ,موافق,CANNNNNNOT,m o v A f e q
+2485,موتر,m oː t a ɾ,موتر,CANNNNNNOT,m oː t a r
+2486,موج,m a v d ʒ,موج,CANNNNNNOT,m a v j
+2487,موج,m a w d ʒ,موج,CANNNNNNOT,m a w j
+2488,موج,m o w d ʒ,موج,CANNNNNNOT,m o w j
+2489,موج,m oː d ʒ,موج,CANNNNNNOT,m oː j
+2490,مورچه,m oː ɾ t ʃ a,مورچه,CANNNNNNOT,m oː r t S a
+2491,مورچه,m uː ɾ t ʃ e,مورچه,CANNNNNNOT,m A r t S e
+2492,مورچه,m ɵː ɾ t ʃ a,مورچه,CANNNNNNOT,m ɵː r t S a
+2493,موز,m e w z,موز,CANNNNNNOT,m e w z
+2494,موزه,m oː z a,موزه,CANNNNNNOT,m oː z a
+2495,موزه,m uː z e,موزه,CANNNNNNOT,m A z e
+2496,موزه,m ɵː z a,موزه,CANNNNNNOT,m ɵː z a
+2497,موسم,m a v s i m,موسم,CANNNNNNOT,m a v s i m
+2498,موسم,m a w s i m,موسم,CANNNNNNOT,m a w s i m
+2499,موسم,m a w s ɪ m,موسم,CANNNNNNOT,m a w s i m
+2500,موسم,m o w s e m,موسم,CANNNNNNOT,m o w s e m
+2501,موسم,m oː s e m,موسم,CANNNNNNOT,m oː s e m
+2502,موضوع,m a v z ɵː ʔ,موضوع,CANNNNNNOT,m a v z ɵː ʔ
+2503,موضوع,m a w z uː ʔ,موضوع,CANNNNNNOT,m a w z A ʔ
+2504,موضوع,m o w z uː ʔ,موضوع,CANNNNNNOT,m o w z A ʔ
+2505,موضوع,m oː z uː,موضوع,CANNNNNNOT,m oː z A
+2506,موقع,m a v q e ʔ,موقع,CANNNNNNOT,m a v q e ʔ
+2507,موقع,m a w q i ʔ,موقع,CANNNNNNOT,m a w q i ʔ
+2508,موقع,m a w q ɪ ʔ,موقع,CANNNNNNOT,m a w q i ʔ
+2509,موقع,m o w ɣ e ʔ,موقع,CANNNNNNOT,m o w q e ʔ
+2510,موقع,m oː ɣ eː,موقع,CANNNNNNOT,m oː q eː
+2511,مولانا,m o w l ɒː n ɒː,مولانا,CANNNNNNOT,m o w l A n A
+2512,مولانا,m æ w l ɒː n ɒː,مولانا,CANNNNNNOT,m a w l A n A
+2513,موم,m uː m,موم,CANNNNNNOT,m A m
+2514,مومیا,m oː m i j ɒː,مومیا,CANNNNNNOT,m oː m i y A
+2515,مومیا,m uː m i j ɒː,مومیا,CANNNNNNOT,m A m i y A
+2516,مومیایی,m oː m i j ɒː j iː,مومیایی,CANNNNNNOT,m oː m i y A y i
+2517,مومیایی,m uː m i j ɒː j iː,مومیایی,CANNNNNNOT,m A m i y A y i
+2518,موی,m uː j,موی,CANNNNNNOT,m A y
+2519,مژده,m o ʒ d e,مژده,CANNNNNNOT,m o ʒ d e
+2520,مژده,m u ʒ d a,مژده,CANNNNNNOT,m u ʒ d a
+2521,مژده,m ʊ ʒ d a,مژده,CANNNNNNOT,m ʊ ʒ d a
+2522,مک,m æ k,مک,CANNNNNNOT,m a k
+2523,می,m a j,می,CANNNNNNOT,m a y
+2524,می,m e,می,CANNNNNNOT,m e
+2525,می,m e j,می,CANNNNNNOT,m e y
+2526,می,m eː,می,CANNNNNNOT,m eː
+2527,می,m iː,می,CANNNNNNOT,m i
+2528,میان,m i j uː n,میان,CANNNNNNOT,m i y A n
+2529,میان,m i j ɑː n,میان,CANNNNNNOT,m i y A n
+2530,میان,m i j ɒː n,میان,CANNNNNNOT,m i y A n
+2531,میان,m i j ɔː n,میان,CANNNNNNOT,m i y A n
+2532,میخانه,m a j x ɑː n # a,میخانه,CANNNNNNOT,m a y x A n  a
+2533,میخانه,m a j x ɒː n # a,میخانه,CANNNNNNOT,m a y x A n  a
+2534,میخانه,m a j x ɔː n # a,میخانه,CANNNNNNOT,m a y x A n  a
+2535,میخانه,m e j x uː n # e,میخانه,CANNNNNNOT,m e y x A n  e
+2536,میخانه,m e j x ɒː n # e,میخانه,CANNNNNNOT,m e y x A n  e
+2537,میخی,m iː x iː,میخی,CANNNNNNOT,m i x i
+2538,میدان,m a j d ɑː n,میدان,CANNNNNNOT,m a y d A n
+2539,میدان,m a j d ɒː n,میدان,CANNNNNNOT,m a y d A n
+2540,میدان,m a j d ɔː n,میدان,CANNNNNNOT,m a y d A n
+2541,میدان,m e j d uː n,میدان,CANNNNNNOT,m e y d A n
+2542,میدان,m e j d ɒː n,میدان,CANNNNNNOT,m e y d A n
+2543,میرزا,m i ɾ z ɔː ~ m i ɾ z ɔː,میرزا,CANNNNNNOT,m i r z A ~ m i r z A
+2544,میرزا,m iː ɾ z ɑː ~ m i ɾ z ɑː,میرزا,CANNNNNNOT,m i r z A ~ m i r z A
+2545,میرزا,m iː ɾ z ɒː ~ m e ɾ z ɒː,میرزا,CANNNNNNOT,m i r z A ~ m e r z A
+2546,میرزا,m iː ɾ z ɒː ~ m ɪ ɾ z ɒː,میرزا,CANNNNNNOT,m i r z A ~ m i r z A
+2547,میرزاخانی,m i ɾ z ɒː x ɒː n iː,میرزاخانی,CANNNNNNOT,m i r z A x A n i
+2548,میرزاخانی,m iː ɾ z ɒː x ɒː n iː,میرزاخانی,CANNNNNNOT,m i r z A x A n i
+2549,میز,m e z ~ m i z,میز,CANNNNNNOT,m e z ~ m i z
+2550,میز,m eː z ~ m iː z,میز,CANNNNNNOT,m eː z ~ m i z
+2551,میز,m iː z ~ m iː z,میز,CANNNNNNOT,m i z ~ m i z
+2552,میغ,m eː ɣ,میغ,CANNNNNNOT,m eː q
+2553,مینو,m i n ɵː,مینو,CANNNNNNOT,m i n ɵː
+2554,مینو,m iː n oː,مینو,CANNNNNNOT,m i n oː
+2555,مینو,m iː n uː,مینو,CANNNNNNOT,m i n A
+2556,میوه,m e v a,میوه,CANNNNNNOT,m e v a
+2557,میوه,m eː v a,میوه,CANNNNNNOT,m eː v a
+2558,میوه,m eː w a,میوه,CANNNNNNOT,m eː w a
+2559,میوه,m iː v e,میوه,CANNNNNNOT,m i v e
+2560,می‌خواهم,m iː x ɒː h æ m,میخواهم,CANNNNNNOT,m i x A h a m
+2561,می‌خواهم,m iː x ɒː m,میخواهم,CANNNNNNOT,m i x A m
+2562,می‌گم,m iː ɡ æ m,میگم,CANNNNNNOT,m i ɡ a m
+2563,ناخدا,n ɑː x u d̪ ɑː,ناخدا,CANNNNNNOT,n A x u d̪ A
+2564,ناخدا,n ɒː x o d̪ ɒː,ناخدا,CANNNNNNOT,n A x o d̪ A
+2565,ناخدا,n ɒː x ʊ d̪ ɒː,ناخدا,CANNNNNNOT,n A x ʊ d̪ A
+2566,ناخدا,n ɔː x u d̪ ɔː,ناخدا,CANNNNNNOT,n A x u d̪ A
+2567,ناخن,n ɒː x o n,ناخن,CANNNNNNOT,n A x o n
+2568,ناخواسته,n ɑː xʷ ɑː s t a,ناخواسته,CANNNNNNOT,n A x A s t a
+2569,ناخواسته,n ɒː x ɒː s t a,ناخواسته,CANNNNNNOT,n A x A s t a
+2570,ناخواسته,n ɒː x ɒː s t e,ناخواسته,CANNNNNNOT,n A x A s t e
+2571,ناخواسته,n ɔː x ɔː s t a,ناخواسته,CANNNNNNOT,n A x A s t a
+2572,نار,n ɑː ɾ,نار,CANNNNNNOT,n A r
+2573,نار,n ɒː ɾ,نار,CANNNNNNOT,n A r
+2574,نار,n ɔː ɾ,نار,CANNNNNNOT,n A r
+2575,نارنجی,n ɑː ɾ a n d ʒ iː,نارنجی,CANNNNNNOT,n A r a n j i
+2576,نارنجی,n ɒː ɾ a n d ʒ iː,نارنجی,CANNNNNNOT,n A r a n j i
+2577,نارنجی,n ɒː ɾ æ n d ʒ iː,نارنجی,CANNNNNNOT,n A r a n j i
+2578,نارنجی,n ɔː ɾ a n d ʒ iː,نارنجی,CANNNNNNOT,n A r a n j i
+2579,ناز,n ɒː z,ناز,CANNNNNNOT,n A z
+2580,نازی,n ɒː z iː,نازی,CANNNNNNOT,n A z i
+2581,نالان,n ɒː l ɒː n,نالان,CANNNNNNOT,n A l A n
+2582,نالون,n ɒː l uː n,نالون,CANNNNNNOT,n A l A n
+2583,نام,n uː m,نام,CANNNNNNOT,n A m
+2584,نام,n ɑː m,نام,CANNNNNNOT,n A m
+2585,نام,n ɒː m,نام,CANNNNNNOT,n A m
+2586,نام,n ɔː m,نام,CANNNNNNOT,n A m
+2587,نامه,n uː m e,نامه,CANNNNNNOT,n A m e
+2588,نامه,n ɑː m a,نامه,CANNNNNNOT,n A m a
+2589,نامه,n ɒː m a,نامه,CANNNNNNOT,n A m a
+2590,نامه,n ɒː m e,نامه,CANNNNNNOT,n A m e
+2591,نامه,n ɔː m a,نامه,CANNNNNNOT,n A m a
+2592,نان,n ɒ̜ n,نان,CANNNNNNOT,n ɒ̜ n
+2593,ناو,n ɒː w,ناو,CANNNNNNOT,n A w
+2594,ناوخدا,n ɒː v x o d ɒː,ناوخدا,CANNNNNNOT,n A v x o d A
+2595,نجس,n æ d ʒ e s,نجس,CANNNNNNOT,n a j e s
+2596,نجس,n æ d ʒ ə s,نجس,CANNNNNNOT,n a j ə s
+2597,نجس‌تر,n æ d ʒ æ s t æ ɾ,نجستر,CANNNNNNOT,n a j a s t a r
+2598,نجس‌ترین,n æ d ʒ æ s t æ ɾ iː n,نجسترین,CANNNNNNOT,n a j a s t a r i n
+2599,ندارد,n æ d ɒː r æ d,ندارد,CANNNNNNOT,n a d A r a d
+2600,نر,n æ ɾ,نر,CANNNNNNOT,n a r
+2601,نریمان,n æ ɾ eː m ɒː n,نریمان,CANNNNNNOT,n a r eː m A n
+2602,نزد,n æ z d,نزد,CANNNNNNOT,n a z d
+2603,نزدیک‌تر,n æ z d iː k t æ ɾ,نزدیکتر,CANNNNNNOT,n a z d i k t a r
+2604,نزدیک‌ترین,n æ z d iː k t æ ɾ iː n,نزدیکترین,CANNNNNNOT,n a z d i k t a r i n
+2605,نستعلیق,n a s t a ʔ l i q,نستعلیق,CANNNNNNOT,n a s t a l i q
+2606,نستعلیق,n a s t a ʔ l iː q,نستعلیق,CANNNNNNOT,n a s t a l i q
+2607,نستعلیق,n æ s t æ ʔ l iː ɣ,نستعلیق,CANNNNNNOT,n a s t a l i q
+2608,نستعلیق,n æ s t æː l iː ɣ,نستعلیق,CANNNNNNOT,n a s t aː l i q
+2609,نسرین,n æ s ɾ iː n,نسرین,CANNNNNNOT,n a s r i n
+2610,نسک,n a s k,نسک,CANNNNNNOT,n a s k
+2611,نسک,n æ s k,نسک,CANNNNNNOT,n a s k
+2612,نشان,n ɪ ʃ ɒː n,نشان,CANNNNNNOT,n i S A n
+2613,نشلیدن,n e ʃ e l iː d æ n,نشلیدن,CANNNNNNOT,n e S e l i d a n
+2614,نظام,n e z ɒː m,نظام,CANNNNNNOT,n e z A m
+2615,نعناع,n æ ʔ n ɒː ʔ,نعناع,CANNNNNNOT,n a n A ʔ
+2616,نعوظ,n o ʔ uː z,نعوظ,CANNNNNNOT,n o A z
+2617,نغز,n æ ɣ z,نغز,CANNNNNNOT,n a q z
+2618,نماز,n a m ɑː z,نماز,CANNNNNNOT,n a m A z
+2619,نماز,n a m ɒː z,نماز,CANNNNNNOT,n a m A z
+2620,نماز,n a m ɔː z,نماز,CANNNNNNOT,n a m A z
+2621,نماز,n æ m ɒː z,نماز,CANNNNNNOT,n a m A z
+2622,نمایان,n e m ɒː j ɒː n,نمایان,CANNNNNNOT,n e m A y A n
+2623,نمایان,n æ m ɒː j ɒː n,نمایان,CANNNNNNOT,n a m A y A n
+2624,نماینده,n æ m ɒː j æ n d e,نماینده,CANNNNNNOT,n a m A y a n d e
+2625,نمایندگان,n æ m ɒː j æ n d e ɡ ɒː n,نمایندگان,CANNNNNNOT,n a m A y a n d e ɡ A n
+2626,نمایه,n æ m ɒː j e,نمایه,CANNNNNNOT,n a m A y e
+2627,نمودار,n e m u d ɒː ɾ,نمودار,CANNNNNNOT,n e m u d A r
+2628,نمک,n e m e k,نمک,CANNNNNNOT,n e m e k
+2629,نمک,n m æ k,نمک,CANNNNNNOT,n m a k
+2630,نمک,n æ m e k,نمک,CANNNNNNOT,n a m e k
+2631,نمکین,n æ m æ k iː n,نمکین,CANNNNNNOT,n a m a k i n
+2632,ننه,n æ n e,ننه,CANNNNNNOT,n a n e
+2633,ننه,n æ n æ,ننه,CANNNNNNOT,n a n a
+2634,نه,n o h,نه,CANNNNNNOT,n o h
+2635,نه,n u h,نه,CANNNNNNOT,n u h
+2636,نه,n ɵː h,نه,CANNNNNNOT,n ɵː h
+2637,نه,n ʊ h,نه,CANNNNNNOT,n ʊ h
+2638,نهج,n a h a d ʒ,نهج,CANNNNNNOT,n a h a j
+2639,نهج,n æ h æ d ʒ,نهج,CANNNNNNOT,n a h a j
+2640,نهر,n æ h ɾ,نهر,CANNNNNNOT,n a h r
+2641,نهفتن,n æ h o f t æ n,نهفتن,CANNNNNNOT,n a h o f t a n
+2642,نو,n a v,نو,CANNNNNNOT,n a v
+2643,نو,n a w,نو,CANNNNNNOT,n a w
+2644,نو,n o w,نو,CANNNNNNOT,n o w
+2645,نو,n oː,نو,CANNNNNNOT,n oː
+2646,نواختر,n o ʊ æ x t æ ɾ,نواختر,CANNNNNNOT,n o ʊ a x t a r
+2647,نور,n u ɾ,نور,CANNNNNNOT,n u r
+2648,نور,n uː ɾ,نور,CANNNNNNOT,n A r
+2649,نوروز,n a v ɾ ɵː z,نوروز,CANNNNNNOT,n a v r ɵː z
+2650,نوروز,n a w ɾ oː z,نوروز,CANNNNNNOT,n a w r oː z
+2651,نوروز,n o w ɾ uː z,نوروز,CANNNNNNOT,n o w r A z
+2652,نوروز,n oː ɾ uː z,نوروز,CANNNNNNOT,n oː r A z
+2653,نوروزی,n a v ɾ ɵː z iː,نوروزی,CANNNNNNOT,n a v r ɵː z i
+2654,نوروزی,n a w ɾ oː z iː,نوروزی,CANNNNNNOT,n a w r oː z i
+2655,نوروزی,n o w ɾ uː z iː,نوروزی,CANNNNNNOT,n o w r A z i
+2656,نوروزی,n oː ɾ uː z iː,نوروزی,CANNNNNNOT,n oː r A z i
+2657,نوشتن,n a v i ʃ t a n,نوشتن,CANNNNNNOT,n a v i S t a n
+2658,نوشتن,n a w ɪ ʃ t a n,نوشتن,CANNNNNNOT,n a w i S t a n
+2659,نوشتن,n e v e ʃ t æ n,نوشتن,CANNNNNNOT,n e v e S t a n
+2660,نوشتن,n æ v e ʃ t æ n,نوشتن,CANNNNNNOT,n a v e S t a n
+2661,نوشیدن,n uː ʃ iː d æ n,نوشیدن,CANNNNNNOT,n A S i d a n
+2662,نوع,n a v ʔ,نوع,CANNNNNNOT,n a v ʔ
+2663,نوع,n a w ʔ,نوع,CANNNNNNOT,n a w ʔ
+2664,نوع,n o w ʔ,نوع,CANNNNNNOT,n o w ʔ
+2665,نوع,n oː,نوع,CANNNNNNOT,n oː
+2666,نوم,n oː m,نوم,CANNNNNNOT,n oː m
+2667,نوم,n uː m,نوم,CANNNNNNOT,n A m
+2668,نومد,n o w m a d,نومد,CANNNNNNOT,n o w m a d
+2669,نوک,n v æ k,نوک,CANNNNNNOT,n v a k
+2670,نوکر,n a w k a r,نوکر,CANNNNNNOT,n a w k a r
+2671,نوکر,n æ ʊ k æ ɾ,نوکر,CANNNNNNOT,n a ʊ k a r
+2672,نوین,n a v i n,نوین,CANNNNNNOT,n a v i n
+2673,نوین,n a v iː n,نوین,CANNNNNNOT,n a v i n
+2674,نوین,n a w iː n,نوین,CANNNNNNOT,n a w i n
+2675,نوین,n e v iː n,نوین,CANNNNNNOT,n e v i n
+2676,نوین,n æ v iː n,نوین,CANNNNNNOT,n a v i n
+2677,نژادها,n e ʒ ɒː d h ɒː,نژادها,CANNNNNNOT,n e ʒ A d h A
+2678,نکونام,n e k uː n ɒː m,نکونام,CANNNNNNOT,n e k A n A m
+2679,نکونام,n æ k oː n ɒː m,نکونام,CANNNNNNOT,n a k oː n A m
+2680,نیاز,n ɪ j ɒː z,نیاز,CANNNNNNOT,n i y A z
+2681,نیازها,n iː j ɒː z h ɒː,نیازها,CANNNNNNOT,n i y A z h A
+2682,نیایش,n i j ɑː j i ʃ,نیایش,CANNNNNNOT,n i y A y i S
+2683,نیایش,n i j ɒː j e ʃ,نیایش,CANNNNNNOT,n i y A y e S
+2684,نیایش,n i j ɒː j ɪ ʃ,نیایش,CANNNNNNOT,n i y A y i S
+2685,نیایش,n i j ɔː j i ʃ,نیایش,CANNNNNNOT,n i y A y i S
+2686,نیرومند,n iː ɾ uː m æ n d̪,نیرومند,CANNNNNNOT,n i r A m a n d̪
+2687,نیزه,n e i̯ z e,نیزه,CANNNNNNOT,n e i̯ z e
+2688,نیست,n e s t,نیست,CANNNNNNOT,n e s t
+2689,نیست,n eː s t,نیست,CANNNNNNOT,n eː s t
+2690,نیست,n iː s t,نیست,CANNNNNNOT,n i s t
+2691,نیفه,n e f a,نیفه,CANNNNNNOT,n e f a
+2692,نیفه,n eː f a,نیفه,CANNNNNNOT,n eː f a
+2693,نیفه,n iː f e,نیفه,CANNNNNNOT,n i f e
+2694,نیو,n e v,نیو,CANNNNNNOT,n e v
+2695,نیو,n eː v,نیو,CANNNNNNOT,n eː v
+2696,نیو,n eː w,نیو,CANNNNNNOT,n eː w
+2697,نیو,n iː v,نیو,CANNNNNNOT,n i v
+2698,نیوشا,n i j oː ʃ ɒː,نیوشا,CANNNNNNOT,n i y oː S A
+2699,نیک,n e k,نیک,CANNNNNNOT,n e k
+2700,نیک,n eː k,نیک,CANNNNNNOT,n eː k
+2701,نیک,n iː k,نیک,CANNNNNNOT,n i k
+2702,ه,a,ه,CANNNNNNOT,a
+2703,ه,e,ه,CANNNNNNOT,e
+2704,ه,h e,ه,CANNNNNNOT,h e
+2705,هامون,h ɒː m uː n,هامون,CANNNNNNOT,h A m A n
+2706,هجده,h e d ʒ d æ h,هجده,CANNNNNNOT,h e j d a h
+2707,هجده,h e ʒ d æ h,هجده,CANNNNNNOT,h e ʒ d a h
+2708,هجران,h i d͡ʒ ɾ ɒː n,هجران,CANNNNNNOT,h i j r A n
+2709,هرات,h a ɾ ɑː t,هرات,CANNNNNNOT,h a r A t
+2710,هرات,h a ɾ ɒː t,هرات,CANNNNNNOT,h a r A t
+2711,هرات,h a ɾ ɔː t,هرات,CANNNNNNOT,h a r A t
+2712,هرات,h æ ɾ ɒː t,هرات,CANNNNNNOT,h a r A t
+2713,هرتز,h e ɾ t z,هرتز,CANNNNNNOT,h e r t z
+2714,هزار,h e z ɒː ɾ,هزار,CANNNNNNOT,h e z A r
+2715,هفته,h a f t a,هفته,CANNNNNNOT,h a f t a
+2716,هفته,h æ f t e,هفته,CANNNNNNOT,h a f t e
+2717,هفته‌ها,h æ f t e h ɒː,هفتهها,CANNNNNNOT,h a f t e h A
+2718,هلو,h o l uː,هلو,CANNNNNNOT,h o l A
+2719,همدم,h æ m d æ m,همدم,CANNNNNNOT,h a m d a m
+2720,همساده,h o m s ɒː d e,همساده,CANNNNNNOT,h o m s A d e
+2721,همساده,h æ m s ɒː d e,همساده,CANNNNNNOT,h a m s A d e
+2722,همسده,h æ m s e d æ,همسده,CANNNNNNOT,h a m s e d a
+2723,همه,h æ m e,همه,CANNNNNNOT,h a m e
+2724,همه,h æ m e j e,همه,CANNNNNNOT,h a m e y e
+2725,همچنین,h a m t ʃ a n i n,همچنین,CANNNNNNOT,h a m t S a n i n
+2726,همچنین,h a m t ʃ a n iː n,همچنین,CANNNNNNOT,h a m t S a n i n
+2727,همچنین,h æ m t ʃ e n iː n,همچنین,CANNNNNNOT,h a m t S e n i n
+2728,همچنین,h æ m t ʃ æ n iː n,همچنین,CANNNNNNOT,h a m t S a n i n
+2729,همیشه,h a m # e ʃ a,همیشه,CANNNNNNOT,h a m  e S a
+2730,همیشه,h a m # eː ʃ a,همیشه,CANNNNNNOT,h a m  eː S a
+2731,همیشه,h æ m # iː ʃ e,همیشه,CANNNNNNOT,h a m  i S e
+2732,هند,h e n d,هند,CANNNNNNOT,h e n d
+2733,هند,h i n d,هند,CANNNNNNOT,h i n d
+2734,هند,h ɪ n d,هند,CANNNNNNOT,h i n d
+2735,هندوانه,h e n d e v ɒː n e,هندوانه,CANNNNNNOT,h e n d e v A n e
+2736,هندوستان,h e n d uː s t uː n,هندوستان,CANNNNNNOT,h e n d A s t A n
+2737,هندوستان,h e n d uː s t ɒː n,هندوستان,CANNNNNNOT,h e n d A s t A n
+2738,هندوستان,h i n d u s t ɔː n,هندوستان,CANNNNNNOT,h i n d u s t A n
+2739,هندوستان,h i n d uː s t ɑː n,هندوستان,CANNNNNNOT,h i n d A s t A n
+2740,هندوستان,h ɪ n d uː s t ɒː n,هندوستان,CANNNNNNOT,h i n d A s t A n
+2741,هندی,h e n d iː,هندی,CANNNNNNOT,h e n d i
+2742,هنر,h o n æ ɾ,هنر,CANNNNNNOT,h o n a r
+2743,هنر,h u n a ɾ,هنر,CANNNNNNOT,h u n a r
+2744,هنر,h ʊ n a ɾ,هنر,CANNNNNNOT,h ʊ n a r
+2745,هنوز,h a n oː z,هنوز,CANNNNNNOT,h a n oː z
+2746,هنوز,h a n ɵː z,هنوز,CANNNNNNOT,h a n ɵː z
+2747,هنوز,h æ n uː z,هنوز,CANNNNNNOT,h a n A z
+2748,هنی,h æ n iː,هنی,CANNNNNNOT,h a n i
+2749,هواپیما,h a v ɑː p a j m ɑː,هواپیما,CANNNNNNOT,h a v A p a y m A
+2750,هواپیما,h a v ɔː p a j m ɔː,هواپیما,CANNNNNNOT,h a v A p a y m A
+2751,هواپیما,h a w ɒː p a j m ɒː,هواپیما,CANNNNNNOT,h a w A p a y m A
+2752,هواپیما,h æ v ɒː p e j m ɒː,هواپیما,CANNNNNNOT,h a v A p e y m A
+2753,هوتن,h uː t æ n,هوتن,CANNNNNNOT,h A t a n
+2754,هوش,h oː ʃ,هوش,CANNNNNNOT,h oː S
+2755,هوش,h uː ʃ,هوش,CANNNNNNOT,h A S
+2756,هوش,h ɵː ʃ,هوش,CANNNNNNOT,h ɵː S
+2757,هوشیار,h oː ʃ j ɑː ɾ,هوشیار,CANNNNNNOT,h oː S y A r
+2758,هوشیار,h oː ʃ j ɒː ɾ,هوشیار,CANNNNNNOT,h oː S y A r
+2759,هوشیار,h uː ʃ j ɒː ɾ,هوشیار,CANNNNNNOT,h A S y A r
+2760,هوشیار,h ɵː ʃ j ɔː ɾ,هوشیار,CANNNNNNOT,h ɵː S y A r
+2761,هی,h e j,هی,CANNNNNNOT,h e y
+2762,هیزم,h e z u m,هیزم,CANNNNNNOT,h e z u m
+2763,هیزم,h eː z u m,هیزم,CANNNNNNOT,h eː z u m
+2764,هیزم,h eː z ʊ m,هیزم,CANNNNNNOT,h eː z ʊ m
+2765,هیزم,h iː z o m,هیزم,CANNNNNNOT,h i z o m
+2766,هیس,sː,هیس,CANNNNNNOT,sː
+2767,هیچ,h e t ʃ,هیچ,CANNNNNNOT,h e t S
+2768,هیچ,h eː t ʃ,هیچ,CANNNNNNOT,h eː t S
+2769,هیچ,h iː t ʃ,هیچ,CANNNNNNOT,h i t S
+2770,هیچ‌وقت,h e t ʃ v a q t,هیچوقت,CANNNNNNOT,h e t S v a q t
+2771,هیچ‌وقت,h eː t ʃ v a q t,هیچوقت,CANNNNNNOT,h eː t S v a q t
+2772,هیچ‌وقت,h eː t ʃ w a q t,هیچوقت,CANNNNNNOT,h eː t S w a q t
+2773,هیچ‌وقت,h iː t ʃ v æ ɣ t,هیچوقت,CANNNNNNOT,h i t S v a q t
+2774,و,o,و,CANNNNNNOT,o
+2775,و,u,و,CANNNNNNOT,u
+2776,و,v a,و,CANNNNNNOT,v a
+2777,و,v æ,و,CANNNNNNOT,v a
+2778,و,w a,و,CANNNNNNOT,w a
+2779,و,ʊ,و,CANNNNNNOT,ʊ
+2780,وارث,v ɑː r e s,وارث,CANNNNNNOT,v A r e s
+2781,واقعا,v ɒ q e ʔ a n,واقعا,CANNNNNNOT,v ɒ q e a n
+2782,والا,v æ e l l ɒː,والا,CANNNNNNOT,v a e l l A
+2783,والا,v ɒː l ɒː,والا,CANNNNNNOT,v A l A
+2784,واژه,v ɑː ʒ a,واژه,CANNNNNNOT,v A ʒ a
+2785,واژه,v ɒː ʒ e,واژه,CANNNNNNOT,v A ʒ e
+2786,واژه,v ɔː ʒ a,واژه,CANNNNNNOT,v A ʒ a
+2787,واژه,w ɒː ʒ a,واژه,CANNNNNNOT,w A ʒ a
+2788,واژه‌نامه,v ɒː ʒ e n ɒː m e,واژهنامه,CANNNNNNOT,v A ʒ e n A m e
+2789,واژه‌ها,v ɒː ʒ e h ɒː,واژهها,CANNNNNNOT,v A ʒ e h A
+2790,واژگان,v ɒː ʒ e ɡ ɒː n,واژگان,CANNNNNNOT,v A ʒ e ɡ A n
+2791,وروجک,v o ɾ uː d͡ʒ æ kʲ,وروجک,CANNNNNNOT,v o r A j a kʲ
+2792,وروجک,v u ɾ u d͡ʒ e kʲ,وروجک,CANNNNNNOT,v u r u j e kʲ
+2793,وزغ,v æ z æ ɣ,وزغ,CANNNNNNOT,v a z a q
+2794,وزیدن,v æ z iː d æ n,وزیدن,CANNNNNNOT,v a z i d a n
+2795,وسیع,v a s e ʔ,وسیع,CANNNNNNOT,v a s e ʔ
+2796,وسیع,v a s iː ʔ,وسیع,CANNNNNNOT,v a s i ʔ
+2797,وسیع,v e s iː,وسیع,CANNNNNNOT,v e s i
+2798,وسیع,v æ s iː ʔ,وسیع,CANNNNNNOT,v a s i ʔ
+2799,وسیع,w a s iː ʔ,وسیع,CANNNNNNOT,w a s i ʔ
+2800,وعده,v a ʔ d a,وعده,CANNNNNNOT,v a d a
+2801,وعده,v æ ʔ d e,وعده,CANNNNNNOT,v a d e
+2802,وعده,v æː d e,وعده,CANNNNNNOT,v aː d e
+2803,وعده,w a ʔ d a,وعده,CANNNNNNOT,w a d a
+2804,وقت,v æ q t,وقت,CANNNNNNOT,v a q t
+2805,وقتی,v a q t e,وقتی,CANNNNNNOT,v a q t e
+2806,وقتی,v a q t eː,وقتی,CANNNNNNOT,v a q t eː
+2807,وقتی,v æ ɣ t iː,وقتی,CANNNNNNOT,v a q t i
+2808,وقتی,w a q t eː,وقتی,CANNNNNNOT,w a q t eː
+2809,ونوس,v e n uː s,ونوس,CANNNNNNOT,v e n A s
+2810,ویستا,v i s t ɒ,ویستا,CANNNNNNOT,v i s t ɒ
+2811,ویه,uː j e,ویه,CANNNNNNOT,A y e
+2812,ویژگی‌ها,v iː ʒ e ɡ iː h ɒː,ویژگیها,CANNNNNNOT,v i ʒ e ɡ i h A
+2813,پ,p,پ,CANNNNNNOT,p
+2814,پ,p e,پ,CANNNNNNOT,p e
+2815,پا,p ɒː,پا,CANNNNNNOT,p A
+2816,پاداش,pʰ ɑː d̪ ɑː ʃ,پاداش,CANNNNNNOT,pʰ A d̪ A S
+2817,پاداش,pʰ ɒː d̪ ɒː ʃ,پاداش,CANNNNNNOT,pʰ A d̪ A S
+2818,پاداش,pʰ ɔː d̪ ɔː ʃ,پاداش,CANNNNNNOT,pʰ A d̪ A S
+2819,پادشاه,p ɑː d i ʃ ɑː h,پادشاه,CANNNNNNOT,p A d i S A h
+2820,پادشاه,p ɒː d e ʃ ɒː h,پادشاه,CANNNNNNOT,p A d e S A h
+2821,پادشاه,p ɒː d ɪ ʃ ɒː h,پادشاه,CANNNNNNOT,p A d i S A h
+2822,پادشاه,p ɔː d i ʃ ɔː h,پادشاه,CANNNNNNOT,p A d i S A h
+2823,پارسال,pʰ ɒː ɾ s ɒː l,پارسال,CANNNNNNOT,pʰ A r s A l
+2824,پارسه,p ɒː ɾ s e,پارسه,CANNNNNNOT,p A r s e
+2825,پاره,p ɑː ɾ a,پاره,CANNNNNNOT,p A r a
+2826,پاره,p ɒː ɾ a,پاره,CANNNNNNOT,p A r a
+2827,پاره,p ɒː ɾ e,پاره,CANNNNNNOT,p A r e
+2828,پاره,p ɔː ɾ a,پاره,CANNNNNNOT,p A r a
+2829,پاپوش,p ɒː p oː ʃ,پاپوش,CANNNNNNOT,p A p oː S
+2830,پاکستان,p ɑː k i s t ɑː n,پاکستان,CANNNNNNOT,p A k i s t A n
+2831,پاکستان,p ɒː k e s t ɒː n,پاکستان,CANNNNNNOT,p A k e s t A n
+2832,پاکستان,p ɒː k ɪ s t ɒː n,پاکستان,CANNNNNNOT,p A k i s t A n
+2833,پاکستان,p ɔː k i s t ɔː n,پاکستان,CANNNNNNOT,p A k i s t A n
+2834,پایه,p ɑː j a,پایه,CANNNNNNOT,p A y a
+2835,پایه,p ɒː j a,پایه,CANNNNNNOT,p A y a
+2836,پایه,p ɒː j e,پایه,CANNNNNNOT,p A y e
+2837,پایه,p ɔː j a,پایه,CANNNNNNOT,p A y a
+2838,پاییز,p ɑː iː z,پاییز,CANNNNNNOT,p A i z
+2839,پاییز,p ɒː iː z,پاییز,CANNNNNNOT,p A i z
+2840,پاییز,p ɔː i z,پاییز,CANNNNNNOT,p A i z
+2841,پدر,p e d e ɾ,پدر,CANNNNNNOT,p e d e r
+2842,پدیدار,p æ d iː d ɒː ɾ,پدیدار,CANNNNNNOT,p a d i d A r
+2843,پذیرفتن,p a z i ɾ u f t a n,پذیرفتن,CANNNNNNOT,p a z i r u f t a n
+2844,پذیرفتن,p a z iː ɾ ʊ f t a n,پذیرفتن,CANNNNNNOT,p a z i r ʊ f t a n
+2845,پذیرفتن,p a ð iː ɾ u f t a n,پذیرفتن,CANNNNNNOT,p a ð i r u f t a n
+2846,پذیرفتن,p e z iː ɾ o f t æ n,پذیرفتن,CANNNNNNOT,p e z i r o f t a n
+2847,پذیرفتن,p æ z iː ɾ o f t æ n,پذیرفتن,CANNNNNNOT,p a z i r o f t a n
+2848,پر,p o ɾ,پر,CANNNNNNOT,p o r
+2849,پر,p u ɾ,پر,CANNNNNNOT,p u r
+2850,پر,p æ ɾ,پر,CANNNNNNOT,p a r
+2851,پر,p ʊ ɾ,پر,CANNNNNNOT,p ʊ r
+2852,پرتگاه,p æ ɾ t ɡ ɒː h,پرتگاه,CANNNNNNOT,p a r t ɡ A h
+2853,پردیس,p a ɾ d e s,پردیس,CANNNNNNOT,p a r d e s
+2854,پردیس,p a ɾ d eː s,پردیس,CANNNNNNOT,p a r d eː s
+2855,پردیس,p æ ɾ d iː s,پردیس,CANNNNNNOT,p a r d i s
+2856,پرس,p o ɾ s,پرس,CANNNNNNOT,p o r s
+2857,پرس,p u ɾ s,پرس,CANNNNNNOT,p u r s
+2858,پرس,p ʊ ɾ s,پرس,CANNNNNNOT,p ʊ r s
+2859,پرسش,p o ɾ s e ʃ,پرسش,CANNNNNNOT,p o r s e S
+2860,پرسش,p u ɾ s i ʃ,پرسش,CANNNNNNOT,p u r s i S
+2861,پرسش,p ʊ ɾ s ɪ ʃ,پرسش,CANNNNNNOT,p ʊ r s i S
+2862,پرسیدن,p o ɾ s iː d æ n,پرسیدن,CANNNNNNOT,p o r s i d a n
+2863,پرسیدن,p u ɾ s i d a n,پرسیدن,CANNNNNNOT,p u r s i d a n
+2864,پرسیدن,p u ɾ s iː d a n,پرسیدن,CANNNNNNOT,p u r s i d a n
+2865,پرسیدن,p ʊ ɾ s iː d a n,پرسیدن,CANNNNNNOT,p ʊ r s i d a n
+2866,پرطرفدار,p o ɾ t æ ɾ æ f d ɒː ɾ,پرطرفدار,CANNNNNNOT,p o r t a r a f d A r
+2867,پرنده,p æ ɾ ɪ n d æ,پرنده,CANNNNNNOT,p a r i n d a
+2868,پرهیز,p a ɾ h e z,پرهیز,CANNNNNNOT,p a r h e z
+2869,پرهیز,p a ɾ h eː z,پرهیز,CANNNNNNOT,p a r h eː z
+2870,پرهیز,p æ ɾ h iː z,پرهیز,CANNNNNNOT,p a r h i z
+2871,پروسه,p e ɾ o s e,پروسه,CANNNNNNOT,p e r o s e
+2872,پروسه,p o ɾ o s e,پروسه,CANNNNNNOT,p o r o s e
+2873,پروسه,p ɾ o s e,پروسه,CANNNNNNOT,p r o s e
+2874,پروژه,p e ɾ o ʒ e,پروژه,CANNNNNNOT,p e r o ʒ e
+2875,پروژه,p o ɾ o ʒ e,پروژه,CANNNNNNOT,p o r o ʒ e
+2876,پروژه,p ɾ o ʒ e,پروژه,CANNNNNNOT,p r o ʒ e
+2877,پروگرام,p e ɾ o ɡ e ɾ ɒː m,پروگرام,CANNNNNNOT,p e r o ɡ e r A m
+2878,پروگرام,p o ɾ o ɡ e ɾ ɒː m,پروگرام,CANNNNNNOT,p o r o ɡ e r A m
+2879,پروگرام,p ɾ o ɡ ɾ ɒː m,پروگرام,CANNNNNNOT,p r o ɡ r A m
+2880,پرویز,p æ ɾ v iː z,پرویز,CANNNNNNOT,p a r v i z
+2881,پرویز,p æ ɾ w eː z,پرویز,CANNNNNNOT,p a r w eː z
+2882,پرکار,p o ɾ k ɒː ɾ,پرکار,CANNNNNNOT,p o r k A r
+2883,پرگار,p æ ɾ ɡ ɒː ɾ,پرگار,CANNNNNNOT,p a r ɡ A r
+2884,پری,p a ɾ iː,پری,CANNNNNNOT,p a r i
+2885,پری,p æ ɾ iː,پری,CANNNNNNOT,p a r i
+2886,پریشان,p æ ɾ eː ʃ ɒː n,پریشان,CANNNNNNOT,p a r eː S A n
+2887,پسر,p e s e ɾ,پسر,CANNNNNNOT,p e s e r
+2888,پسر,p æ s æ ɾ,پسر,CANNNNNNOT,p a s a r
+2889,پسر,p ʊ s æ ɾ,پسر,CANNNNNNOT,p ʊ s a r
+2890,پسی,p o s eː,پسی,CANNNNNNOT,p o s eː
+2891,پش,p æ ʃ,پش,CANNNNNNOT,p a S
+2892,پشت,p o ʃ t,پشت,CANNNNNNOT,p o S t
+2893,پشت,p o ʃ t e,پشت,CANNNNNNOT,p o S t e
+2894,پشت,p u ʃ t,پشت,CANNNNNNOT,p u S t
+2895,پشت,p u ʃ t i,پشت,CANNNNNNOT,p u S t i
+2896,پشت,p ʊ ʃ t,پشت,CANNNNNNOT,p ʊ S t
+2897,پشت,p ʊ ʃ t ɪ,پشت,CANNNNNNOT,p ʊ S t i
+2898,پشتون,p æ ʃ t uː n,پشتون,CANNNNNNOT,p a S t A n
+2899,پشمین,p æ ʃ m iː n,پشمین,CANNNNNNOT,p a S m i n
+2900,پشه,p æ ʃ e,پشه,CANNNNNNOT,p a S e
+2901,پشه,p æ ʃː e,پشه,CANNNNNNOT,p a Sː e
+2902,پشیمان,p æ ʃ iː m ɒː n,پشیمان,CANNNNNNOT,p a S i m A n
+2903,پلان,p e l ɒː n,پلان,CANNNNNNOT,p e l A n
+2904,پلان,p l ɒː n,پلان,CANNNNNNOT,p l A n
+2905,پله,pʰ e l l e,پله,CANNNNNNOT,pʰ e l l e
+2906,پله,pʰ i l l a,پله,CANNNNNNOT,pʰ i l l a
+2907,پله,pʰ ɪ l l a,پله,CANNNNNNOT,pʰ i l l a
+2908,پناهنده,p æ n ɒː h æ n d e,پناهنده,CANNNNNNOT,p a n A h a n d e
+2909,پناهندگان,p æ n ɒː h æ n d e ɡ ɒː n,پناهندگان,CANNNNNNOT,p a n A h a n d e ɡ A n
+2910,پنبه,p æ m b e,پنبه,CANNNNNNOT,p a m b e
+2911,پنبه,p æ m b æ,پنبه,CANNNNNNOT,p a m b a
+2912,پنج,pʰ æ n d͡ʒ,پنج,CANNNNNNOT,pʰ a n j
+2913,پنجره,p æ n d͡ʒ æ ɾ æ,پنجره,CANNNNNNOT,p a n j a r a
+2914,پنجه,p a n d ʒ a,پنجه,CANNNNNNOT,p a n j a
+2915,پنجه,p æ n d ʒ e,پنجه,CANNNNNNOT,p a n j e
+2916,پهلوان,p a h l a # v ɑː n,پهلوان,CANNNNNNOT,p a h l a  v A n
+2917,پهلوان,p a h l a # v ɔː n,پهلوان,CANNNNNNOT,p a h l a  v A n
+2918,پهلوان,p a h l a # w ɒː n,پهلوان,CANNNNNNOT,p a h l a  w A n
+2919,پهلوان,p æ h l e # v uː n,پهلوان,CANNNNNNOT,p a h l e  v A n
+2920,پهلوان,p æ h l e # v ɒː n,پهلوان,CANNNNNNOT,p a h l e  v A n
+2921,پودنه,p u d i n a,پودنه,CANNNNNNOT,p u d i n a
+2922,پودنه,p uː d e n e,پودنه,CANNNNNNOT,p A d e n e
+2923,پودنه,p uː d i n a,پودنه,CANNNNNNOT,p A d i n a
+2924,پودنه,p uː d ɪ n a,پودنه,CANNNNNNOT,p A d i n a
+2925,پوده,p uː d æ,پوده,CANNNNNNOT,p A d a
+2926,پودینه,p u d i n a,پودینه,CANNNNNNOT,p u d i n a
+2927,پودینه,p uː d iː n a,پودینه,CANNNNNNOT,p A d i n a
+2928,پودینه,p uː d iː n e,پودینه,CANNNNNNOT,p A d i n e
+2929,پوزخند,p uː z x æ n d,پوزخند,CANNNNNNOT,p A z x a n d
+2930,پوست,p oː s t,پوست,CANNNNNNOT,p oː s t
+2931,پوست,p uː s t,پوست,CANNNNNNOT,p A s t
+2932,پوست,p ɵː s t,پوست,CANNNNNNOT,p ɵː s t
+2933,پوشاک,p oː ʃ ɑː k,پوشاک,CANNNNNNOT,p oː S A k
+2934,پوشاک,p oː ʃ ɒː k,پوشاک,CANNNNNNOT,p oː S A k
+2935,پوشاک,p uː ʃ ɒː k,پوشاک,CANNNNNNOT,p A S A k
+2936,پوشاک,p ɵː ʃ ɔː k,پوشاک,CANNNNNNOT,p ɵː S A k
+2937,پوشیدن,p oː ʃ iː d a n,پوشیدن,CANNNNNNOT,p oː S i d a n
+2938,پوشیدن,p uː ʃ iː d æ n,پوشیدن,CANNNNNNOT,p A S i d a n
+2939,پوشیدن,p ɵː ʃ i d a n,پوشیدن,CANNNNNNOT,p ɵː S i d a n
+2940,پوهنتون,p oː h a n t uː n,پوهنتون,CANNNNNNOT,p oː h a n t A n
+2941,پوپک,p oː p a k,پوپک,CANNNNNNOT,p oː p a k
+2942,پوپک,p uː p æ k,پوپک,CANNNNNNOT,p A p a k
+2943,پوپک,p ɵː p a k,پوپک,CANNNNNNOT,p ɵː p a k
+2944,پی,p e j,پی,CANNNNNNOT,p e y
+2945,پی,p iː,پی,CANNNNNNOT,p i
+2946,پیاده,p i j ɑː d a,پیاده,CANNNNNNOT,p i y A d a
+2947,پیاده,p i j ɒː d a,پیاده,CANNNNNNOT,p i y A d a
+2948,پیاده,p i j ɒː d e,پیاده,CANNNNNNOT,p i y A d e
+2949,پیاده,p i j ɔː d a,پیاده,CANNNNNNOT,p i y A d a
+2950,پیادگان,p iː j ɒː d e ɡ ɒː n,پیادگان,CANNNNNNOT,p i y A d e ɡ A n
+2951,پیاله,p i j ɑː l a,پیاله,CANNNNNNOT,p i y A l a
+2952,پیاله,p i j ɒː l a,پیاله,CANNNNNNOT,p i y A l a
+2953,پیاله,p i j ɒː l e,پیاله,CANNNNNNOT,p i y A l e
+2954,پیاله,p i j ɔː l a,پیاله,CANNNNNNOT,p i y A l a
+2955,پیر,p i j æ ɾ,پیر,CANNNNNNOT,p i y a r
+2956,پیر,p iː ɾ,پیر,CANNNNNNOT,p i r
+2957,پیرتر,p iː ɾ t æ ɾ,پیرتر,CANNNNNNOT,p i r t a r
+2958,پیرترین,p iː ɾ t æ ɾ iː n,پیرترین,CANNNNNNOT,p i r t a r i n
+2959,پیسه,p a j s a,پیسه,CANNNNNNOT,p a y s a
+2960,پیسه,p e j s e,پیسه,CANNNNNNOT,p e y s e
+2961,پیش,p e ʃ,پیش,CANNNNNNOT,p e S
+2962,پیش,p eː ʃ,پیش,CANNNNNNOT,p eː S
+2963,پیش,p iː ʃ,پیش,CANNNNNNOT,p i S
+2964,پیشنهاد,p e ʃ n i h ɔː d,پیشنهاد,CANNNNNNOT,p e S n i h A d
+2965,پیشنهاد,p eː ʃ n i h ɑː d,پیشنهاد,CANNNNNNOT,p eː S n i h A d
+2966,پیشنهاد,p eː ʃ n ɪ h ɒː d,پیشنهاد,CANNNNNNOT,p eː S n i h A d
+2967,پیشنهاد,p iː ʃ n e h ɒː d,پیشنهاد,CANNNNNNOT,p i S n e h A d
+2968,پیشه,p e ʃ a,پیشه,CANNNNNNOT,p e S a
+2969,پیشه,p eː ʃ a,پیشه,CANNNNNNOT,p eː S a
+2970,پیشه,p iː ʃ e,پیشه,CANNNNNNOT,p i S e
+2971,پیشوند,p e ʃ v a n d,پیشوند,CANNNNNNOT,p e S v a n d
+2972,پیشوند,p eː ʃ v a n d,پیشوند,CANNNNNNOT,p eː S v a n d
+2973,پیشوند,p eː ʃ w a n d,پیشوند,CANNNNNNOT,p eː S w a n d
+2974,پیشوند,p iː ʃ v æ n d,پیشوند,CANNNNNNOT,p i S v a n d
+2975,پیچ,p e t ʃ,پیچ,CANNNNNNOT,p e t S
+2976,پیچ,p eː t ʃ,پیچ,CANNNNNNOT,p eː t S
+2977,پیچ,p iː t ʃ,پیچ,CANNNNNNOT,p i t S
+2978,پیچیدن,p e t ʃ i d a,پیچیدن,CANNNNNNOT,p e t S i d a
+2979,پیچیدن,p eː t ʃ iː d a,پیچیدن,CANNNNNNOT,p eː t S i d a
+2980,پیچیدن,p iː t ʃ iː d e,پیچیدن,CANNNNNNOT,p i t S i d e
+2981,پیکر,p a j k a ɾ,پیکر,CANNNNNNOT,p a y k a r
+2982,پیکر,p e j k æ ɾ,پیکر,CANNNNNNOT,p e y k a r
+2983,چ,t ʃ,چ,CANNNNNNOT,t S
+2984,چا,t ʃʰ ɒː,چا,CANNNNNNOT,t Sʰ A
+2985,چاشت,t ʃʰ ɒː ʃ tʰ,چاشت,CANNNNNNOT,t Sʰ A S t
+2986,چاشنی,t ʃʰ ɒː ʃ n iː,چاشنی,CANNNNNNOT,t Sʰ A S n i
+2987,چاق,t ʃ ɑː q,چاق,CANNNNNNOT,t S A q
+2988,چاق,t ʃ ɒː q,چاق,CANNNNNNOT,t S A q
+2989,چاق,t ʃ ɒː ɣ,چاق,CANNNNNNOT,t S A q
+2990,چاق,t ʃ ɔː q,چاق,CANNNNNNOT,t S A q
+2991,چای,t ʃ ɑː j,چای,CANNNNNNOT,t S A y
+2992,چای,t ʃ ɒː j,چای,CANNNNNNOT,t S A y
+2993,چای,t ʃ ɔː j,چای,CANNNNNNOT,t S A y
+2994,چراغ,t ʃ e ɾ ɒː ɣ ~ t ʃ æ ɾ ɒː ɣ,چراغ,CANNNNNNOT,t S e r A q ~ t S a r A q
+2995,چراغ,t ʃ i ɾ ɑː ɣ ~ t ʃ a ɾ ɑː ɣ,چراغ,CANNNNNNOT,t S i r A q ~ t S a r A q
+2996,چراغ,t ʃ i ɾ ɔː ɣ ~ t ʃ a ɾ ɔː ɣ,چراغ,CANNNNNNOT,t S i r A q ~ t S a r A q
+2997,چراغ,t ʃ ɪ ɾ ɒː ɣ ~ t ʃ a ɾ ɒː ɣ,چراغ,CANNNNNNOT,t S i r A q ~ t S a r A q
+2998,چربی,t ʃ æ r b iː,چربی,CANNNNNNOT,t S a r b i
+2999,چرخ,t͡ʃ æ ɾ x,چرخ,CANNNNNNOT,t͡S a r x
+3000,چرخیدن,t ʃ e ɾ x i d̪ æ n,چرخیدن,CANNNNNNOT,t S e r x i d̪ a n
+3001,چرخیدن,t ʃ æ ɾ x i d̪ æ n,چرخیدن,CANNNNNNOT,t S a r x i d̪ a n
+3002,چرک,t ʃ e ɾ k,چرک,CANNNNNNOT,t S e r k
+3003,چرک,t ʃ æ ɾ k,چرک,CANNNNNNOT,t S a r k
+3004,چشم,t ʃʰ e ʃ m,چشم,CANNNNNNOT,t Sʰ e S m
+3005,چشم,t ʃʰ æ ʃ m,چشم,CANNNNNNOT,t Sʰ a S m
+3006,چشمان,t ʃʰ e ʃ m ɒː,چشمان,CANNNNNNOT,t Sʰ e S m A
+3007,چشمان,t ʃʰ e ʃ m ɒː n,چشمان,CANNNNNNOT,t Sʰ e S m A n
+3008,چشمان,t ʃʰ æ ʃ m ɒː,چشمان,CANNNNNNOT,t Sʰ a S m A
+3009,چشمان,t ʃʰ æ ʃ m ɒː n,چشمان,CANNNNNNOT,t Sʰ a S m A n
+3010,چشمه,t͡ʃ æ ʃ m æ,چشمه,CANNNNNNOT,t͡S a S m a
+3011,چطور,t ʃ e t o w ɾ,چطور,CANNNNNNOT,t S e t o w r
+3012,چطور,t ʃ e t oː ɾ,چطور,CANNNNNNOT,t S e t oː r
+3013,چطور,t ʃ i t a v ɾ,چطور,CANNNNNNOT,t S i t a v r
+3014,چطور,t ʃ i t a w ɾ,چطور,CANNNNNNOT,t S i t a w r
+3015,چطور,t ʃ ɪ t a w ɾ,چطور,CANNNNNNOT,t S i t a w r
+3016,چقدر,t ʃ e ɣ æ d æ ɾ,چقدر,CANNNNNNOT,t S e q a d a r
+3017,چقدر,t ʃ i q a d a ɾ,چقدر,CANNNNNNOT,t S i q a d a r
+3018,چقدر,t ʃ ɪ q a d a ɾ,چقدر,CANNNNNNOT,t S i q a d a r
+3019,چل,t ʃʰ e l,چل,CANNNNNNOT,t Sʰ e l
+3020,چل,t ʃʰ o l,چل,CANNNNNNOT,t Sʰ o l
+3021,چله,t ʃʰ e l e,چله,CANNNNNNOT,t Sʰ e l e
+3022,چله,t ʃʰ e l l e,چله,CANNNNNNOT,t Sʰ e l l e
+3023,چله,t ʃʰ æ l e,چله,CANNNNNNOT,t Sʰ a l e
+3024,چنان,t ʃ o n ɒː n,چنان,CANNNNNNOT,t S o n A n
+3025,چنین,t ʃ o n iː n,چنین,CANNNNNNOT,t S o n i n
+3026,چه,t ʃ a,چه,CANNNNNNOT,t S a
+3027,چه,t ʃ e,چه,CANNNNNNOT,t S e
+3028,چهره,t ʃ e h ɾ a,چهره,CANNNNNNOT,t S e h r a
+3029,چهره,t ʃ e h ɾ e,چهره,CANNNNNNOT,t S e h r e
+3030,چهره,t ʃ i h ɾ a,چهره,CANNNNNNOT,t S i h r a
+3031,چهره,t ʃ ɪ h ɾ a,چهره,CANNNNNNOT,t S i h r a
+3032,چهل,t ʃ e h e l,چهل,CANNNNNNOT,t S e h e l
+3033,چهل,t ʃ i h i l,چهل,CANNNNNNOT,t S i h i l
+3034,چهل,t ʃ ɪ h ɪ l,چهل,CANNNNNNOT,t S i h i l
+3035,چو,t ʃ o w,چو,CANNNNNNOT,t S o w
+3036,چو,t ʃ uː,چو,CANNNNNNOT,t S A
+3037,چوب,t ʃ oː b,چوب,CANNNNNNOT,t S oː b
+3038,چوب,t ʃ uː b,چوب,CANNNNNNOT,t S A b
+3039,چوب,t ʃ ɵː b,چوب,CANNNNNNOT,t S ɵː b
+3040,چون,t ʃ o n,چون,CANNNNNNOT,t S o n
+3041,چون,t ʃ uː n,چون,CANNNNNNOT,t S A n
+3042,چوپ,t͡ʃ oː p,چوپ,CANNNNNNOT,t͡S oː p
+3043,چوکی,t ʃ a w k iː,چوکی,CANNNNNNOT,t S a w k i
+3044,چپ,t ʃ æ p,چپ,CANNNNNNOT,t S a p
+3045,چکش,t͡ʃ æ k u ʃ,چکش,CANNNNNNOT,t͡S a k u S
+3046,چکمه,t ʃ a k m a,چکمه,CANNNNNNOT,t S a k m a
+3047,چکمه,t ʃ æ k m e,چکمه,CANNNNNNOT,t S a k m e
+3048,چکیدن,t ʃ a k i d a n,چکیدن,CANNNNNNOT,t S a k i d a n
+3049,چکیدن,t ʃ a k iː d a n,چکیدن,CANNNNNNOT,t S a k i d a n
+3050,چکیدن,t ʃ e k iː d æ n,چکیدن,CANNNNNNOT,t S e k i d a n
+3051,چکیدن,t ʃ æ k iː d æ n,چکیدن,CANNNNNNOT,t S a k i d a n
+3052,چگونه,t ʃ e ɡ uː n e,چگونه,CANNNNNNOT,t S e ɡ A n e
+3053,چگونه,t ʃ i ɡ u n a,چگونه,CANNNNNNOT,t S i ɡ u n a
+3054,چگونه,t ʃ i ɡ uː n a,چگونه,CANNNNNNOT,t S i ɡ A n a
+3055,چگونه,t ʃ ɪ ɡ uː n a,چگونه,CANNNNNNOT,t S i ɡ A n a
+3056,چی,t ʃ iː ~ t ʃ e,چی,CANNNNNNOT,t S i ~ t S e
+3057,چی,t ʃ iː ~ t ʃ i,چی,CANNNNNNOT,t S i ~ t S i
+3058,چی,t ʃ iː ~ t ʃ ɪ,چی,CANNNNNNOT,t S i ~ t S i
+3059,چیزی,t ʃ i z e,چیزی,CANNNNNNOT,t S i z e
+3060,چیزی,t ʃ iː z eː,چیزی,CANNNNNNOT,t S i z eː
+3061,چیزی,t ʃ iː z iː,چیزی,CANNNNNNOT,t S i z i
+3062,چیست,t ʃ e s t,چیست,CANNNNNNOT,t S e s t
+3063,چیست,t ʃ eː s t,چیست,CANNNNNNOT,t S eː s t
+3064,چیست,t ʃ iː s t,چیست,CANNNNNNOT,t S i s t
+3065,چیش,t ʃ i ʃ,چیش,CANNNNNNOT,t S i S
+3066,چینی,t ʃ i n iː,چینی,CANNNNNNOT,t S i n i
+3067,چینی,t ʃ iː n iː,چینی,CANNNNNNOT,t S i n i
+3068,ژ,ʒ,ژ,CANNNNNNOT,ʒ
+3069,ژاله,ʒ ɑː l a,ژاله,CANNNNNNOT,ʒ A l a
+3070,ژاله,ʒ ɒː l a,ژاله,CANNNNNNOT,ʒ A l a
+3071,ژاله,ʒ ɒː l e,ژاله,CANNNNNNOT,ʒ A l e
+3072,ژاله,ʒ ɔː l a,ژاله,CANNNNNNOT,ʒ A l a
+3073,ژامبون,ʒ ɒː m b o n,ژامبون,CANNNNNNOT,ʒ A m b o n
+3074,ژاندرم,ʒ ɒː n d æ r m,ژاندرم,CANNNNNNOT,ʒ A n d a r m
+3075,ژرف,ʒ æ ɾ f,ژرف,CANNNNNNOT,ʒ a r f
+3076,ژرفی,ʒ æ ɾ f iː,ژرفی,CANNNNNNOT,ʒ a r f i
+3077,ژرف‌تر,ʒ æ ɾ f t æ ɾ,ژرفتر,CANNNNNNOT,ʒ a r f t a r
+3078,ژرف‌ترین,ʒ æ ɾ f t æ ɾ iː n,ژرفترین,CANNNNNNOT,ʒ a r f t a r i n
+3079,ژم,ʒ æ m,ژم,CANNNNNNOT,ʒ a m
+3080,ژنو,ʒ e n e v,ژنو,CANNNNNNOT,ʒ e n e v
+3081,ژولیدن,ʒ uː l iː d æ n,ژولیدن,CANNNNNNOT,ʒ A l i d a n
+3082,ژوپیتر,ʒ u p i t e ɾ,ژوپیتر,CANNNNNNOT,ʒ u p i t e r
+3083,ژکفر,ʒ æ k f æ ɾ,ژکفر,CANNNNNNOT,ʒ a k f a r
+3084,کابل,k ɑː b u l,کابل,CANNNNNNOT,k A b u l
+3085,کابل,k ɒː b o l,کابل,CANNNNNNOT,k A b o l
+3086,کابل,k ɒː b ʊ l,کابل,CANNNNNNOT,k A b ʊ l
+3087,کابل,k ɔː b u l,کابل,CANNNNNNOT,k A b u l
+3088,کار,k ɑː ɾ,کار,CANNNNNNOT,k A r
+3089,کار,k ɒː ɾ,کار,CANNNNNNOT,k A r
+3090,کار,k ɔː ɾ,کار,CANNNNNNOT,k A r
+3091,کاروان,k ɒː ɾ w ɒː n,کاروان,CANNNNNNOT,k A r w A n
+3092,کارواژه‌ها,k ɒː r v ɒː ʒ e h ɒː,کارواژهها,CANNNNNNOT,k A r v A ʒ e h A
+3093,کارواژگان,k ɒː r v ɒː ʒ e ɡ ɒː n,کارواژگان,CANNNNNNOT,k A r v A ʒ e ɡ A n
+3094,کاریز,k ɑː ɾ eː z,کاریز,CANNNNNNOT,k A r eː z
+3095,کاریز,k ɒː ɾ eː z,کاریز,CANNNNNNOT,k A r eː z
+3096,کاریز,k ɒː ɾ iː z,کاریز,CANNNNNNOT,k A r i z
+3097,کاریز,k ɔː ɾ e z,کاریز,CANNNNNNOT,k A r e z
+3098,کاسه,k ɒː s e,کاسه,CANNNNNNOT,k A s e
+3099,کاسه,k ɒː s æ,کاسه,CANNNNNNOT,k A s a
+3100,کاغذ,k ɑː ɣ a ð,کاغذ,CANNNNNNOT,k A q a ð
+3101,کاغذ,k ɒː ɣ a z,کاغذ,CANNNNNNOT,k A q a z
+3102,کاغذ,k ɒː ɣ æ z,کاغذ,CANNNNNNOT,k A q a z
+3103,کاغذ,k ɔː ɣ a z,کاغذ,CANNNNNNOT,k A q a z
+3104,کاغذها,k ɒː ɣ æ z h ɒː,کاغذها,CANNNNNNOT,k A q a z h A
+3105,کافر,k ɒː f e r,کافر,CANNNNNNOT,k A f e r
+3106,کافی,k ɒː f iː,کافی,CANNNNNNOT,k A f i
+3107,کالب,k ɒː l e b,کالب,CANNNNNNOT,k A l e b
+3108,کالب,k ɒː l o b,کالب,CANNNNNNOT,k A l o b
+3109,کالیفرنیا,k ɒː l iː f o r n i j ɒː,کالیفرنیا,CANNNNNNOT,k A l i f o r n i y A
+3110,کباب,k a b ɑː b,کباب,CANNNNNNOT,k a b A b
+3111,کباب,k a b ɒː b,کباب,CANNNNNNOT,k a b A b
+3112,کباب,k a b ɔː b,کباب,CANNNNNNOT,k a b A b
+3113,کباب,k æ b ɒː b,کباب,CANNNNNNOT,k a b A b
+3114,کباب,k ɒː b ɒː b,کباب,CANNNNNNOT,k A b A b
+3115,کبوتر,k æ b oː t æ ɾ,کبوتر,CANNNNNNOT,k a b oː t a r
+3116,کبوتر,k æ b uː t æ ɾ,کبوتر,CANNNNNNOT,k a b A t a r
+3117,کبود,k æ b oː d,کبود,CANNNNNNOT,k a b oː d
+3118,کبود,k æ b uː d,کبود,CANNNNNNOT,k a b A d
+3119,کتاب,k e t ɒː b,کتاب,CANNNNNNOT,k e t A b
+3120,کتاب,k i t ɑː b,کتاب,CANNNNNNOT,k i t A b
+3121,کتاب,k i t ɔː b,کتاب,CANNNNNNOT,k i t A b
+3122,کتاب,k ɪ t ɒː b,کتاب,CANNNNNNOT,k i t A b
+3123,کجا,k o d ʒ ɒː,کجا,CANNNNNNOT,k o j A
+3124,کجا,k u d ʒ ɑː,کجا,CANNNNNNOT,k u j A
+3125,کجا,k u d ʒ ɔː,کجا,CANNNNNNOT,k u j A
+3126,کجا,k ʊ d ʒ ɒː,کجا,CANNNNNNOT,k ʊ j A
+3127,کرایه,k i ɾ ɒː j æ,کرایه,CANNNNNNOT,k i r A y a
+3128,کردار,k e ɾ d ɒː ɾ,کردار,CANNNNNNOT,k e r d A r
+3129,کردار,k i ɾ d ɑː ɾ,کردار,CANNNNNNOT,k i r d A r
+3130,کردار,k i ɾ d ɔː ɾ,کردار,CANNNNNNOT,k i r d A r
+3131,کردار,k ɪ ɾ d ɒː ɾ,کردار,CANNNNNNOT,k i r d A r
+3132,کردن,k e ɾ d æ n,کردن,CANNNNNNOT,k e r d a n
+3133,کردن,k æ ɾ d æ n,کردن,CANNNNNNOT,k a r d a n
+3134,کرفس,k æ ɾ æ f s,کرفس,CANNNNNNOT,k a r a f s
+3135,کریمه,k e ɾ iː m e,کریمه,CANNNNNNOT,k e r i m e
+3136,کسی,k a s e,کسی,CANNNNNNOT,k a s e
+3137,کسی,k a s eː,کسی,CANNNNNNOT,k a s eː
+3138,کسی,k e s iː,کسی,CANNNNNNOT,k e s i
+3139,کسی,k æ s iː,کسی,CANNNNNNOT,k a s i
+3140,کشتن,k e ʃ t æ n,کشتن,CANNNNNNOT,k e S t a n
+3141,کشتن,k i ʃ t a n,کشتن,CANNNNNNOT,k i S t a n
+3142,کشتن,k o ʃ t æ n,کشتن,CANNNNNNOT,k o S t a n
+3143,کشتن,k u ʃ t a n,کشتن,CANNNNNNOT,k u S t a n
+3144,کشتن,k ɪ ʃ t a n,کشتن,CANNNNNNOT,k i S t a n
+3145,کشتن,k ʊ ʃ t a n,کشتن,CANNNNNNOT,k ʊ S t a n
+3146,کشکول,k æ ʃ k uː l,کشکول,CANNNNNNOT,k a S k A l
+3147,کشیدن,k a ʃ i d a n,کشیدن,CANNNNNNOT,k a S i d a n
+3148,کشیدن,k a ʃ iː d a n,کشیدن,CANNNNNNOT,k a S i d a n
+3149,کشیدن,k e ʃ iː d æ n,کشیدن,CANNNNNNOT,k e S i d a n
+3150,کشیدن,k æ ʃ iː d æ n,کشیدن,CANNNNNNOT,k a S i d a n
+3151,کفاش,k æ f f ɒ ʃ,کفاش,CANNNNNNOT,k a f f ɒ S
+3152,کفتر,k e f t æ ɾ,کفتر,CANNNNNNOT,k e f t a r
+3153,کفش,k æ f ʃ,کفش,CANNNNNNOT,k a f S
+3154,کلاس,k e l ɒː s,کلاس,CANNNNNNOT,k e l A s
+3155,کلاغ,k a l ɑː ɣ,کلاغ,CANNNNNNOT,k a l A q
+3156,کلاغ,k a l ɒː ɣ,کلاغ,CANNNNNNOT,k a l A q
+3157,کلاغ,k a l ɔː ɣ,کلاغ,CANNNNNNOT,k a l A q
+3158,کلاغ,k æ l ɒː ɣ,کلاغ,CANNNNNNOT,k a l A q
+3159,کلاغ,k ɒː l ɒː ɣ,کلاغ,CANNNNNNOT,k A l A q
+3160,کلان,k a l ɑː n,کلان,CANNNNNNOT,k a l A n
+3161,کلان,k a l ɒː n,کلان,CANNNNNNOT,k a l A n
+3162,کلان,k a l ɔː n,کلان,CANNNNNNOT,k a l A n
+3163,کلان,k æ l ɒː n,کلان,CANNNNNNOT,k a l A n
+3164,کلان,k ɒː l uː n,کلان,CANNNNNNOT,k A l A n
+3165,کلمه,k a l a m a,کلمه,CANNNNNNOT,k a l a m a
+3166,کلمه,k æ l æ m e,کلمه,CANNNNNNOT,k a l a m e
+3167,کلپ,k l æ p,کلپ,CANNNNNNOT,k l a p
+3168,کلید,k i l iː d̪,کلید,CANNNNNNOT,k i l i d̪
+3169,کلید,k æ l iː d̪,کلید,CANNNNNNOT,k a l i d̪
+3170,کمزور,k a m z oː ɾ,کمزور,CANNNNNNOT,k a m z oː r
+3171,کمزور,k a m z ɵː ɾ,کمزور,CANNNNNNOT,k a m z ɵː r
+3172,کمزور,k æ m z uː ɾ,کمزور,CANNNNNNOT,k a m z A r
+3173,کمو,k æ m uː,کمو,CANNNNNNOT,k a m A
+3174,کم‌کم,k æ m k æ m,کمکم,CANNNNNNOT,k a m k a m
+3175,کن,k e n,کن,CANNNNNNOT,k e n
+3176,کن,k o n,کن,CANNNNNNOT,k o n
+3177,کن,k u n,کن,CANNNNNNOT,k u n
+3178,کن,k ʊ n,کن,CANNNNNNOT,k ʊ n
+3179,کنار,k e n ɒː ɾ,کنار,CANNNNNNOT,k e n A r
+3180,کنسرت,k o n s e ɾ t,کنسرت,CANNNNNNOT,k o n s e r t
+3181,کنعان,k æ n ʔ ɒː n,کنعان,CANNNNNNOT,k a n A n
+3182,کنفرانس,k o n f e ɾ ɒː n s,کنفرانس,CANNNNNNOT,k o n f e r A n s
+3183,کنکور,k o ŋ k uː r,کنکور,CANNNNNNOT,k o ŋ k A r
+3184,کنگره,k o n ɡ r e,کنگره,CANNNNNNOT,k o n ɡ r e
+3185,که,k e,که,CANNNNNNOT,k e
+3186,که,k e h,که,CANNNNNNOT,k e h
+3187,که,k i,که,CANNNNNNOT,k i
+3188,که,k ɪ,که,CANNNNNNOT,k i
+3189,کهر,k æ h æ ɾ,کهر,CANNNNNNOT,k a h a r
+3190,کهنه,k o h n e,کهنه,CANNNNNNOT,k o h n e
+3191,کهنه,k u h n a,کهنه,CANNNNNNOT,k u h n a
+3192,کهنه,k ɵː h n a,کهنه,CANNNNNNOT,k ɵː h n a
+3193,کهنه,k ʊ h n a,کهنه,CANNNNNNOT,k ʊ h n a
+3194,کهکشان,k æ h k e ʃ ɒː n,کهکشان,CANNNNNNOT,k a h k e S A n
+3195,کهکشان,k æ h k æ ʃ ɒː n,کهکشان,CANNNNNNOT,k a h k a S A n
+3196,کهکشان‌ها,k æ h k æ ʃ ɒː n h ɒː,کهکشانها,CANNNNNNOT,k a h k a S A n h A
+3197,کوتاه,k oː t ɑː h,کوتاه,CANNNNNNOT,k oː t A h
+3198,کوتاه,k oː t ɒː h,کوتاه,CANNNNNNOT,k oː t A h
+3199,کوتاه,k uː t ɒː h,کوتاه,CANNNNNNOT,k A t A h
+3200,کوتاه,k ɵː t ɔː h,کوتاه,CANNNNNNOT,k ɵː t A h
+3201,کوتاه‌تر,k uː t ɒː h t æ ɾ,کوتاهتر,CANNNNNNOT,k A t A h t a r
+3202,کوتاه‌ترین,k uː t ɒː h t æ ɾ iː n,کوتاهترین,CANNNNNNOT,k A t A h t a r i n
+3203,کودکان,k uː d æ k ɒː n,کودکان,CANNNNNNOT,k A d a k A n
+3204,کوزه,k u z a,کوزه,CANNNNNNOT,k u z a
+3205,کوزه,k uː z a,کوزه,CANNNNNNOT,k A z a
+3206,کوزه,k uː z e,کوزه,CANNNNNNOT,k A z e
+3207,کوشک,k oː ʃ k,کوشک,CANNNNNNOT,k oː S k
+3208,کوشک,k uː ʃ k,کوشک,CANNNNNNOT,k A S k
+3209,کوشک,k ɵː ʃ k,کوشک,CANNNNNNOT,k ɵː S k
+3210,کوفته,k oː f t a,کوفته,CANNNNNNOT,k oː f t a
+3211,کوفته,k uː f t e,کوفته,CANNNNNNOT,k A f t e
+3212,کوفته,k ɵː f t a,کوفته,CANNNNNNOT,k ɵː f t a
+3213,کون,kʰ u n,کون,CANNNNNNOT,kʰ u n
+3214,کوه,k oː h,کوه,CANNNNNNOT,k oː h
+3215,کوه,k uː h,کوه,CANNNNNNOT,k A h
+3216,کوه,k ɵː h,کوه,CANNNNNNOT,k ɵː h
+3217,کوهستان,k oː h i s t ɑː n,کوهستان,CANNNNNNOT,k oː h i s t A n
+3218,کوهستان,k oː h ɪ s t ɒː n,کوهستان,CANNNNNNOT,k oː h i s t A n
+3219,کوهستان,k uː h e s t ɒː n,کوهستان,CANNNNNNOT,k A h e s t A n
+3220,کوهستان,k ɵː h i s t ɔː n,کوهستان,CANNNNNNOT,k ɵː h i s t A n
+3221,کوچه,k oː t ʃ a,کوچه,CANNNNNNOT,k oː t S a
+3222,کوچه,k uː t ʃ e,کوچه,CANNNNNNOT,k A t S e
+3223,کوچه,k ɵː t ʃ a,کوچه,CANNNNNNOT,k ɵː t S a
+3224,کوچک‌تر,k uː t ʃ e k t æ ɾ,کوچکتر,CANNNNNNOT,k A t S e k t a r
+3225,کوچک‌ترین,k uː t ʃ e k t æ ɾ iː n,کوچکترین,CANNNNNNOT,k A t S e k t a r i n
+3226,کی,k a j,کی,CANNNNNNOT,k a y
+3227,کی,k e j,کی,CANNNNNNOT,k e y
+3228,کی,k iː,کی,CANNNNNNOT,k i
+3229,کیر,k e ɾ,کیر,CANNNNNNOT,k e r
+3230,کیر,k eː ɾ,کیر,CANNNNNNOT,k eː r
+3231,کیر,k iː ɾ,کیر,CANNNNNNOT,k i r
+3232,کیمیا,k iː m i j ɒː,کیمیا,CANNNNNNOT,k i m i y A
+3233,کین,k iː n,کین,CANNNNNNOT,k i n
+3234,کینه,k iː n e,کینه,CANNNNNNOT,k i n e
+3235,کیچه,kʰ iː t͡ʃʰ e,کیچه,CANNNNNNOT,kʰ i t͡Sʰ e
+3236,کیچه,kʰ iː t͡ʃʰ æ,کیچه,CANNNNNNOT,kʰ i t͡Sʰ a
+3237,گا,ɡ ɒː,گا,CANNNNNNOT,ɡ A
+3238,گائیدن,ɡ ɒː j iː d æ n,گائیدن,CANNNNNNOT,ɡ A y i d a n
+3239,گاب,ɡ ɒː b,گاب,CANNNNNNOT,ɡ A b
+3240,گاراژ,ɡ ɒː ɾ ɒː ʒ,گاراژ,CANNNNNNOT,ɡ A r A ʒ
+3241,گاری,ɡ ɒː ɾ iː,گاری,CANNNNNNOT,ɡ A r i
+3242,گاز,ɡ ɒː z,گاز,CANNNNNNOT,ɡ A z
+3243,گاش,ɡ ɒː ʃ,گاش,CANNNNNNOT,ɡ A S
+3244,گام,ɡ ɒː m,گام,CANNNNNNOT,ɡ A m
+3245,گاه,ɡ ɒː h,گاه,CANNNNNNOT,ɡ A h
+3246,گاو,ɡ o ʊ,گاو,CANNNNNNOT,ɡ o ʊ
+3247,گاو,ɡ ɒː v,گاو,CANNNNNNOT,ɡ A v
+3248,گاو,ɡ ɒː w,گاو,CANNNNNNOT,ɡ A w
+3249,گدازه,ɡ o d ɒː z e,گدازه,CANNNNNNOT,ɡ o d A z e
+3250,گذاشتن,ɡ o z ɒː ʃ t æ n,گذاشتن,CANNNNNNOT,ɡ o z A S t a n
+3251,گذاشتن,ɡ u z ɔː ʃ t a n,گذاشتن,CANNNNNNOT,ɡ u z A S t a n
+3252,گذاشتن,ɡ u ð ɑː ʃ t a n,گذاشتن,CANNNNNNOT,ɡ u ð A S t a n
+3253,گذاشتن,ɡ ʊ z ɒː ʃ t a n,گذاشتن,CANNNNNNOT,ɡ ʊ z A S t a n
+3254,گذراندن,ɡ o z æ ɾ ɒ n d æ n,گذراندن,CANNNNNNOT,ɡ o z a r ɒ n d a n
+3255,گذشتن,ɡ o z æ ʃ t æ n,گذشتن,CANNNNNNOT,ɡ o z a S t a n
+3256,گذشتن,ɡ u z a ʃ t a n,گذشتن,CANNNNNNOT,ɡ u z a S t a n
+3257,گذشتن,ɡ u ð a ʃ t a n,گذشتن,CANNNNNNOT,ɡ u ð a S t a n
+3258,گذشتن,ɡ ʊ z a ʃ t a n,گذشتن,CANNNNNNOT,ɡ ʊ z a S t a n
+3259,گذشته,ɡ o z æ ʃ t e,گذشته,CANNNNNNOT,ɡ o z a S t e
+3260,گذشته,ɡ u z a ʃ t a,گذشته,CANNNNNNOT,ɡ u z a S t a
+3261,گذشته,ɡ u ð a ʃ t a,گذشته,CANNNNNNOT,ɡ u ð a S t a
+3262,گذشته,ɡ ʊ z a ʃ t a,گذشته,CANNNNNNOT,ɡ ʊ z a S t a
+3263,گرا,ɡ a ɾ ɑː,گرا,CANNNNNNOT,ɡ a r A
+3264,گرا,ɡ a ɾ ɒː,گرا,CANNNNNNOT,ɡ a r A
+3265,گرا,ɡ a ɾ ɔː,گرا,CANNNNNNOT,ɡ a r A
+3266,گرا,ɡ æ ɾ ɒː,گرا,CANNNNNNOT,ɡ a r A
+3267,گراز,ɡ o ɾ ɒː z,گراز,CANNNNNNOT,ɡ o r A z
+3268,گران,ɡ e ɾ uː n,گران,CANNNNNNOT,ɡ e r A n
+3269,گران,ɡ e ɾ ɒː n,گران,CANNNNNNOT,ɡ e r A n
+3270,گران,ɡ i ɾ ɑː n,گران,CANNNNNNOT,ɡ i r A n
+3271,گران,ɡ i ɾ ɔː n,گران,CANNNNNNOT,ɡ i r A n
+3272,گران,ɡ ɪ ɾ ɒː n,گران,CANNNNNNOT,ɡ i r A n
+3273,گربسن,ɡ e r b e s æ n,گربسن,CANNNNNNOT,ɡ e r b e s a n
+3274,گربه,ɡ o ɾ b e,گربه,CANNNNNNOT,ɡ o r b e
+3275,گربه,ɡ u ɾ b a,گربه,CANNNNNNOT,ɡ u r b a
+3276,گربه,ɡ ʊ ɾ b a,گربه,CANNNNNNOT,ɡ ʊ r b a
+3277,گرختن,ɡ o ɾ eː x t æ n,گرختن,CANNNNNNOT,ɡ o r eː x t a n
+3278,گرختن,ɡ o ɾ oː x t æ n,گرختن,CANNNNNNOT,ɡ o r oː x t a n
+3279,گردن,ɡ æ r d æ n,گردن,CANNNNNNOT,ɡ a r d a n
+3280,گرزمان,ɡ æ ɾ æ z m ɒː n,گرزمان,CANNNNNNOT,ɡ a r a z m A n
+3281,گرزه,ɡ o ɾ z e,گرزه,CANNNNNNOT,ɡ o r z e
+3282,گرزه,ɡ u ɾ z a,گرزه,CANNNNNNOT,ɡ u r z a
+3283,گرزه,ɡ ʊ ɾ z a,گرزه,CANNNNNNOT,ɡ ʊ r z a
+3284,گرفتن,ɡ e ɾ e f t æ n,گرفتن,CANNNNNNOT,ɡ e r e f t a n
+3285,گرفتن,ɡ i ɾ i f t a n,گرفتن,CANNNNNNOT,ɡ i r i f t a n
+3286,گرفتن,ɡ ɪ ɾ ɪ f t a n,گرفتن,CANNNNNNOT,ɡ i r i f t a n
+3287,گرمابه,ɡ æ ɾ m ɒː b e,گرمابه,CANNNNNNOT,ɡ a r m A b e
+3288,گروه,ɡ o ɾ uː h,گروه,CANNNNNNOT,ɡ o r A h
+3289,گروه,ɡ u ɾ oː h,گروه,CANNNNNNOT,ɡ u r oː h
+3290,گروه,ɡ u ɾ ɵː h,گروه,CANNNNNNOT,ɡ u r ɵː h
+3291,گروه,ɡ ʊ ɾ oː h,گروه,CANNNNNNOT,ɡ ʊ r oː h
+3292,گریختن,ɡ o ɾ iː x t æ n,گریختن,CANNNNNNOT,ɡ o r i x t a n
+3293,گریختن,ɡ u ɾ e x t a n,گریختن,CANNNNNNOT,ɡ u r e x t a n
+3294,گریختن,ɡ u ɾ eː x t a n,گریختن,CANNNNNNOT,ɡ u r eː x t a n
+3295,گریختن,ɡ ʊ ɾ eː x t a n,گریختن,CANNNNNNOT,ɡ ʊ r eː x t a n
+3296,گریستن,ɡ e ɾ iː s t æ n,گریستن,CANNNNNNOT,ɡ e r i s t a n
+3297,گز,ɡ æ z,گز,CANNNNNNOT,ɡ a z
+3298,گزاف,ɡ e z ɒː f,گزاف,CANNNNNNOT,ɡ e z A f
+3299,گزاف,ɡ æ z ɒː f,گزاف,CANNNNNNOT,ɡ a z A f
+3300,گزاف‌تر,ɡ æ z ɒː f t æ ɾ,گزافتر,CANNNNNNOT,ɡ a z A f t a r
+3301,گزاف‌ترین,ɡ æ z ɒː f t æ ɾ iː n,گزافترین,CANNNNNNOT,ɡ a z A f t a r i n
+3302,گستردن,ɡ o s t æ ɾ d æ n,گستردن,CANNNNNNOT,ɡ o s t a r d a n
+3303,گستردن,ɡ u s t a ɾ d a n,گستردن,CANNNNNNOT,ɡ u s t a r d a n
+3304,گستردن,ɡ ʊ s t a ɾ d a n,گستردن,CANNNNNNOT,ɡ ʊ s t a r d a n
+3305,گسترده,ɡ o s t æ ɾ d e,گسترده,CANNNNNNOT,ɡ o s t a r d e
+3306,گشاد,ɡ o ʃ ɒː d,گشاد,CANNNNNNOT,ɡ o S A d
+3307,گشتن,ɡ a ʃ t a n,گشتن,CANNNNNNOT,ɡ a S t a n
+3308,گشتن,ɡ æ ʃ t æ n,گشتن,CANNNNNNOT,ɡ a S t a n
+3309,گشنیز,ɡ e ʃ n iː z,گشنیز,CANNNNNNOT,ɡ e S n i z
+3310,گشنیز,ɡ i ʃ n i z,گشنیز,CANNNNNNOT,ɡ i S n i z
+3311,گشنیز,ɡ i ʃ n iː z,گشنیز,CANNNNNNOT,ɡ i S n i z
+3312,گشنیز,ɡ ɪ ʃ n iː z,گشنیز,CANNNNNNOT,ɡ i S n i z
+3313,گفتگو,ɡ o f t o ɡ uː j,گفتگو,CANNNNNNOT,ɡ o f t o ɡ A y
+3314,گفتگو,ɡ u f t u ɡ uː j,گفتگو,CANNNNNNOT,ɡ u f t u ɡ A y
+3315,گفتگو,ɡ u f t u ɡ ɵː j,گفتگو,CANNNNNNOT,ɡ u f t u ɡ ɵː y
+3316,گفتگو,ɡ ʊ f t ʊ ɡ uː j,گفتگو,CANNNNNNOT,ɡ ʊ f t ʊ ɡ A y
+3317,گل,ɡ e l,گل,CANNNNNNOT,ɡ e l
+3318,گل,ɡ o l,گل,CANNNNNNOT,ɡ o l
+3319,گل,ɡ u l,گل,CANNNNNNOT,ɡ u l
+3320,گل,ɡ ɪ l,گل,CANNNNNNOT,ɡ i l
+3321,گل,ɡ ʊ l,گل,CANNNNNNOT,ɡ ʊ l
+3322,گلاب,ɡ o l ɒː b,گلاب,CANNNNNNOT,ɡ o l A b
+3323,گلاب,ɡ u l ɑː b,گلاب,CANNNNNNOT,ɡ u l A b
+3324,گلاب,ɡ u l ɔː b,گلاب,CANNNNNNOT,ɡ u l A b
+3325,گلاب,ɡ ʊ l ɒː b,گلاب,CANNNNNNOT,ɡ ʊ l A b
+3326,گلابی,ɡ o l ɒː b iː,گلابی,CANNNNNNOT,ɡ o l A b i
+3327,گلدان,ɡ o l d ɒː n,گلدان,CANNNNNNOT,ɡ o l d A n
+3328,گلستان,ɡ u l i s t̪ ɒː n,گلستان,CANNNNNNOT,ɡ u l i s t A n
+3329,گلف,ɡ o l f,گلف,CANNNNNNOT,ɡ o l f
+3330,گلو,ɡ a l u # ~ ɡ u l u,گلو,CANNNNNNOT,ɡ a l u  ~ ɡ u l u
+3331,گلو,ɡ a l uː # ~ ɡ u l uː,گلو,CANNNNNNOT,ɡ a l A  ~ ɡ u l A
+3332,گلو,ɡ a l uː # ~ ɡ ʊ l uː,گلو,CANNNNNNOT,ɡ a l A  ~ ɡ ʊ l A
+3333,گلو,ɡ æ l uː # ~ ɡ o l uː,گلو,CANNNNNNOT,ɡ a l A  ~ ɡ o l A
+3334,گلپر,ɡ o l p æ ɾ,گلپر,CANNNNNNOT,ɡ o l p a r
+3335,گلپر,ɡ u l p a ɾ,گلپر,CANNNNNNOT,ɡ u l p a r
+3336,گلپر,ɡ ʊ l p a ɾ,گلپر,CANNNNNNOT,ɡ ʊ l p a r
+3337,گلی,ɡ o l iː,گلی,CANNNNNNOT,ɡ o l i
+3338,گلی,ɡ o l l iː,گلی,CANNNNNNOT,ɡ o l l i
+3339,گم,ɡ o m,گم,CANNNNNNOT,ɡ o m
+3340,گناه,ɡ o n ɒː h,گناه,CANNNNNNOT,ɡ o n A h
+3341,گناه,ɡ u n ɑː h,گناه,CANNNNNNOT,ɡ u n A h
+3342,گناه,ɡ u n ɔː h,گناه,CANNNNNNOT,ɡ u n A h
+3343,گناه,ɡ ʊ n ɒː h,گناه,CANNNNNNOT,ɡ ʊ n A h
+3344,گنجشک,ɡ o n d ʒ e ʃ k,گنجشک,CANNNNNNOT,ɡ o n j e S k
+3345,گنجشک,ɡ u n d ʒ i ʃ k,گنجشک,CANNNNNNOT,ɡ u n j i S k
+3346,گنجشک,ɡ ʊ n d ʒ ɪ ʃ k,گنجشک,CANNNNNNOT,ɡ ʊ n j i S k
+3347,گندم,ɡ a n d u m,گندم,CANNNNNNOT,ɡ a n d u m
+3348,گندم,ɡ a n d ʊ m,گندم,CANNNNNNOT,ɡ a n d ʊ m
+3349,گندم,ɡ æ n d o m,گندم,CANNNNNNOT,ɡ a n d o m
+3350,گنم,ɡ e n o m,گنم,CANNNNNNOT,ɡ e n o m
+3351,گهواره,ɡʲ a h v ɑː ɾ a,گهواره,CANNNNNNOT,ɡʲ a h v A r a
+3352,گهواره,ɡʲ a h v ɔː ɾ a,گهواره,CANNNNNNOT,ɡʲ a h v A r a
+3353,گهواره,ɡʲ a h w ɒː ɾ a,گهواره,CANNNNNNOT,ɡʲ a h w A r a
+3354,گهواره,ɡʲ æ h v ɒː ɾ e,گهواره,CANNNNNNOT,ɡʲ a h v A r e
+3355,گو,ɡ o w,گو,CANNNNNNOT,ɡ o w
+3356,گو,ɡ uː j,گو,CANNNNNNOT,ɡ A y
+3357,گو,ɡ ɵː j,گو,CANNNNNNOT,ɡ ɵː y
+3358,گودرز,ɡ oː d æ ɾ z,گودرز,CANNNNNNOT,ɡ oː d a r z
+3359,گودرز,ɡ uː d æ ɾ z,گودرز,CANNNNNNOT,ɡ A d a r z
+3360,گور,ɡ oː ɾ,گور,CANNNNNNOT,ɡ oː r
+3361,گور,ɡ uː ɾ,گور,CANNNNNNOT,ɡ A r
+3362,گور,ɡ æ v ɾ,گور,CANNNNNNOT,ɡ a v r
+3363,گور,ɡ æ w ɾ,گور,CANNNNNNOT,ɡ a w r
+3364,گور,ɡ ɵː ɾ,گور,CANNNNNNOT,ɡ ɵː r
+3365,گورخر,ɡ oː ɾ x æ ɾ,گورخر,CANNNNNNOT,ɡ oː r x a r
+3366,گورخر,ɡ uː ɾ e x æ ɾ,گورخر,CANNNNNNOT,ɡ A r e x a r
+3367,گورخر,ɡ uː ɾ x æ ɾ,گورخر,CANNNNNNOT,ɡ A r x a r
+3368,گورستان,ɡ oː ɾ i s t ɑː n,گورستان,CANNNNNNOT,ɡ oː r i s t A n
+3369,گورستان,ɡ oː ɾ ɪ s t ɒː n,گورستان,CANNNNNNOT,ɡ oː r i s t A n
+3370,گورستان,ɡ uː ɾ e s t uː n,گورستان,CANNNNNNOT,ɡ A r e s t A n
+3371,گورستان,ɡ uː ɾ e s t ɒː n,گورستان,CANNNNNNOT,ɡ A r e s t A n
+3372,گورستان,ɡ ɵː ɾ i s t ɔː n,گورستان,CANNNNNNOT,ɡ ɵː r i s t A n
+3373,گوساله,ɡ uː s ɒː l e,گوساله,CANNNNNNOT,ɡ A s A l e
+3374,گوسفند,ɡ oː s f a n d ~ ɡ oː s p a n d,گوسفند,CANNNNNNOT,ɡ oː s f a n d ~ ɡ oː s p a n d
+3375,گوسفند,ɡ uː s f e n d,گوسفند,CANNNNNNOT,ɡ A s f e n d
+3376,گوسفند,ɡ uː s f æ n d ~ ɡ uː s p æ n d,گوسفند,CANNNNNNOT,ɡ A s f a n d ~ ɡ A s p a n d
+3377,گوسفند,ɡ ɵː s f a n d ~ ɡ ɵː s p a n d,گوسفند,CANNNNNNOT,ɡ ɵː s f a n d ~ ɡ ɵː s p a n d
+3378,گوش,ɡ oː ʃ,گوش,CANNNNNNOT,ɡ oː S
+3379,گوش,ɡ uː ʃ,گوش,CANNNNNNOT,ɡ A S
+3380,گوش,ɡ ɵː ʃ,گوش,CANNNNNNOT,ɡ ɵː S
+3381,گوشت,ɡ oː ʃ t,گوشت,CANNNNNNOT,ɡ oː S t
+3382,گوشت,ɡ uː ʃ t,گوشت,CANNNNNNOT,ɡ A S t
+3383,گوشت,ɡ ɵː ʃ t,گوشت,CANNNNNNOT,ɡ ɵː S t
+3384,گوشه,ɡ oː ʃ a,گوشه,CANNNNNNOT,ɡ oː S a
+3385,گوشه,ɡ uː ʃ e,گوشه,CANNNNNNOT,ɡ A S e
+3386,گوشه,ɡ ɵː ʃ a,گوشه,CANNNNNNOT,ɡ ɵː S a
+3387,گون,ɡ uː n,گون,CANNNNNNOT,ɡ A n
+3388,گوهر,ɡ a v h a ɾ,گوهر,CANNNNNNOT,ɡ a v h a r
+3389,گوهر,ɡ a w h a ɾ,گوهر,CANNNNNNOT,ɡ a w h a r
+3390,گوهر,ɡ o w h æ ɾ,گوهر,CANNNNNNOT,ɡ o w h a r
+3391,گوهر,ɡ oː h æ ɾ,گوهر,CANNNNNNOT,ɡ oː h a r
+3392,گوگرد,ɡ oː ɡ ɪ ɾ d,گوگرد,CANNNNNNOT,ɡ oː ɡ i r d
+3393,گوگرد,ɡ uː ɡ e ɾ d,گوگرد,CANNNNNNOT,ɡ A ɡ e r d
+3394,گوی,ɡ oː j,گوی,CANNNNNNOT,ɡ oː y
+3395,گوی,ɡ uː j,گوی,CANNNNNNOT,ɡ A y
+3396,گوی,ɡ ɵː j,گوی,CANNNNNNOT,ɡ ɵː y
+3397,گویش,ɡ oː j i ʃ,گویش,CANNNNNNOT,ɡ oː y i S
+3398,گویش,ɡ oː j ɪ ʃ,گویش,CANNNNNNOT,ɡ oː y i S
+3399,گویش,ɡ uː j e ʃ,گویش,CANNNNNNOT,ɡ A y e S
+3400,گویش,ɡ ɵː j i ʃ,گویش,CANNNNNNOT,ɡ ɵː y i S
+3401,گی,ɡ iː,گی,CANNNNNNOT,ɡ i
+3402,گیتا,ɡ iː t ɒː,گیتا,CANNNNNNOT,ɡ i t A
+3403,گیتی,ɡ eː t iː,گیتی,CANNNNNNOT,ɡ eː t i
+3404,گیتی,ɡ iː t iː,گیتی,CANNNNNNOT,ɡ i t i
+3405,گیس,ɡ e s,گیس,CANNNNNNOT,ɡ e s
+3406,گیس,ɡ eː s,گیس,CANNNNNNOT,ɡ eː s
+3407,گیس,ɡ iː s,گیس,CANNNNNNOT,ɡ i s
+3408,گیسو,ɡ e s u,گیسو,CANNNNNNOT,ɡ e s u
+3409,گیسو,ɡ eː s uː,گیسو,CANNNNNNOT,ɡ eː s A
+3410,گیسو,ɡ iː s uː,گیسو,CANNNNNNOT,ɡ i s A
+3411,گیک,ɡ iː k,گیک,CANNNNNNOT,ɡ i k
+3412,یا,j ɑː,یا,CANNNNNNOT,y A
+3413,یا,j ɒː,یا,CANNNNNNOT,y A
+3414,یا,j ɔː,یا,CANNNNNNOT,y A
+3415,یاب,j ɒː b,یاب,CANNNNNNOT,y A b
+3416,یاد,j ɑː d,یاد,CANNNNNNOT,y A d
+3417,یاد,j ɒː d,یاد,CANNNNNNOT,y A d
+3418,یاد,j ɔː d,یاد,CANNNNNNOT,y A d
+3419,یار,j ɑː ɾ,یار,CANNNNNNOT,y A r
+3420,یار,j ɒː ɾ,یار,CANNNNNNOT,y A r
+3421,یار,j ɔː ɾ,یار,CANNNNNNOT,y A r
+3422,یاسا,j ɒː s ɒː,یاسا,CANNNNNNOT,y A s A
+3423,یاساء,j ɒː s ɒː ʔ,یاساء,CANNNNNNOT,y A s A ʔ
+3424,یاساق,j ɒː s ɒː q,یاساق,CANNNNNNOT,y A s A q
+3425,یاسمن,j ɑː s a m a n,یاسمن,CANNNNNNOT,y A s a m a n
+3426,یاسمن,j ɒː s a m a n,یاسمن,CANNNNNNOT,y A s a m a n
+3427,یاسمن,j ɒː s æ m æ n,یاسمن,CANNNNNNOT,y A s a m a n
+3428,یاسمن,j ɔː s a m a n,یاسمن,CANNNNNNOT,y A s a m a n
+3429,یافتن,j ɑː f t a n,یافتن,CANNNNNNOT,y A f t a n
+3430,یافتن,j ɒː f t a n,یافتن,CANNNNNNOT,y A f t a n
+3431,یافتن,j ɒː f t æ n,یافتن,CANNNNNNOT,y A f t a n
+3432,یافتن,j ɔː f t a n,یافتن,CANNNNNNOT,y A f t a n
+3433,یاقوت,j ɒː ɣ uː t,یاقوت,CANNNNNNOT,y A q A t
+3434,یاور,j ɒː v æ ɾ,یاور,CANNNNNNOT,y A v a r
+3435,یاکند,j ɒː kʲ æ n d,یاکند,CANNNNNNOT,y A kʲ a n d
+3436,یخ,j æ x,یخ,CANNNNNNOT,y a x
+3437,یخچال,j æ x t ʃ ɒː l,یخچال,CANNNNNNOT,y a x t S A l
+3438,یراق,j æ ɾ ɒː ɣ,یراق,CANNNNNNOT,y a r A q
+3439,یزد,j æ z d,یزد,CANNNNNNOT,y a z d
+3440,یزدان,j æ z d ɒː n,یزدان,CANNNNNNOT,y a z d A n
+3441,یلدا,j a l d ɒ,یلدا,CANNNNNNOT,y a l d ɒ
+3442,یم,j æ m,یم,CANNNNNNOT,y a m
+3443,ین,eː n,ین,CANNNNNNOT,eː n
+3444,ین,iː n,ین,CANNNNNNOT,i n
+3445,یه,j e,یه,CANNNNNNOT,y e
+3446,یواش,j æ v ɒː ʃ,یواش,CANNNNNNOT,y a v A S
+3447,یک,j æ k,یک,CANNNNNNOT,y a k
+3448,یگانه,j e ɡ ɒː n e,یگانه,CANNNNNNOT,y e ɡ A n e
+3449,یگانه,j æ ɡ ɒː n æ,یگانه,CANNNNNNOT,y a ɡ A n a
+3450,یی,j iː,یی,CANNNNNNOT,y i
