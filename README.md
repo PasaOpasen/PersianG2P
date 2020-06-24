@@ -95,6 +95,10 @@ PersianG2Pconverter('نه تنها یک کلمه', secret = True)
 # 'noh tanhA yek kalame'
 
 ```
+## Telegram bot @PersianG2Pbot
+
+[This telegram bot](https://github.com/PasaOpasen/PersianG2Pbot) uses PersianG2P package. Write him to check results.
+
 ## What can u do better
 
 * Fit better model (with another hyperparams or bigger dictionary)
