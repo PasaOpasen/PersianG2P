@@ -41,6 +41,7 @@ If token was a word from dictionary then it's pronouncing is the word like ' t h
 |آ|A|ā|
 |ش|S|š|
 |ژ|Z|ž|
+|چ|C|č|
 |ء، ع|?|`|
 
 ## Comparison with [epitran](https://github.com/dmort27/epitran)
