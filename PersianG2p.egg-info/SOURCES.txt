@@ -18,3 +18,4 @@ PersianG2p.egg-info/top_level.txt
 PersianG2p/data/checkpoint.npy
 PersianG2p/data/tihudict.dict
 PersianG2p/data/tihudict.json
+PersianG2p/data/tihudictBIG.json

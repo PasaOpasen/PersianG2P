@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: PersianG2p
-Version: 0.3.0
+Version: 0.3.1
 Summary: Simple grapheme-to-phomene converter for persian (farsi)
 Home-page: https://github.com/PasaOpasen/PersianG2P
 Author: Demetry Pascal
 Author-email: qtckpuhdsa@gmail.com
 License: MIT
-Download-URL: https://github.com/PasaOpasen/PersianG2P/archive/0.3.0.tar.gz
+Download-URL: https://github.com/PasaOpasen/PersianG2P/archive/0.3.1.tar.gz
 Description: UNKNOWN
 Keywords: phonemize,g2p,persian,persian_transcription,farsi
 Platform: UNKNOWN

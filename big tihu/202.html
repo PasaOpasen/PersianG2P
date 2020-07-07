@@ -1,0 +1,667 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fa" xml:lang="fa">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="robots" content="index,follow" />
+    <meta name="description" content="Lilak is an open source project for Persian Language. Lilak has a lexicon with a more than 100 thousand tagged words with Part-Of-Speech and pronunciation.">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1946728-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1946728-7');
+</script>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- howler.js -->
+    <script src="http://lilak-project.com/assets/howlerjs/howler.core.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="http://lilak-project.com/assets/css/style.css">
+
+    <style>
+.bg-primary {
+    background-color: #563d7c !important;
+    border-color: #563d7c !important;
+    color: #ffffff !important;
+}
+.navbar-nav>li>a{
+    color:#cbbde2 !important;
+    text-decoration:none !important;
+    text-shadow: none !important;
+}
+.navbar-nav>li>a:focus, .navbar-nav>li>a:hover {
+    text-decoration: none !important;
+    background-color: #563d7c !important;
+    color:#ffffff !important;
+}
+.navbar-nav>li.active>a {
+    text-decoration: none !important;
+    color:#ffffff !important;
+}
+.navbar-toggle {
+    background-color: #563d7c !important;
+    border-color: #cbbde2 !important;
+}
+.navbar-toggle:hover {
+    background-color: #cbbde2 !important;
+    border-color: #ffffff !important;
+}
+.navbar-toggle .icon-bar {
+    background-color: #cbbde2 !important;
+}
+.navbar-toggle:hover>.icon-bar {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+}
+a.navbar-brand {
+    color:#ffffff !important;
+}
+.footer .text-muted {
+    color:#cbbde2 !important;
+}
+.footer a, .footer a:focus, .footer a:hover {
+    color:#cbbde2 !important;
+}
+.btn-primary {
+    background-color: #563d7c !important;
+    border-color: #2c1f3f !important;
+    background-image: none !important;
+}
+.input-group .input-group-btn .btn-group {
+    display: flex !important;
+}
+.input-group .btn-group .btn {
+    border-radius: 0 !important;
+    margin-left: -1px !important;
+}
+.input-group .btn-group .btn:last-child {
+    border-top-right-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+}
+.input-group .btn-group .form-horizontal .btn[type="submit"] {
+  border-top-left-radius: 4px !important;
+  border-bottom-left-radius: 4px !important;
+}
+.dropdown.dropdown-lg .dropdown-menu {
+    margin-top: -1px !important;
+    padding: 6px 20px !important;
+    min-width:400px !important;
+}
+
+.pagination>.active>a {
+    background-color: #563d7c !important;
+    border-color: #2c1f3f !important;
+}
+
+</style>
+
+    <title>Search</title>
+</head>
+<body>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-fixed-top bg-primary">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.php">Lilak Project</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="https://github.com/b00f/lilak">Code</a></li>
+            <li ><a href="about.php">About</a></li>
+            <li ><a href="tihu_demo.php">Tihu Demo</a></li>
+            <li ><a href="login.php">Lexicon</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <!-- Begin page content -->
+    <div class="container">
+    
+    
+    
+<!-- modal dialog : start -->
+<div id="my_modal" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Dialog</h4>
+        </div>
+        <div class="modal-body">
+
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+        </div>
+    </div>
+  </div>
+</div>
+
+<!-- progress -->
+<div class="modal fade" id="my_progress" tabindex="-1" role="dialog" aria-labelledby="progress_label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="progress_label">Please Wait</h4>
+      </div>
+      <div class="modal-body center-block">
+        <div class="progress">
+          <div class="progress-bar progress-striped bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- confirm -->
+<div id="my_confirm" class="modal fade" data-user="" tabindex="-1" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header modal-header-warning">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Confirmation</h4>
+        </div>
+        <div class="modal-body">
+
+        </div>
+        <div class="modal-footer">
+            <div class="checkbox pull-right">
+                <label><input id="confirm_dont_ask" type="checkbox"> Don&#39;t ask again</label>
+            </div>
+            <button type="button" id="confirm_no"  class="btn btn-default pull-left" data-dismiss="modal">No</button>
+            <button type="button" id="confirm_yes" class="btn btn-primary pull-left">Yes</button>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const TYPE_ERROR    = 0
+const TYPE_WARNING  = 1
+const TYPE_INFO     = 2
+function show_modal(title, body, type) {
+    dialog     = $("#my_modal");
+    dlg_header = $("#my_modal .modal-header");
+    dlg_title  = $("#my_modal .modal-title");
+    dlg_body   = $("#my_modal .modal-body");
+
+    dlg_title.html(title);
+    dlg_body.html(body);
+
+    switch(type) {
+        case TYPE_ERROR:
+            dlg_header.addClass("modal-header-danger"); break;
+
+        case TYPE_WARNING:
+            dlg_header.addClass("modal-header-warning"); break;
+
+        case TYPE_INFO:
+            dlg_header.addClass("modal-header-info"); break;
+    }
+
+    dialog.modal();
+}
+
+function show_confirm(question, user_data) {
+    confirm      = $("#my_confirm");
+    dlg_question = $("#my_confirm .modal-body");
+
+    dlg_question.html(question);
+
+    confirm.data('user', user_data);
+    confirm.modal();
+}
+
+var progress;
+
+function show_progress() {
+    $('.progress-bar').css('width', '0%').attr('aria-valuenow', 0);
+    $('.progress-bar').text("");
+    $("#my_progress").modal();
+}
+
+function hide_progress() {
+    $("#my_progress").modal('hide');
+}
+
+$('#my_progress').on('shown.bs.modal', function () {
+
+    progress = setInterval(function() {
+        $.ajax({
+            method:'post',
+            url: 'http://lilak-project.com/ajax/progress.php',
+
+            success: function (value) {
+                $('.progress-bar').css('width', value+'%').attr('aria-valuenow', value);
+                $('.progress-bar').text(value + "%");
+            },
+            error: function (x, e) {
+                hide_progress();
+                ///show_modal("Error", "The call to the server failed. " + x.statusText, TYPE_ERROR);
+            }
+        });
+    }, 1000);
+})
+
+$('#my_progress').on('hidden.bs.modal', function () {
+    clearInterval(progress);
+})
+</script>
+<!-- modal dialog : end -->
+<img src="http://lilak-project.com/images/award.png" class="pull-right" style="padding-right:40px" alt="100,000+ persian word"/>
+<h1>Lilak Lexicon for Persian</h1>
+<hr>
+
+<form id="form" action="search.php" method="get">
+<div class="row">
+    <div class="col-xs-2"></div>
+    <div class="col-xs-8">
+        <div class="input-group" id="adv-search">
+                <input name="text" id="text" class="form-control input-lg" dir="rtl" placeholder="جستجو ..." value="" />
+                <div class="input-group-btn">
+                    <div class="btn-group" role="group">
+                        <div class="dropdown dropdown-lg">
+                            <button type="button" class="btn btn-warning btn-lg dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><span class="glyphicon glyphicon-filter"></span></button>
+                            <div class="dropdown-menu dropdown-menu-right" role="menu">
+                                <h4>Filter by</h4>
+                                <div class="form-group">
+                                    <label for="label">Part of Speech</label>
+                                    <select name="label" id="label" class="form-control">
+                                        <option value="%">-- ALL --</option>
+                                        <option value="N%" >Noun - اسم</option><option value="V%" selected>Verb - فعل</option><option value="A%" >Adjective - صفت</option><option value="P%" >Pronoun - ضمیر</option><option value="D%" >Determiner - حرف تعریف</option><option value="R%" >Adverb - قید</option><option value="S%" >Adposition - حرف اضافه</option><option value="C%" >Conjunction - حرف ربط</option><option value="M%" >Numeral - عدد</option><option value="I%" >Interjection - حرف صوت</option><option value="L%" >Classifier - رابط شماری</option><option value="F%" >Foreign - خارجی</option>                                    </select>
+                                </div>
+                                <br><br>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                    </div>
+                </div>
+            </div>
+            <small class="form-text text-muted">like: &quot;بادام&quot; for exact word or &quot;%بادا%&quot; for similar words.</small>
+        </div>
+    </div>
+
+</form>
+<hr />
+    <table class="table table-hover">
+    <thead><tr>
+<th class='hidden-xs' style='background-color:#ddd'><span class='glyphicon glyphicon-triangle-top' aria-hidden='true'></span>&nbsp;<a href='?label=V%25&page=202&order=id&sort=DESC'>No</a></th><th class=' '><a href='?label=V%25&page=202&order=text&sort=DESC'>Text</a></th><th class='hidden-xs hidden-sm'><a href='?label=V%25&page=202&order=pronounce&sort=DESC'>Pronounce</a></th><th class=' '><a href='?label=V%25&page=202&order=label&sort=DESC'>Label</a></th><th class='hidden-xs hidden-sm'><a href='?label=V%25&page=202&order=lemma&sort=DESC'>Lemma</a></th>    </tr></thead>
+    <tbody>
+         <tr id="token_304549">
+            <td class="hidden-xs"           >8041</td>
+            <td class=""                    ><a href="token.php?token_id=304549">پیچیده&zwnj;ای</a></td>
+            <td class="hidden-xs hidden-sm" >piCidei <span class="glyphicon glyphicon-play pull-left play_it" data-id="304549" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304550">
+            <td class="hidden-xs"           >8042</td>
+            <td class=""                    ><a href="token.php?token_id=304550">پیچیده&zwnj;ایم</a></td>
+            <td class="hidden-xs hidden-sm" >piCideim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304550" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304551">
+            <td class="hidden-xs"           >8043</td>
+            <td class=""                    ><a href="token.php?token_id=304551">پیچیده&zwnj;اید</a></td>
+            <td class="hidden-xs hidden-sm" >piCideid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304551" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304552">
+            <td class="hidden-xs"           >8044</td>
+            <td class=""                    ><a href="token.php?token_id=304552">پیچیده&zwnj;اند</a></td>
+            <td class="hidden-xs hidden-sm" >piCideand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304552" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304553">
+            <td class="hidden-xs"           >8045</td>
+            <td class=""                    ><a href="token.php?token_id=304553">نپیچیده&zwnj;ام</a></td>
+            <td class="hidden-xs hidden-sm" >napiCideam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304553" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304554">
+            <td class="hidden-xs"           >8046</td>
+            <td class=""                    ><a href="token.php?token_id=304554">نپیچیده&zwnj;ای</a></td>
+            <td class="hidden-xs hidden-sm" >napiCidei <span class="glyphicon glyphicon-play pull-left play_it" data-id="304554" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304555">
+            <td class="hidden-xs"           >8047</td>
+            <td class=""                    ><a href="token.php?token_id=304555">نپیچیده&zwnj;ایم</a></td>
+            <td class="hidden-xs hidden-sm" >napiCideim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304555" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304556">
+            <td class="hidden-xs"           >8048</td>
+            <td class=""                    ><a href="token.php?token_id=304556">نپیچیده&zwnj;اید</a></td>
+            <td class="hidden-xs hidden-sm" >napiCideid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304556" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304557">
+            <td class="hidden-xs"           >8049</td>
+            <td class=""                    ><a href="token.php?token_id=304557">نپیچیده&zwnj;اند</a></td>
+            <td class="hidden-xs hidden-sm" >napiCideand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304557" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304558">
+            <td class="hidden-xs"           >8050</td>
+            <td class=""                    ><a href="token.php?token_id=304558">می&zwnj;پیچیده&zwnj;ام</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCideam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304558" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304559">
+            <td class="hidden-xs"           >8051</td>
+            <td class=""                    ><a href="token.php?token_id=304559">می&zwnj;پیچیده&zwnj;ای</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCidei <span class="glyphicon glyphicon-play pull-left play_it" data-id="304559" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304560">
+            <td class="hidden-xs"           >8052</td>
+            <td class=""                    ><a href="token.php?token_id=304560">می&zwnj;پیچیده&zwnj;ایم</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCideim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304560" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304561">
+            <td class="hidden-xs"           >8053</td>
+            <td class=""                    ><a href="token.php?token_id=304561">می&zwnj;پیچیده&zwnj;اید</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCideid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304561" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304562">
+            <td class="hidden-xs"           >8054</td>
+            <td class=""                    ><a href="token.php?token_id=304562">می&zwnj;پیچیده&zwnj;اند</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCideand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304562" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304563">
+            <td class="hidden-xs"           >8055</td>
+            <td class=""                    ><a href="token.php?token_id=304563">همی&zwnj;پیچیده&zwnj;ام</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCideam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304563" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304564">
+            <td class="hidden-xs"           >8056</td>
+            <td class=""                    ><a href="token.php?token_id=304564">همی&zwnj;پیچیده&zwnj;ای</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCidei <span class="glyphicon glyphicon-play pull-left play_it" data-id="304564" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304565">
+            <td class="hidden-xs"           >8057</td>
+            <td class=""                    ><a href="token.php?token_id=304565">همی&zwnj;پیچیده&zwnj;ایم</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCideim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304565" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304566">
+            <td class="hidden-xs"           >8058</td>
+            <td class=""                    ><a href="token.php?token_id=304566">همی&zwnj;پیچیده&zwnj;اید</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCideid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304566" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304567">
+            <td class="hidden-xs"           >8059</td>
+            <td class=""                    ><a href="token.php?token_id=304567">همی&zwnj;پیچیده&zwnj;اند</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCideand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304567" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304568">
+            <td class="hidden-xs"           >8060</td>
+            <td class=""                    ><a href="token.php?token_id=304568">نمی&zwnj;پیچیده&zwnj;ام</a></td>
+            <td class="hidden-xs hidden-sm" >nemipiCideam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304568" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304569">
+            <td class="hidden-xs"           >8061</td>
+            <td class=""                    ><a href="token.php?token_id=304569">نمی&zwnj;پیچیده&zwnj;ای</a></td>
+            <td class="hidden-xs hidden-sm" >nemipiCidei <span class="glyphicon glyphicon-play pull-left play_it" data-id="304569" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304570">
+            <td class="hidden-xs"           >8062</td>
+            <td class=""                    ><a href="token.php?token_id=304570">نمی&zwnj;پیچیده&zwnj;ایم</a></td>
+            <td class="hidden-xs hidden-sm" >nemipiCideim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304570" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304571">
+            <td class="hidden-xs"           >8063</td>
+            <td class=""                    ><a href="token.php?token_id=304571">نمی&zwnj;پیچیده&zwnj;اید</a></td>
+            <td class="hidden-xs hidden-sm" >nemipiCideid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304571" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304572">
+            <td class="hidden-xs"           >8064</td>
+            <td class=""                    ><a href="token.php?token_id=304572">نمی&zwnj;پیچیده&zwnj;اند</a></td>
+            <td class="hidden-xs hidden-sm" >nemipiCideand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304572" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچید</td>
+        </tr>
+         <tr id="token_304573">
+            <td class="hidden-xs"           >8065</td>
+            <td class=""                    ><a href="token.php?token_id=304573">پیچم</a></td>
+            <td class="hidden-xs hidden-sm" >piCam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304573" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304574">
+            <td class="hidden-xs"           >8066</td>
+            <td class=""                    ><a href="token.php?token_id=304574">پیچی</a></td>
+            <td class="hidden-xs hidden-sm" >piCi <span class="glyphicon glyphicon-play pull-left play_it" data-id="304574" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304575">
+            <td class="hidden-xs"           >8067</td>
+            <td class=""                    ><a href="token.php?token_id=304575">پیچد</a></td>
+            <td class="hidden-xs hidden-sm" >piCad <span class="glyphicon glyphicon-play pull-left play_it" data-id="304575" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304576">
+            <td class="hidden-xs"           >8068</td>
+            <td class=""                    ><a href="token.php?token_id=304576">پیچیم</a></td>
+            <td class="hidden-xs hidden-sm" >piCim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304576" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304577">
+            <td class="hidden-xs"           >8069</td>
+            <td class=""                    ><a href="token.php?token_id=304577">پیچید</a></td>
+            <td class="hidden-xs hidden-sm" >piCid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304577" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304578">
+            <td class="hidden-xs"           >8070</td>
+            <td class=""                    ><a href="token.php?token_id=304578">پیچند</a></td>
+            <td class="hidden-xs hidden-sm" >piCand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304578" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304579">
+            <td class="hidden-xs"           >8071</td>
+            <td class=""                    ><a href="token.php?token_id=304579">می&zwnj;پیچم</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304579" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304580">
+            <td class="hidden-xs"           >8072</td>
+            <td class=""                    ><a href="token.php?token_id=304580">می&zwnj;پیچی</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCi <span class="glyphicon glyphicon-play pull-left play_it" data-id="304580" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304581">
+            <td class="hidden-xs"           >8073</td>
+            <td class=""                    ><a href="token.php?token_id=304581">می&zwnj;پیچد</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCad <span class="glyphicon glyphicon-play pull-left play_it" data-id="304581" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304582">
+            <td class="hidden-xs"           >8074</td>
+            <td class=""                    ><a href="token.php?token_id=304582">می&zwnj;پیچیم</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304582" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304583">
+            <td class="hidden-xs"           >8075</td>
+            <td class=""                    ><a href="token.php?token_id=304583">می&zwnj;پیچید</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCid <span class="glyphicon glyphicon-play pull-left play_it" data-id="304583" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304584">
+            <td class="hidden-xs"           >8076</td>
+            <td class=""                    ><a href="token.php?token_id=304584">می&zwnj;پیچند</a></td>
+            <td class="hidden-xs hidden-sm" >mipiCand <span class="glyphicon glyphicon-play pull-left play_it" data-id="304584" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304585">
+            <td class="hidden-xs"           >8077</td>
+            <td class=""                    ><a href="token.php?token_id=304585">همی&zwnj;پیچم</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCam <span class="glyphicon glyphicon-play pull-left play_it" data-id="304585" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304586">
+            <td class="hidden-xs"           >8078</td>
+            <td class=""                    ><a href="token.php?token_id=304586">همی&zwnj;پیچی</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCi <span class="glyphicon glyphicon-play pull-left play_it" data-id="304586" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304587">
+            <td class="hidden-xs"           >8079</td>
+            <td class=""                    ><a href="token.php?token_id=304587">همی&zwnj;پیچد</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCad <span class="glyphicon glyphicon-play pull-left play_it" data-id="304587" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+         <tr id="token_304588">
+            <td class="hidden-xs"           >8080</td>
+            <td class=""                    ><a href="token.php?token_id=304588">همی&zwnj;پیچیم</a></td>
+            <td class="hidden-xs hidden-sm" >hamipiCim <span class="glyphicon glyphicon-play pull-left play_it" data-id="304588" aria-hidden="true"></span></td>
+            <td class=""                    >Verb - فعل</td>
+            <td class="hidden-xs hidden-sm" >پیچیدن/پیچ</td>
+        </tr>
+    </tbody></table>
+    <nav><ul class='pagination pagination-sm'><li><a href='?label=V%25&page=201'>&lsaquo;<span class='hidden-xs'> Prev</span></a></li>
+<li><a href='?label=V%25&page=1'>1</a></li>
+<li><a href='?label=V%25&page=2'>2</a></li>
+<li class='dot'><span>...</span></li>
+<li class='hidden-xs'><a href='?label=V%25&page=197'>197</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=198'>198</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=199'>199</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=200'>200</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=201'>201</a></li>
+<li class='active'><a>202</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=203'>203</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=204'>204</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=205'>205</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=206'>206</a></li>
+<li class='hidden-xs'><a href='?label=V%25&page=207'>207</a></li>
+<li class='dot'><span>...</span></li>
+<li><a href='?label=V%25&page=1250'>1250</a></li>
+<li><a href='?label=V%25&page=1251'>1251</a></li>
+<li><a href='?label=V%25&page=203'><span class='hidden-xs'>Next </span>&rsaquo;</a></li>
+<li><a href='?label=V%25&page=1251'><span class='hidden-xs'>Last </span>&rsaquo;&rsaquo;</a></li>
+</ul></nav>
+<script>
+$('.play_it').on('click', function () {
+    var id = $(this).data('id');
+    $.ajax(
+    {
+        method: "POST",
+        url: "http://lilak-project.com/ajax/speak.php",
+        data: {
+            'id' : id
+        },
+        async: true,
+        cache: false,
+        dataType: "json",
+        success: function (json) {
+            if(json["error"] != null) {
+                console.log("Error", json["error"]);
+                //alert(msg);
+            } else {
+                var sound = new Howl({
+                    src: [json["wave"]]
+                }).play();
+            }
+        },
+        error: function (x, e) {
+            console.log("Error", "The call to the server failed. " + x.statusText);
+        }
+    });
+});
+</script>
+
+
+    <!-- End of page content -->
+    </div>
+    <br>
+    <footer class="footer bg-primary">
+      <div class="container">
+        <div class="footer-links">
+          <a href="https://twitter.com/LilakProject" data-toggle="tooltip" title="Follow Lilak on twitter"><img alt="twitter" src="http://lilak-project.com/images/twitter-32.png"></a>
+          <a href="https://github.com/b00f/lilak" data-toggle="tooltip" title="Fork me on Github"><img alt="github" src="http://lilak-project.com/images/github-32.png"></a>
+          <a href="https://addons.mozilla.org/en-US/firefox/addon/lilak-persian-dictionary/" data-toggle="tooltip" title="Lilak extension for Firefox"><img alt="firefox" src="http://lilak-project.com/images/firefox-32.png"></a>
+        </div>
+        <p class="text-muted">&copy; 2015 - 2020,  The content of this website is available under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="nofollow">Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a>.</p>
+      </div>
+          </footer>
+  </body>
+</html>

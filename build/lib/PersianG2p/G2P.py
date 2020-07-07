@@ -54,15 +54,17 @@ def load_vocab():
 
 class Persian_g2p_converter(object):
     
-    def __init__(self, checkpoint='checkpoint.npy'):
+    def __init__(self, use_large = False  , checkpoint='checkpoint.npy'):
         super().__init__()
+        
+        tihuname = 'tihudictBIG' if use_large else 'tihudict'
         
         self.graphemes = hp.graphemes
         self.phonemes = hp.phonemes
         self.g2idx, self.idx2g, self.p2idx, self.idx2p = load_vocab()
         self.checkpoint = os.path.join(dirname,'data',checkpoint)
         
-        with open(os.path.join(dirname,"data/tihudict.json"), "r") as read_file:
+        with open(os.path.join(dirname,f"data/{tihuname}.json"), "r") as read_file:
             tihu = json.load(read_file)
         self.tihu = tihu
         self.load_variables()
@@ -200,10 +202,21 @@ class Persian_g2p_converter(object):
         return self(text,tidy,secret)
 
 
-Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت", tidy = False)
-Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت")
-Persian_g2p_converter().transliterate( "زان یار دلنوازم شکریست با شکایت", secret = True)
 
+if __name__ == '__main__':
+
+    
+    conv1 = Persian_g2p_converter()
+    conv2 = Persian_g2p_converter(use_large = True)
+    
+    s = conv1.transliterate( "زان یار دلنوازم شکریست با شکایت", tidy = False)
+    print(s)
+    s = conv2.transliterate( "زان یار دلنوازم شکریست با شکایت", tidy = False)
+    print(s)
+    s = conv1.transliterate( "زان یار دلنوازم شکریست با شکایت")
+    print(s)
+    s = conv1.transliterate( "زان یار دلنوازم شکریست با شکایت", secret = True)
+    print(s)
 
 
 
