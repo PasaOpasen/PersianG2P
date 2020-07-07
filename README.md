@@ -25,7 +25,7 @@ Features of farsi:
 
 ## How it works
 
-There is the [dictionary](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/data/tihudict.dict) with 1867 pairs like (persian word, pronouncing of one). Some of these word (in English): *water, there, feeling, use, people, throw, he, can, highway, was, hall, guarantee, production, sentence, account, god, self, they know, dollar, mind, novel, earthquake, organizing, weapons, personal, martyr, necessity, opinion, french, legal, london, deprived, people, studies, source, fruit, they take, system, the light, are, and, leg, bridge, what, done, do*.
+There is the [dictionary](https://github.com/PasaOpasen/PersianG2P/blob/master/PersianG2p/data/tihudict.dict) with 1867 pairs like (persian word, pronouncing of one); you also can load the dictionary with over 48 000 words by using ```use_large = True``` in constuctor. Some of these word (in English): *water, there, feeling, use, people, throw, he, can, highway, was, hall, guarantee, production, sentence, account, god, self, they know, dollar, mind, novel, earthquake, organizing, weapons, personal, martyr, necessity, opinion, french, legal, london, deprived, people, studies, source, fruit, they take, system, the light, are, and, leg, bridge, what, done, do*.
 
 Firstly, your text is **normalized** by [hazm](https://github.com/sobhe/hazm), after --- **tokenized**. 
 1. If token is not a symbol of arabic alphabet then it does nothing. 
@@ -78,6 +78,8 @@ pip install PersianG2p
 from PersianG2p import Persian_g2p_converter
 
 PersianG2Pconverter = Persian_g2p_converter()
+# or 
+## PersianG2Pconverter = Persian_g2p_converter(use_large = True)
 
 PersianG2Pconverter.transliterate('ما الان درحال بازی بودیم', tidy = False)
 # ' m A   a l A n  darhAl  b A z i   b u d i m '
