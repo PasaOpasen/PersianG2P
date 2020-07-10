@@ -3,6 +3,17 @@
 [![PyPI
 version](https://badge.fury.io/py/PersianG2p.svg)](https://pypi.org/project/PersianG2p/)
 
+- [How it works](#how-it-works)
+- ["Tidy" argument](#-tidy--argument)
+- [Comparison with [epitran](https://github.com/dmort27/epitran)](#comparison-with--epitran--https---githubcom-dmort27-epitran-)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Telegram bot @PersianG2Pbot](#telegram-bot--persiang2pbot)
+- [What can u do better](#what-can-u-do-better)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
 Features of farsi:
