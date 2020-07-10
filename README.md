@@ -5,7 +5,7 @@ version](https://badge.fury.io/py/PersianG2p.svg)](https://pypi.org/project/Pers
 
 - [How it works](#how-it-works)
 - ["Tidy" argument](#-tidy--argument)
-- [Comparison with [epitran](https://github.com/dmort27/epitran)](#comparison-with--epitran--https---githubcom-dmort27-epitran-)
+- [Comparison with epitran](#comparison-with--epitran)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Telegram bot @PersianG2Pbot](#telegram-bot--persiang2pbot)
