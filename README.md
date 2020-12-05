@@ -3,20 +3,25 @@
 [![PyPI
 version](https://badge.fury.io/py/PersianG2p.svg)](https://pypi.org/project/PersianG2p/)
 
-- [How it works](#how-it-works)
-- ["Tidy" argument](#-tidy--argument)
-- [Comparison with epitran](#comparison-with--epitran)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Telegram bot @PersianG2Pbot](#telegram-bot--persiang2pbot)
-- [What can u do better](#what-can-u-do-better)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+```
+pip install PersianG2p
+```
 
 
 It uses [this neural net](https://github.com/AzamRabiee/Persian_G2P) to convertion persian texts (with arabic symbols) into phonemes text.
 
-Features of farsi:
+- [Simple persian (farsi) grapheme-to-phoneme converter](#simple-persian-farsi-grapheme-to-phoneme-converter)
+  - [Features of farsi](#features-of-farsi)
+  - [How it works](#how-it-works)
+  - ["Tidy" argument](#tidy-argument)
+  - [Comparison with epitran](#comparison-with-epitran)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Telegram bot @PersianG2Pbot](#telegram-bot-persiang2pbot)
+  - [What can u do better](#what-can-u-do-better)
+
+## Features of farsi
 
 * arabic notation
 * the characters have different forms depended on position into word
