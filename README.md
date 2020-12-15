@@ -2,7 +2,9 @@
 
 [![PyPI
 version](https://badge.fury.io/py/PersianG2p.svg)](https://pypi.org/project/PersianG2p/)
-
+[![Downloads](https://pepy.tech/badge/persiang2p)](https://pepy.tech/project/persiang2p)
+[![Downloads](https://pepy.tech/badge/persiang2p/month)](https://pepy.tech/project/persiang2p)
+[![Downloads](https://pepy.tech/badge/persiang2p/week)](https://pepy.tech/project/persiang2p)
 
 ```
 pip install PersianG2p
